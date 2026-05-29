@@ -1,0 +1,2187 @@
+,incident_date,state,city_or_county,address,killed,injured
+3,June 28 2023,North Carolina,Greensboro,5100 Bayberry St,3,2.0
+9,June 25 2023,Indiana,Indianapolis,800 block of Broad Ripple Ave,3,1.0
+14,June 21 2023,Texas,Fort Worth,2120 Handley Dr,1,3.0
+16,June 19 2023,Illinois,Chicago,3200 block of W 79th St,1,3.0
+20,June 18 2023,Idaho,Kellogg,525 W Cameron Ave,4,0.0
+22,June 18 2023,Illinois,Chicago,9900 block of S Princeton Ave,2,3.0
+23,June 18 2023,Illinois,Chicago,5400 block of W Crystal St,1,3.0
+26,June 17 2023,Illinois,Chicago,1900 block of N Stockton Dr,0,5.0
+27,June 17 2023,Pennsylvania,Philadelphia,1700 block of Ringgold St,0,5.0
+29,June 17 2023,North Carolina,Winston Salem (Winston-salem),800 block of Utah Dr,0,4.0
+31,June 17 2023,North Carolina,Charlotte,6432 E Independence Blvd,1,3.0
+32,June 17 2023,Louisiana,Alexandria,3323 Willow Glen River Rd,1,3.0
+33,June 17 2023,Washington,Quincy,754 Silica Rd NW,2,2.0
+34,June 17 2023,Ohio,Cleveland,11921 Miles Ave,0,4.0
+37,June 16 2023,New Jersey,Clifton,39 Harding Ave,0,4.0
+41,June 14 2023,Oklahoma,Tulsa,S Harvard Ave and E 31st St,1,3.0
+42,June 13 2023,Ohio,Cincinnati,2300 block of Harrison Ave,0,4.0
+43,June 13 2023,Colorado,Denver,2000 block of Market St,0,9.0
+44,June 11 2023,New York,Syracuse,100 block of Davis St,0,4.0
+45,June 11 2023,Texas,Houston,6003 Richmond Ave,0,6.0
+46,June 11 2023,California,Antioch,3300 block of Sunset Ln,1,6.0
+47,June 11 2023,Louisiana,Labadieville,3006 LA-1,0,7.0
+48,June 11 2023,Maryland,Annapolis,1004 Paddington Pl,3,3.0
+49,June 11 2023,Illinois,Champaign,1000 block of N 6th St,0,4.0
+50,June 11 2023,Texas,Crosby,12028 Crosby-Lynchburg  Rd,1,4.0
+54,June 9 2023,California,San Francisco,24th St and Treat Ave,0,9.0
+56,June 8 2023,South Carolina,North Charleston,4106 Dorchester Rd,1,3.0
+61,June 4 2023,Illinois,Chicago,4800 block of W Iowa St,1,6.0
+64,June 3 2023,Oregon,Portland,NE Webster St and NE 55th Ave,0,4.0
+65,June 2 2023,Tennessee,Memphis,4600 block of Mill Stream Dr,0,4.0
+67,May 31 2023,Ohio,Cleveland,400 block of E 123rd St,1,3.0
+71,May 30 2023,Illinois,Chicago,7059 S Halsted St,0,4.0
+72,May 29 2023,Florida,Hollywood,1203 N Broadwalk,0,9.0
+76,May 29 2023,New York,Syracuse,400 block of Bellevue Ave,1,3.0
+78,May 28 2023,Pennsylvania,Philadelphia,4500 block of Mulberry St,1,3.0
+79,May 28 2023,Pennsylvania,Harrisburg,1000 block of N 3rd St,0,4.0
+81,May 28 2023,Tennessee,Memphis,400 block of Deerskin Dr,0,4.0
+82,May 27 2023,Ohio,Cleveland,17426 Harvard Ave,0,4.0
+83,May 27 2023,California,Moreno Valley,24800 block of Evening Shadow Ct,0,4.0
+84,May 27 2023,Arkansas,Marianna,382 W Chestnut St,1,4.0
+85,May 27 2023,New Mexico,Red River,400 E Main St,3,4.0
+86,May 27 2023,Illinois,Chicago,7900 block of S Ashland Ave,1,3.0
+89,May 26 2023,Maryland,Baltimore,W Saratoga St and N Eutaw St,0,5.0
+90,May 26 2023,Georgia,Brunswick,100 block of Wasp Dr,0,5.0
+91,May 26 2023,Virginia,Woodbridge,14723 Birchdale Ave,3,1.0
+93,May 25 2023,Maryland,Baltimore,3300 block of Ramona Ave,0,4.0
+94,May 23 2023,Texas,Texarkana,563 Lemon Acre,4,0.0
+99,May 21 2023,Missouri,Kansas City,4244 Indiana Ave,3,2.0
+101,May 21 2023,Louisiana,Thibodaux,300 block of Hyland Dr,0,7.0
+102,May 20 2023,California,Los Angeles,1010 Wilshire Blvd,0,4.0
+103,May 20 2023,Georgia,Thomson,511 Knox St,0,4.0
+104,May 20 2023,Louisiana,New Orleans,6000 block of Beechcraft St,2,2.0
+105,May 20 2023,Kentucky,Louisville,600 block of N 34th St,0,4.0
+106,May 18 2023,Texas,San Antonio,5138 UTSA Blvd,1,3.0
+110,May 14 2023,Indiana,Anderson,1600 block of Madison Ave,0,6.0
+112,May 14 2023,Pennsylvania,Hazleton,W 11th St and N Manhattan Ct,0,4.0
+113,May 13 2023,Louisiana,Shreveport,3600 block of Hollywood Ave,0,4.0
+115,May 13 2023,Georgia,Augusta,120 Sand Bar Ferry Rd,2,4.0
+118,May 13 2023,Arizona,Yuma,3800 block of S J Edward Dr,2,5.0
+119,May 12 2023,Maryland,Laurel,300 block of Domer Ave,0,4.0
+121,May 11 2023,Pennsylvania,Philadelphia,5900 block of North 21st St,1,3.0
+122,May 11 2023,Illinois,Chicago,600 block of W 61st Pl,2,3.0
+123,May 10 2023,Colorado,Denver,9600 E Girard Ave,1,4.0
+124,May 7 2023,New Jersey,Newark,300 block of Orange St,1,3.0
+129,May 7 2023,Missouri,Columbia,904 Business Loop 70 E,1,3.0
+133,May 6 2023,California,Chico,1000 block of Columbus Ave,1,5.0
+134,May 6 2023,Ohio,Columbus,624 N High St,0,9.0
+137,May 5 2023,Mississippi,Natchez,261 Devereux Dr,2,3.0
+138,May 5 2023,Mississippi,Vicksburg,1320 Levee St,0,4.0
+139,May 5 2023,Louisiana,Bastrop,Welch Ave. and Pruitt St,2,2.0
+144,May 2 2023,Florida,Lake Wales,614 Dawnlight Dr,4,0.0
+147,April 30 2023,Kentucky,Paducah,505 S 8th St,0,4.0
+149,April 30 2023,Oklahoma,Oklahoma City,3000 W Memorial Rd,1,3.0
+150,April 30 2023,California,Mojave,15900 block of H St,4,0.0
+152,April 30 2023,Georgia,Athens,1155 Mitchell Bridge Rd,1,3.0
+160,April 28 2023,Texas,Cleveland,171 Walter Dr,5,0.0
+162,April 22 2023,North Carolina,Winston Salem (Winston-salem),1256 Alder St,1,4.0
+166,April 20 2023,Connecticut,Hartford,Huntington St and Asylum Ave,1,3.0
+167,April 18 2023,Maine,Bowdoin,1459 Augusta Rd,4,3.0
+168,April 18 2023,North Carolina,Fayetteville,200 block of Alphin St,1,3.0
+174,April 15 2023,Hawaii,Waianae,87131 Kaukamana Rd,2,3.0
+176,April 15 2023,New Jersey,Newark,400 block of Leslie St,1,3.0
+181,April 13 2023,Michigan,Detroit,13570 block of Penrod St,0,4.0
+184,April 12 2023,North Carolina,Goldsboro,112 N. Leslie St,1,5.0
+187,April 10 2023,Kentucky,Louisville,333 E Main St,5,5.0
+188,April 9 2023,Florida,Orlando,5344 Lescot Ln,3,2.0
+190,April 7 2023,South Carolina,Isle Of Palms,1140 Ocean Blvd,0,5.0
+192,April 6 2023,Pennsylvania,Philadelphia,3700 block of N Carlisle St,0,4.0
+193,April 5 2023,Virginia,Virginia Beach,700 block of Lake Edward Dr,0,4.0
+194,April 4 2023,Pennsylvania,Philadelphia,3400 block of Rorer St,1,4.0
+198,April 2 2023,District of Columbia,Washington,2900 block of Martin Luther King Jr Ave SE,0,4.0
+200,April 2 2023,North Carolina,Fayetteville,5044 Yadkin Rd,1,4.0
+205,March 26 2023,Pennsylvania,Philadelphia,1900 block of N 19th St,2,2.0
+206,March 26 2023,Minnesota,Minneapolis,5601 Brooklyn Blvd,0,6.0
+207,March 26 2023,Arkansas,Little Rock,3002 Washington St,2,5.0
+211,March 25 2023,Louisiana,Shreveport,200 block of Texas St,1,5.0
+218,March 18 2023,Ohio,Columbus,1570 S. High St,2,4.0
+219,March 18 2023,Illinois,Chicago,2425 E 72nd St,0,4.0
+220,March 18 2023,Texas,Dallas,Gannon Ln and S Westmoreland Rd,0,4.0
+222,March 14 2023,Alabama,Birmingham,8400 block of 8th Ave S,4,0.0
+224,March 12 2023,Texas,Laredo,4800 block of Roque Loop,0,14.0
+225,March 12 2023,Texas,Dallas,3626 Villaverde Ave,4,0.0
+226,March 11 2023,New York,Brooklyn,E 45th St and Snyder Ave,1,3.0
+228,March 10 2023,Florida,Hialeah,14811 NW 87th Ct,4,0.0
+231,March 6 2023,California,Sacramento,2200 block of Rogue River Dr,3,1.0
+235,March 5 2023,Florida,Lake City,NW Alma Ave,0,4.0
+237,March 4 2023,California,Los Angeles,E 76th Place and S Main St,0,4.0
+238,March 4 2023,Georgia,Douglasville,3377 Talkeetna Rd,2,7.0
+239,March 4 2023,Missouri,Cape Girardeau,15 N Main St,0,5.0
+240,March 4 2023,California,San Pedro,Paseo Del Mar and Graysby Ave,0,4.0
+242,February 27 2023,Tennessee,Memphis,W Essex Ave and Arkansas St,2,2.0
+243,February 27 2023,Ohio,New Richmond,1195 Riebel Ridge,3,1.0
+247,February 25 2023,Minnesota,Saint Paul,500 Dale St N,2,3.0
+249,February 24 2023,Louisiana,Abbeville,1616 Veterans Memorial Dr,0,4.0
+251,February 22 2023,Florida,Orlando,6100 block of Hialeah St,3,2.0
+252,February 21 2023,Colorado,Colorado Springs,3945 Palmer Park Blvd,0,5.0
+254,February 19 2023,Indiana,Indianapolis,8005 42nd St,0,4.0
+260,February 17 2023,Mississippi,Coldwater,3196 Arkabutla Dam Road,6,0.0
+261,February 17 2023,Georgia,Columbus,4499 Warm Springs Rd Connector,0,9.0
+263,February 15 2023,Texas,El Paso,8401 Gateway Blvd W,1,3.0
+264,February 14 2023,Pennsylvania,Pittsburgh,1101 N Murtland St,0,4.0
+265,February 14 2023,New York,Buffalo,Crossman Ave and Heminway St,0,5.0
+267,February 13 2023,Michigan,East Lansing,509 E Circle Dr,3,5.0
+268,February 12 2023,Mississippi,Louisville,309 E John C Stennis Dr,1,5.0
+269,February 10 2023,New York,Brooklyn,3222 Mermaid Ave,0,4.0
+270,February 10 2023,New York,Bronx,631 E Tremont Ave,2,2.0
+272,February 8 2023,Louisiana,New Orleans,Bullard Ave and Chef Menteur Hwy,2,4.0
+273,February 8 2023,North Carolina,Elizabeth City,1000 block of Walker Ave,0,4.0
+275,February 5 2023,Arizona,Tucson,4000 block of E Agate Knoll Dr,1,3.0
+280,February 1 2023,California,Los Angeles,711 E. 108 St,0,5.0
+282,January 31 2023,North Carolina,Durham,4100 block of Sudbury Rd,2,2.0
+283,January 30 2023,Florida,Lakeland,923 N Iowa Ave,0,11.0
+284,January 30 2023,Texas,Dallas,5800 block of Bonnie View Rd,1,3.0
+285,January 29 2023,Tennessee,Luttrell,380 Clinch Valley Rd,4,0.0
+286,January 29 2023,Ohio,Columbus,1680 Karl Ct,1,3.0
+295,January 24 2023,North Carolina,Red Springs,100 block of Samuel Williams Dr,3,1.0
+296,January 23 2023,Illinois,Chicago,2909 E 78th St,2,3.0
+297,January 23 2023,California,Oakland,5910 MacArthur Blvd,1,4.0
+299,January 22 2023,Mississippi,Robinsonville (Tunica Resorts),1010 Casino Center Dr,0,4.0
+300,January 22 2023,Louisiana,Shreveport,1600 Sugar Ln,1,7.0
+301,January 22 2023,Louisiana,Baton Rouge,4619 Bennington Ave,0,12.0
+302,January 21 2023,California,Monterey Park,122 W Garvey Ave,11,9.0
+303,January 21 2023,Arizona,Yuma,1300 block of W 9th St,0,5.0
+304,January 17 2023,Texas,Houston,6729 Lockwood Dr,0,4.0
+311,January 15 2023,Arizona,Phoenix,S 46th Pl and E Broadway Rd,0,4.0
+312,January 14 2023,Missouri,Saint Louis (Moline Acres),Berwyn Dr and Lanier Dr,0,4.0
+313,January 13 2023,Ohio,Cleveland,3719 Mack Ct,4,1.0
+314,January 9 2023,Minnesota,Minneapolis,2218 E Lake St,0,4.0
+316,January 9 2023,Colorado,Denver,18th St and Blake St,0,4.0
+317,January 8 2023,Minnesota,Minneapolis,930 Hennepin Ave,0,4.0
+318,January 8 2023,Georgia,Albany,1021 S McKinley St,0,4.0
+319,January 7 2023,North Carolina,High Point,2734 Mossy Meadow Dr,4,0.0
+323,January 5 2023,Louisiana,New Orleans,St Andrew St and Rev John Raphael Jr Way,2,3.0
+325,January 4 2023,Utah,Cedar City (Enoch),4923 N Albert Dr,7,0.0
+327,January 4 2023,Virginia,Dumfries,17900 block of Milroy Dr,1,4.0
+329,January 3 2023,Louisiana,New Orleans,2600 block of S. Rocheblave St,0,5.0
+330,January 1 2023,Florida,Ocala,1600 block of SW 5th St,2,4.0
+331,January 1 2023,Illinois,Chicago,300 block of E 57th St,1,3.0
+332,January 1 2023,Florida,Miami Gardens,NW 171st St and NW 30th Ave,0,9.0
+333,January 1 2023,North Carolina,Durham,1000 N Miami Blvd,0,5.0
+334,January 1 2023,Pennsylvania,Allentown,1140 E Clair St,0,4.0
+336,December 31 2022,Alabama,Mobile,200 block of Dauphin St,1,7.0
+337,December 31 2022,Arizona,Phoenix,4201 N 19th Ave,0,9.0
+339,December 30 2022,Texas,Humble,4800 block of Park Square Ln,2,3.0
+340,December 28 2022,New York,Bronx,851 E Tremont Ave,1,3.0
+342,December 27 2022,District of Columbia,Washington,2300 block of Pennsylvania Ave SE,0,4.0
+343,December 27 2022,Ohio,Columbus,900 block of Bellows Ave,0,5.0
+345,December 26 2022,Louisiana,New Orleans,2031 St Maurice Ave,2,4.0
+346,December 24 2022,Mississippi,Columbus,90 block of Luxapalila Dr,1,3.0
+347,December 23 2022,Kansas,Wichita,900 block of S Mission Rd,2,2.0
+351,December 17 2022,Georgia,Atlanta,3000 Continental Colony Pkwy SW,2,3.0
+352,December 16 2022,Georgia,Valdosta,611 E Ann St,2,2.0
+354,December 16 2022,Texas,Dallas,2691 John West Rd,0,5.0
+355,December 16 2022,Tennessee,Memphis,831 Springdale Run Dr,0,5.0
+359,December 9 2022,Arizona,Phoenix,S 21st and W Burgess LN,1,3.0
+360,December 8 2022,Michigan,Detroit,1114 Washington Blvd,0,4.0
+362,December 6 2022,New York,Bronx,Daly Ave and E 180th St,0,4.0
+364,December 4 2022,Illinois,Zion,1800 block of Horeb Ave,0,5.0
+365,December 1 2022,Texas,San Antonio,4200 block of S Cibolo St,0,4.0
+366,November 30 2022,Louisiana,Lake Charles,510 Broad St,0,8.0
+369,November 26 2022,Alabama,Mobile,216 Dauphin St,0,4.0
+370,November 26 2022,Georgia,Atlanta,117 17th St NW,2,4.0
+371,November 26 2022,Illinois,Chicago,12700 block of S Halsted St,2,2.0
+372,November 25 2022,Georgia,Atlanta,2700 block of Gresham Rd,0,0.0
+373,November 24 2022,Texas,Houston,1511 Baggett Ln,2,2.0
+376,November 23 2022,Pennsylvania,Philadelphia,1901 N 60th St,0,4.0
+380,November 20 2022,Texas,Dallas,2000 S Beckley Ave,0,4.0
+389,November 12 2022,California,Sacramento,4000 block of May St,0,4.0
+391,November 12 2022,California,Indio,Lilac Ct and Golden Rod Dr,1,3.0
+393,November 12 2022,Tennessee,Memphis,S Goodlett St and Sheffield Ave,0,4.0
+398,November 6 2022,California,Tulare,Rd 84 and Ave 208,0,5.0
+399,November 6 2022,Florida,Gainesville,500 SW 2nd Ave,0,4.0
+400,November 5 2022,New York,Buffalo,30 E Amherst St,0,4.0
+403,November 4 2022,Maryland,La Plata,3018 Wildflower Dr,4,0.0
+404,November 3 2022,Illinois,Chicago,3700 block of W Chicago Ave,0,4.0
+408,November 1 2022,Maryland,Baltimore,2000 block of W Pratt St,0,4.0
+411,October 31 2022,Illinois,Chicago,S California Ave and W Polk St,1,13.0
+412,October 30 2022,Tennessee,Memphis,3920 Park Ave,1,3.0
+414,October 30 2022,Pennsylvania,Philadelphia,601 Spring Garden St,0,6.0
+415,October 30 2022,California,Covina,17000 block of E Bellbrook St,2,2.0
+416,October 30 2022,South Carolina,Charleston,1900 Hazelwood Dr,0,4.0
+419,October 28 2022,Ohio,Toledo,Junction Ave and Belmont Ave,2,2.0
+422,October 25 2022,Ohio,Hamilton,700 block of S 2nd St,2,2.0
+423,October 25 2022,North Carolina,Greensboro,900 block of Circle Dr,2,4.0
+424,October 24 2022,Missouri,Saint Louis,3125 S Kingshighway Blvd,2,4.0
+425,October 24 2022,Illinois,Chicago,3200 block of W 30th St,1,3.0
+426,October 23 2022,Texas,Brownsville,1200 block of W Saint Francis St,0,5.0
+427,October 23 2022,Illinois,Chicago,4300 block of S Kedzie Ave,3,2.0
+433,October 21 2022,Mississippi,Cleveland,511 Lee St,1,3.0
+434,October 21 2022,Louisiana,New Orleans,2200 block of N Galvez St,1,3.0
+435,October 21 2022,Wisconsin,Hartland,700 Mansfield Court,4,0.0
+437,October 20 2022,Ohio,Cleveland,4497 State Rd,0,5.0
+438,October 17 2022,Virginia,Woodbridge,5297 Mansfield Ct,4,0.0
+439,October 16 2022,Texas,El Paso,8500 block of Dyer St,1,3.0
+442,October 16 2022,Virginia,Harrisonburg,1500 block of Devon Ln,0,8.0
+443,October 15 2022,Colorado,Denver,900 Dakin St,1,7.0
+446,October 15 2022,New York,Freeport,Babylon Tpke and Independence Ave,0,4.0
+449,October 13 2022,North Carolina,Raleigh,5300 block of Sahalee Way,5,2.0
+450,October 13 2022,North Carolina,New Bern,2100 block of New Bern Ave,0,4.0
+451,October 13 2022,Alabama,Lanett,1912 50th Ave SW,0,6.0
+455,October 9 2022,Oklahoma,Henryetta,US-75 and Catalpa Rd,4,0.0
+456,October 9 2022,Arkansas,Jacksonville,300 Marshall Rd,1,3.0
+459,October 8 2022,Alabama,Hurtsboro,Ross Rd,2,2.0
+462,October 7 2022,Oregon,Portland,SE 92nd Ave and Powell Blvd,0,4.0
+463,October 7 2022,Texas,Fort Worth,1200 block of Jessamine St,4,0.0
+467,October 2 2022,Tennessee,Nashville,600 block of S 7th St,0,4.0
+468,October 2 2022,Washington,Seattle,4300 block of University Way NE,0,4.0
+469,October 1 2022,Pennsylvania,Philadelphia,5000 block of Frankford Ave,0,4.0
+475,September 28 2022,Ohio,Columbus,1680 Karl Ct,0,5.0
+477,September 28 2022,Alabama,Uniontown,100-104 Birch Rd,0,4.0
+478,September 27 2022,New York,Corona (Queens),88-01 Atlantic Ave,0,4.0
+479,September 27 2022,New York,New York (Manhattan),W 116th St and 7th Ave,0,4.0
+480,September 27 2022,North Carolina,Goldsboro,1200 block of Olivia Ln,0,4.0
+482,September 27 2022,Florida,Jacksonville,A Philip Randolph Blvd and Union St,0,4.0
+483,September 25 2022,Pennsylvania,Harrisburg,2300 block of Woodlawn St,0,4.0
+485,September 24 2022,Ohio,Columbus,E 5th Ave and Osborn Ave,1,3.0
+486,September 24 2022,Georgia,Louisville,Forrest Dr,1,3.0
+488,September 22 2022,Illinois,Chicago,E 35th St and S Prairie Ave,0,4.0
+489,September 20 2022,New York,Mount Vernon,333 S 8th Ave,0,4.0
+492,September 18 2022,New York,Corona (Queens),41st Ave and Warren St,1,3.0
+493,September 18 2022,Wisconsin,Kenosha,2232 Roosevelt Rd,2,2.0
+494,September 18 2022,Nevada,Las Vegas,4800 block of Holt Ave,0,5.0
+496,September 17 2022,Missouri,Blue Springs,US 40 and Adams Dairy Pkwy,0,5.0
+499,September 14 2022,Wisconsin,Milwaukee,1300 block of E Hamilton St,0,4.0
+501,September 14 2022,California,Los Angeles,312 E 5th St,0,4.0
+503,September 13 2022,California,Oakland,92nd Ave and Peach St,0,4.0
+504,September 12 2022,Oklahoma,Oklahoma City,1400 block of S Indiana Ave,0,4.0
+507,September 11 2022,Michigan,Grand Rapids,,0,4.0
+509,September 10 2022,Indiana,Plainfield,2688 E Main St,2,2.0
+511,September 9 2022,New York,Bronx,810 Astor Ave,0,4.0
+513,September 9 2022,Minnesota,Minneapolis,328 W Broadway Ave,1,3.0
+519,September 5 2022,Missouri,Saint Louis,4400 block of Red Bud Ave,1,3.0
+521,September 5 2022,Pennsylvania,Philadelphia,W Russell St and N 8th St,2,4.0
+523,September 4 2022,Minnesota,Saint Paul,951 Case Ave E,3,2.0
+527,September 3 2022,California,Chico,1500 block of W 5th St,0,5.0
+528,September 3 2022,Illinois,Yorkville,8400 block of Immanuel Rd,0,4.0
+530,September 3 2022,Maryland,Capitol Heights,1428 Ritchie Rd,1,3.0
+531,September 2 2022,California,Fresno,Effie St and Grant Ave,2,2.0
+532,September 2 2022,Minnesota,Minneapolis,700 W Broadway Ave,0,4.0
+534,August 29 2022,Missouri,Saint Louis (Jennings),8800 block of Cozens Ave,0,4.0
+535,August 28 2022,Wisconsin,Clinton,9221 E Little Ln,0,4.0
+536,August 28 2022,Oregon,Bend,2650 NE Hwy 20,2,2.0
+541,August 28 2022,Arizona,Phoenix,21636 N 26th Ave,2,5.0
+542,August 28 2022,Texas,Houston,8021 Dunlap St,3,2.0
+545,August 27 2022,Kentucky,Lexington,207 Legends Ln,0,7.0
+548,August 25 2022,Alabama,Birmingham,8th St W and Finley Blvd,1,3.0
+550,August 24 2022,District of Columbia,Washington,27 O Street NW,2,3.0
+555,August 20 2022,Delaware,Wilmington,Tatnall St and W 27th St,0,4.0
+556,August 20 2022,North Carolina,Asheville,11 Grove St,0,4.0
+557,August 20 2022,Illinois,Chicago,6200 block of S Michigan Ave,0,5.0
+560,August 18 2022,Virginia,Norfolk,7433 Fenner St,3,2.0
+562,August 17 2022,Pennsylvania,Philadelphia,2800 block of Bonsal St,0,4.0
+565,August 16 2022,Tennessee,Memphis,Austin Peay Hwy and New Covington Pike,0,6.0
+567,August 14 2022,Illinois,Chicago,1800 block of W 78th St,1,4.0
+568,August 14 2022,Maryland,Baltimore,5100 block of Harford Rd,1,3.0
+569,August 13 2022,Ohio,Cleveland,7500 block of Bessemer Ave,1,4.0
+572,August 13 2022,Washington,Renton,1501 Orcas Ave,0,4.0
+574,August 12 2022,Missouri,Saint Louis,5166 Dr Martin Luther King Dr,1,3.0
+581,August 6 2022,Michigan,Detroit,Saratoga St and Gratiot Ave,1,4.0
+582,August 6 2022,Michigan,Detroit,19000 block of Andover St,1,6.0
+584,August 5 2022,Virginia,Norfolk,216 E Plume St,0,4.0
+585,August 5 2022,Ohio,Dayton,7120 Hardwicke Pl,4,0.0
+589,August 3 2022,California,Panorama City,Parthenia St and Tobias Ave,1,4.0
+592,August 2 2022,Florida,Orlando,9873 Lake District Ln,4,0.0
+595,August 1 2022,District of Columbia,Washington,444 16th St NE,1,5.0
+596,July 31 2022,Indiana,South Bend,St Joseph St and Milton St,0,4.0
+599,July 31 2022,Michigan,Detroit,11637 Coyle St,2,6.0
+601,July 31 2022,Connecticut,Hartford,1994 Main St,0,4.0
+602,July 30 2022,Louisiana,Monroe,2000 Peach St,1,3.0
+604,July 30 2022,Georgia,Girard,232 Claxton Rd,1,4.0
+605,July 29 2022,Maryland,Baltimore,3100 block of W North Ave,2,2.0
+612,July 24 2022,South Carolina,Bennettsville,614 Hwy 15-401 Bypass E,1,3.0
+613,July 24 2022,California,San Pedro,560 N Western Ave,2,6.0
+614,July 24 2022,Georgia,Atlanta,1695 Northside Dr NW,0,8.0
+615,July 24 2022,Texas,Fort Worth,2350 S Riverside Dr,1,3.0
+621,July 23 2022,Illinois,Chicago,2700 block of W Jackson Blvd,0,4.0
+622,July 23 2022,Illinois,Rockford,1401 N 2nd St,2,2.0
+623,July 23 2022,Michigan,Kalamazoo,1300 block of N Church St,0,9.0
+624,July 21 2022,California,Los Angeles,210 W 7th St,0,5.0
+626,July 18 2022,Georgia,Atlanta,440 Thomasvillle Blvd,0,5.0
+628,July 17 2022,New York,Brooklyn,265 Livonia Ave,0,4.0
+629,July 17 2022,Michigan,Detroit,,0,4.0
+631,July 17 2022,Indiana,Beech Grove,1100 S 9th Ave,1,3.0
+634,July 17 2022,New Jersey,Newark,751 Broadway,0,4.0
+635,July 17 2022,Washington,Vancouver,E 11th St and E McLoughlin Blvd,2,2.0
+637,July 16 2022,Ohio,Columbus,3475 Sullivant Ave,2,2.0
+638,July 16 2022,South Carolina,North Charleston,8440 Dorchester Rd,0,4.0
+639,July 16 2022,Texas,Houston,2331 Bammelwood Dr,4,0.0
+641,July 16 2022,Pennsylvania,Philadelphia,1300 block of E Luzerne St,0,4.0
+642,July 14 2022,Illinois,Chicago,4400 block of W Maypole St,0,4.0
+643,July 14 2022,Pennsylvania,Philadelphia,1901 Spring Garden St,0,4.0
+644,July 13 2022,Pennsylvania,Philadelphia,Wyalusing Ave and N Creighton St,0,4.0
+646,July 13 2022,Minnesota,Minneapolis,1818 Lowry Ave N,0,4.0
+647,July 12 2022,Massachusetts,Boston,39 Warren St,0,4.0
+652,July 10 2022,New York,Brooklyn,The Boardwalk and W 21st St,0,5.0
+654,July 10 2022,Illinois,Chicago,448 N State St,0,4.0
+655,July 9 2022,Alabama,Jacksons Gap,Manoy Dr,0,4.0
+656,July 8 2022,North Carolina,Greensboro,1200 block of Fairview St,0,4.0
+665,July 4 2022,Illinois,Highland Park,Central Ave and 2nd St,7,30.0
+666,July 4 2022,Massachusetts,Boston,Dorchester Ave and Bailey St,0,4.0
+669,July 4 2022,California,Sacramento,1525 L St,1,4.0
+671,July 4 2022,Colorado,Denver,2100 block of W Pacific Pl,1,3.0
+672,July 4 2022,New York,Corona (Queens),171st St and 137th Ave,0,4.0
+673,July 4 2022,Illinois,Chicago,6500 block of S Martin Luther King Dr,0,5.0
+674,July 4 2022,Virginia,Richmond,10 block of W Broad St,0,6.0
+680,July 2 2022,New York,Corona (Queens),129-09 89th Ave,1,3.0
+681,July 2 2022,North Carolina,Clinton,506 Stetson St,0,6.0
+682,July 1 2022,Illinois,Chicago,3800 block of W Monroe St,0,4.0
+684,July 1 2022,Illinois,Chicago,408 S Wells St,2,3.0
+687,June 29 2022,New Jersey,Jersey City,166 Bayview Ave,0,4.0
+688,June 29 2022,Pennsylvania,Philadelphia,1100 block of E Price St,0,4.0
+690,June 26 2022,Georgia,Blakely,N Church St and Washington Ave,1,6.0
+691,June 26 2022,Virginia,Sutherlin,1220 Kerns Church Rd,1,7.0
+692,June 26 2022,New Jersey,Paterson,Madison St and Essex St,0,5.0
+694,June 26 2022,Texas,Winona,18005 FM 2767,0,5.0
+695,June 26 2022,Washington,Tacoma,5415 S Tacoma Way,0,8.0
+696,June 25 2022,New York,Brooklyn,690 Quincy St,0,4.0
+697,June 25 2022,Texas,Houston,4207 Madden St,2,2.0
+698,June 25 2022,Minnesota,Minneapolis,SE Main St and 6th Ave SE,0,4.0
+701,June 23 2022,Illinois,Chicago,7900 block of S Lafayette Ave,1,3.0
+703,June 20 2022,New York,Staten Island,Taft Ave and Westervelt Ave,0,5.0
+707,June 19 2022,Florida,Miami,US-1 and SW 22nd Ave,0,5.0
+709,June 18 2022,Florida,Pensacola,15 E Intendencia St,0,5.0
+710,June 18 2022,Texas,San Antonio,2500 block of Patron Dr,2,5.0
+711,June 17 2022,Maryland,Baltimore,1800 block of W Lafayette Ave,0,4.0
+713,June 16 2022,California,Oakland,316 14th St,1,4.0
+715,June 12 2022,Michigan,Roseville,27000 block of Kelly St,0,4.0
+718,June 12 2022,Louisiana,New Orleans,3940 Tulane Ave,0,4.0
+720,June 11 2022,New Mexico,Alamogordo,,0,4.0
+721,June 11 2022,Michigan,Detroit,13500 block of Cloverlawn Ave,0,4.0
+722,June 11 2022,Illinois,Chicago,8600 block of S Damen Ave,1,4.0
+723,June 11 2022,Georgia,Atlanta (College Park),6500 block of Woodford Rd,0,7.0
+724,June 11 2022,Tennessee,Antioch,660 Bell Rd,2,2.0
+728,June 8 2022,Arizona,Yuma,1500 block of S 4th Ave,0,4.0
+731,June 7 2022,Maryland,Baltimore,5500 block of Plainfield Ave,2,2.0
+733,June 5 2022,Michigan,Saginaw,300 block of S 11th St,3,1.0
+734,June 5 2022,Arizona,Mesa,1457 W Southern Ave,2,2.0
+736,June 5 2022,Michigan,Grand Rapids,Pearl St NW and Ottawa Ave NW,1,3.0
+737,June 5 2022,South Carolina,Andrews,3000 block of County Line Road,0,5.0
+738,June 4 2022,Michigan,Ecorse,3800 block of W Jefferson Ave,0,4.0
+740,June 4 2022,Texas,El Paso (Socorro),10851 Thunder Rd,0,5.0
+741,June 4 2022,Pennsylvania,Philadelphia,200 block of South St,2,10.0
+742,June 4 2022,Arizona,Phoenix,N 10th Ave and W Hatcher Rd,1,8.0
+743,June 4 2022,South Carolina,Summerton,4193 St Paul Rd,1,7.0
+744,June 4 2022,New York,Hempstead,77 Terrace Ave,1,3.0
+745,June 3 2022,Virginia,Chester,10960 block of Stepney Rd,1,5.0
+746,June 3 2022,Nebraska,Omaha,2931 T St,1,3.0
+747,June 2 2022,Texas,Centerville,1696 TX-7 W,5,0.0
+753,May 29 2022,Oklahoma,Taft,104 Elm St,1,7.0
+754,May 29 2022,Nevada,Henderson,I-11 and Horizon Dr,0,7.0
+755,May 29 2022,Illinois,Chicago,4400 block of W Walton St,1,3.0
+756,May 29 2022,Texas,Houston,11654 Walnut Dale Ct,0,4.0
+757,May 29 2022,Arizona,Phoenix,N 58th St and W Windsor Ave,1,5.0
+763,May 28 2022,California,Merced,2600 block of Cowden Ave,1,3.0
+765,May 27 2022,Alabama,Anniston,1204 Front St,0,6.0
+766,May 27 2022,Michigan,Stanwood,10711 185th Ave,4,0.0
+767,May 25 2022,Pennsylvania,Philadelphia,3500 block of Fairmount Ave,0,4.0
+768,May 24 2022,Texas,Uvalde,715 Old Carrizo Rd,21,17.0
+770,May 23 2022,Ohio,Cleveland,1032 Hartley Rd,0,5.0
+771,May 21 2022,Indiana,Goshen,1204 Rosemare Ct,1,3.0
+772,May 21 2022,Washington,Tacoma,S Yakima Ave and S 56th St,0,4.0
+773,May 20 2022,California,Highland,3606 Highland Ave,1,8.0
+775,May 20 2022,Louisiana,New Orleans,St. Claude Ave and Forstall St,1,3.0
+776,May 19 2022,Illinois,Chicago,800 block of N State St,2,7.0
+777,May 18 2022,Pennsylvania,Philadelphia,1500 block of Bouvier St,0,5.0
+781,May 15 2022,North Carolina,Elizabeth City,901 S Martin Luther King Jr Dr,0,4.0
+782,May 15 2022,Texas,Houston,8729 Airline Dr,2,3.0
+783,May 15 2022,Texas,Amarillo,1003 N Fillmore St,1,4.0
+787,May 12 2022,Arkansas,Hot Springs National Park (Hot Springs),134 Convention Blvd,1,3.0
+788,May 11 2022,Illinois,Chicago,6800 block of S Ashland Ave,0,4.0
+791,May 11 2022,New Jersey,Paterson,36 Essex St,1,4.0
+794,May 10 2022,Illinois,Chicago,6400 block of S Richards Dr,0,6.0
+798,May 9 2022,Michigan,Detroit,12600 block of McCoy Cir,0,4.0
+803,May 7 2022,Texas,Garland,800 block of Magnolia Dr,2,2.0
+805,May 5 2022,Washington,Sunnyside,613 S 6th St,0,5.0
+807,May 3 2022,Louisiana,Baton Rouge,2100 block of North 39th St,0,5.0
+808,May 3 2022,Texas,Beaumont,3580 S Martin Luther King Jr Pkwy,0,5.0
+809,May 1 2022,Louisiana,Lafayette,500 Jefferson St,0,11.0
+810,May 1 2022,Ohio,Springfield,Clifton Ave and Rice St,1,4.0
+811,May 1 2022,Florida,Tarpon Springs,Safford Ave and Boyer St,0,6.0
+813,April 30 2022,Georgia,Atlanta,445 Cleveland Ave SE,0,4.0
+814,April 30 2022,Mississippi,Jackson,1207 Mississippi Street,0,5.0
+817,April 29 2022,Mississippi,Laurel,Ferrell St and Poplar Dr,0,4.0
+818,April 28 2022,Alabama,Bessemer,1800 block of Berkley Ave,1,3.0
+819,April 27 2022,Illinois,Chicago,4400 block of W Jackson Blvd,0,4.0
+822,April 27 2022,Louisiana,Opelousas,700 block of Mia St,2,3.0
+827,April 23 2022,Illinois,Chicago,2000 block of W 51st St,2,2.0
+829,April 23 2022,Georgia,Atlanta,135 Andrew Young International Blvd NW,0,5.0
+830,April 23 2022,California,San Bernardino,1036 W Highland Ave,1,4.0
+831,April 22 2022,Virginia,Petersburg,200 block of Holly Hill Dr,1,5.0
+832,April 22 2022,District of Columbia,Washington,2900 block of Van Ness St NW,0,4.0
+836,April 17 2022,Pennsylvania,Philadelphia,2800 block of Orkney St,0,4.0
+839,April 17 2022,California,Sacramento,7200 block of Franklin Blvd,1,3.0
+840,April 17 2022,Florida,Miami,15020 South River Dr,1,3.0
+841,April 17 2022,Pennsylvania,Pittsburgh,900B Madison Ave,2,9.0
+844,April 16 2022,Maryland,Baltimore,5300 block of Maple Ave,1,3.0
+845,April 16 2022,Nevada,North Las Vegas,4900 block of Support St,0,4.0
+846,April 16 2022,Texas,Daingerfield,FM 144 and Edwards Rd,1,6.0
+848,April 15 2022,California,Stockton,300 block of Coventry Dr,2,2.0
+849,April 12 2022,New York,Brooklyn,36th St and 4th Ave,0,10.0
+850,April 12 2022,New York,Bronx,2825 Olinville Ave,1,3.0
+851,April 10 2022,Louisiana,Baton Rouge,2700 block of Lorraine St,0,4.0
+852,April 10 2022,Iowa,Cedar Rapids,415 3rd St SE,3,9.0
+853,April 10 2022,Illinois,Elgin,958 Congdon Ave,2,4.0
+857,April 9 2022,District of Columbia,Washington,O St SW and Half St SW,0,4.0
+859,April 4 2022,Kentucky,Covington,Russell St and W 16th St,0,4.0
+861,April 3 2022,New York,Buffalo,400 block of Genesee St,0,4.0
+862,April 3 2022,Texas,Dallas,5050 Cleveland Rd,1,16.0
+863,April 3 2022,California,San Francisco,670 Brunswick St,2,2.0
+866,April 2 2022,Louisiana,Monroe,100 Sterlington Rd,1,4.0
+867,April 2 2022,Colorado,Colorado Springs,2400 block of Barkman Dr,0,4.0
+868,April 2 2022,Louisiana,Shreveport,2025 Marshall St,1,3.0
+869,April 1 2022,South Carolina,Walterboro,1900 Block of Logan Farm Rd,0,4.0
+870,March 26 2022,California,Hollister,Rustic St and Roble St,2,3.0
+872,March 25 2022,Colorado,Colorado Springs,820 Citadel Dr E,2,2.0
+873,March 22 2022,California,Stockton,1800 West Lane,1,3.0
+874,March 21 2022,Connecticut,Waterbury,23 Scovill St,0,4.0
+876,March 20 2022,Wisconsin,Milwaukee,2822 W Melvina St,0,4.0
+878,March 20 2022,Texas,Houston,2955 S Sam Houston Pkwy E,1,3.0
+879,March 19 2022,Virginia,Norfolk,320 Granby St,3,2.0
+880,March 19 2022,North Carolina,Fayetteville,1707 Owen Dr,3,3.0
+882,March 19 2022,Virginia,Madison Heights,351 Old Wright Shop Rd,1,4.0
+886,March 17 2022,Michigan,Lansing,2200 block of E Michigan Ave,0,4.0
+888,March 17 2022,Florida,Fort Lauderdale,1300 W Broward Blvd,2,2.0
+889,March 16 2022,New Jersey,Irvington,800 block of 18th Ave,1,3.0
+890,March 16 2022,New Jersey,Irvington,862 18th Ave,1,3.0
+891,March 15 2022,Alabama,Ozark,1001 US Hwy 231,0,5.0
+894,March 13 2022,New York,Rochester,471 State St,2,2.0
+895,March 13 2022,South Carolina,Columbia,810 Pulaski St,1,4.0
+899,March 9 2022,Colorado,Aurora,3300 N Ouray St,1,3.0
+900,March 8 2022,Florida,Jacksonville,Duval Station Rd and Starratt Rd,1,4.0
+903,March 6 2022,Pennsylvania,Hazleton,182 S  Wyoming St,1,4.0
+904,March 6 2022,Kentucky,Louisville,601 E Jefferson St,0,4.0
+905,March 6 2022,Texas,Lubbock,1800 block of Parkway Dr,0,4.0
+906,March 6 2022,South Carolina,Chester,Powell Dr and Harvey Neely Rd,2,3.0
+909,March 5 2022,Georgia,Atlanta,I-75 and Arthur B. Langford Jr. Pkwy,0,4.0
+910,March 3 2022,Nevada,Las Vegas,4055 S University Center Dr,1,6.0
+913,February 27 2022,Louisiana,Alexandria,3700 block of 3rd St,0,4.0
+914,February 26 2022,South Carolina,North Charleston,2622 S Allen Dr,1,3.0
+915,February 26 2022,Nevada,Las Vegas,953 E Sahara Ave,1,13.0
+916,February 26 2022,Louisiana,Bogalusa,E 4th St and Martin Luther King Jr Dr,0,9.0
+918,February 24 2022,Texas,San Antonio,90 Lanark Dr,0,4.0
+919,February 21 2022,Minnesota,Saint Paul,488 Humboldt Ave,1,3.0
+920,February 20 2022,Iowa,Des Moines,100 block of Water St,0,4.0
+921,February 20 2022,Nebraska,Omaha,1817 N 33rd St,0,4.0
+922,February 20 2022,Oregon,Portland,SE Foster Rd and 128th Ave,1,3.0
+923,February 20 2022,Mississippi,Mccomb,Minnesota Ave and 6th St,1,2.0
+924,February 19 2022,Oregon,Portland,NE 55th Ave and NE Hassalo St,1,5.0
+925,February 19 2022,Missouri,Charleston,106 S Franklin St,2,14.0
+926,February 19 2022,California,Turlock,142 S 1st St,0,7.0
+927,February 19 2022,North Carolina,Durham,1400 E Cornwallis Rd,2,2.0
+930,February 17 2022,Texas,Houston,3000 Blodgett St,0,5.0
+932,February 15 2022,Illinois,Joliet,700 block of Francis St,1,3.0
+933,February 13 2022,Wisconsin,Racine,7th St and Park Ave,0,5.0
+934,February 12 2022,Tennessee,Murfreesboro,1644 Middle Tennessee Blvd,1,4.0
+936,February 12 2022,Arkansas,Little Rock,200 block of E 7th St,1,3.0
+938,February 11 2022,Arizona,Phoenix,5405 W Warner St,1,9.0
+943,February 5 2022,Texas,Corsicana,2919 W 2nd Ave,7,0.0
+946,February 2 2022,California,Oroville,410 Oro Dam Blvd E,1,4.0
+948,January 31 2022,North Carolina,Raleigh,3120 New Bern Ave,1,3.0
+950,January 30 2022,Georgia,Augusta,2623 Deans Bridge Rd,1,3.0
+951,January 29 2022,Missouri,Saint Louis,4900 block of Cote Brilliante,3,1.0
+952,January 29 2022,Georgia,Atlanta,899 Martin Luther King Jr Dr NW,1,3.0
+955,January 23 2022,California,Inglewood,1300 block of North Park Ave,4,1.0
+956,January 23 2022,Wisconsin,Milwaukee,2505 N 21st St,6,0.0
+957,January 19 2022,Maryland,Baltimore,E Monument St and N Montford Ave,3,1.0
+960,January 17 2022,Texas,San Antonio,400 block of Spriggsdale Ave,1,4.0
+962,January 15 2022,Tennessee,Knoxville,2700 block of Tarleton Ave,0,4.0
+965,January 13 2022,New York,Brooklyn,1014 E 92nd St,1,3.0
+967,January 9 2022,California,Fresno,724 E Olive Ave,0,4.0
+968,January 9 2022,California,Los Angeles,W 35th St and S Hill St,1,4.0
+971,January 8 2022,Texas,Houston,7136 Clarewood Dr,1,3.0
+972,January 4 2022,Mississippi,Jackson,3207 W Capitol St,1,3.0
+976,January 1 2022,Illinois,Peoria,2000 block of SW Adams St,2,2.0
+977,January 1 2022,Pennsylvania,Philadelphia,1600 block of Cecil B Moore Ave,1,4.0
+978,January 1 2022,Wisconsin,Kenosha,1708 52nd St,1,3.0
+981,January 1 2022,Colorado,Denver,1919 Blake St,2,2.0
+982,December 31 2021,Maryland,Capitol Heights,Cindy Ln,0,4.0
+986,December 30 2021,Missouri,Kirksville,700 block of E Dodson St,2,2.0
+987,December 27 2021,Colorado,Denver,56 Broadway,6,2.0
+988,December 27 2021,Ohio,Youngstown,2626 Tyrell Ave,1,3.0
+989,December 27 2021,Alabama,Mobile,3606 Moffett Rd,1,3.0
+992,December 26 2021,Virginia,Clear Brook,I-81 S and Visitor Center Loop,1,4.0
+995,December 25 2021,Louisiana,Lafayette,2100 block of NE Evangeline Thruway,0,4.0
+997,December 24 2021,New York,Brooklyn,1031 Nostrand Ave,0,4.0
+999,December 19 2021,Illinois,Lovejoy (Brooklyn),213 Madison St,1,3.0
+1000,December 17 2021,Virginia,Portsmouth,4105 Portsmouth Blvd,0,4.0
+1003,December 16 2021,Alabama,Troy,600 Block of Botts Ave,0,4.0
+1008,December 12 2021,Florida,Tampa,Alaska Ave,0,5.0
+1010,December 12 2021,Virginia,Woodbridge,13989 Jefferson Davis Hwy,0,4.0
+1012,December 10 2021,Michigan,Lansing,Miller Rd and Cedar St,1,3.0
+1013,December 10 2021,Florida,Orlando,Jefferson St and Garden Ave,0,5.0
+1018,December 5 2021,Michigan,Detroit,5200 block of Marlborough St,2,2.0
+1019,December 5 2021,Texas,El Paso,2910 Tularosa Ave,1,3.0
+1021,December 2 2021,North Carolina,Elizabeth City,Perry St and Jordan St,3,3.0
+1022,November 30 2021,Michigan,Oxford,745 N Oxford Rd,4,7.0
+1023,November 30 2021,Georgia,Rex,3600 block of Jervis Court,4,2.0
+1024,November 28 2021,Maryland,Baltimore,1300 block of North Montford Ave,0,7.0
+1025,November 28 2021,Illinois,Evanston,1950 Green Bay Rd,1,4.0
+1032,November 25 2021,South Carolina,Green Sea,Long Branch Swamp Rd,0,4.0
+1035,November 22 2021,North Carolina,Warsaw,101 Matthews St,2,2.0
+1038,November 20 2021,California,Fresno,3665 N Pleasant Ave,2,2.0
+1039,November 20 2021,Illinois,Berwyn,6802 W 26th St,0,4.0
+1040,November 18 2021,Maryland,Cambridge,700 block of Greenwood Ave,1,3.0
+1042,November 17 2021,New York,Newburgh,William St and Carson Ave,0,4.0
+1044,November 17 2021,Illinois,Chicago,1240 W Randolph St,0,4.0
+1046,November 15 2021,Colorado,Aurora,1200 Nome St,0,6.0
+1051,November 14 2021,Alabama,Troy,803 US-231 S,1,5.0
+1053,November 13 2021,Louisiana,Houma,100 block of Emma St,0,4.0
+1055,November 12 2021,Alabama,Birmingham,1100 block of 33rd St SW,2,2.0
+1057,November 9 2021,Louisiana,Hahnville (Killona),160 Killona Dr,1,4.0
+1064,November 6 2021,California,Highland,26998 3rd St,0,4.0
+1068,November 2 2021,Alabama,Mobile,4120 Government Blvd,0,4.0
+1071,October 31 2021,Kentucky,Louisville,6210 Shepherdsville Rd,2,2.0
+1074,October 31 2021,Illinois,Flossmoor,3800 block of Ballantrae Way,1,3.0
+1078,October 30 2021,Illinois,Decatur,1100 block of N Union St,0,4.0
+1080,October 30 2021,California,Sacramento,5560 Palm Ave,2,5.0
+1089,October 24 2021,Mississippi,Crenshaw,413 Jones St,2,3.0
+1092,October 23 2021,Georgia,Fort Valley,603 Carver Dr,1,7.0
+1093,October 22 2021,Illinois,Chicago,7901 S Cottage Grove Ave,0,5.0
+1095,October 22 2021,Maryland,Baltimore,3100 block of W North Ave,0,7.0
+1097,October 21 2021,Washington,Tacoma,4258 Everett St,4,0.0
+1098,October 20 2021,Michigan,Farwell,9539 S Harrison Ave,4,0.0
+1099,October 19 2021,Wisconsin,Kenosha,610 40th Pl,3,2.0
+1100,October 17 2021,Louisiana,Grambling,403 Main St,1,7.0
+1102,October 17 2021,Texas,Houston,1900 block of Dolly Wright St,0,7.0
+1105,October 17 2021,Arkansas,Pine Bluff,820 S Main St,1,9.0
+1108,October 16 2021,Texas,Killeen,308 S Second St,1,3.0
+1109,October 15 2021,Alabama,Mobile,1621 Virginia St,0,5.0
+1110,October 14 2021,Minnesota,Minneapolis,814 E Franklin Ave,1,4.0
+1114,October 11 2021,Georgia,South Fulton,4900 Delano Rd,0,6.0
+1116,October 10 2021,Iowa,Sioux City,427 Pierce St,0,4.0
+1117,October 10 2021,Minnesota,Saint Paul,214 7th St W,1,15.0
+1119,October 10 2021,Delaware,Dover,1500 block of Nathaniel Mitchell Rd,1,4.0
+1125,October 8 2021,District of Columbia,Washington,1700 block of Independence Ave SE,1,3.0
+1127,October 7 2021,Wisconsin,Milwaukee,W Cherry St and N 8th St,3,1.0
+1133,October 6 2021,Ohio,Cleveland,9200 block of Marshall Ave,0,4.0
+1136,October 5 2021,Illinois,Rockford,400 block of S Independence Ave,1,3.0
+1137,October 4 2021,Minnesota,Minneapolis,626 W Broadway Ave,0,4.0
+1138,October 3 2021,South Carolina,Bishopville,1113 Sumter Hwy,1,4.0
+1140,October 2 2021,Colorado,Aurora,12230 E Colfax Ave,1,3.0
+1143,September 29 2021,Illinois,Chicago,800 block of N Milwaukee Ave,0,5.0
+1145,September 28 2021,Minnesota,Minneapolis,2700 block of Bloomington Ave,1,3.0
+1146,September 27 2021,New York,New York (Manhattan),3964 10th Ave,0,5.0
+1149,September 26 2021,California,Oakland,1400 block of 8th Ave,0,4.0
+1150,September 26 2021,Washington,Seattle (Des Moines),22855 Pacific Hwy S,3,3.0
+1153,September 25 2021,Tennessee,Chattanooga,1124 Grove St,2,5.0
+1154,September 25 2021,California,Riverside,6000 Block of Mariposa Ave,0,6.0
+1155,September 24 2021,South Carolina,Aiken,749 Silver Bluff Rd,4,1.0
+1156,September 24 2021,California,Los Angeles,11600 block of Willowbrook Ave,0,4.0
+1157,September 23 2021,Tennessee,Collierville,240 New Byhalia Rd,2,14.0
+1160,September 21 2021,District of Columbia,Washington,2200 block of Alabama Ave SE,0,5.0
+1161,September 20 2021,Pennsylvania,Philadelphia,Broad St and Chew Ave,1,5.0
+1165,September 19 2021,Texas,Dallas,100 block of N Malcolm X Blvd,2,4.0
+1166,September 19 2021,California,Oakland,300 block of 17th St,1,3.0
+1167,September 19 2021,Illinois,Chicago,900 block of N Massasoit Ave,0,5.0
+1168,September 19 2021,New York,Rochester,300 block of Driving Park Ave,2,2.0
+1170,September 18 2021,Illinois,Danville,3164 E Main St,2,2.0
+1171,September 18 2021,Louisiana,Opelousas,500 block of Sapphire St,0,5.0
+1173,September 14 2021,Maryland,Baltimore,1700 block of N Milton Ave,0,4.0
+1174,September 14 2021,Ohio,Cleveland,2747 Cedar Ave,0,6.0
+1177,September 12 2021,Texas,Temple,900 block of S 24th St,0,4.0
+1178,September 12 2021,Illinois,Blue Island,12200 block of S Irving Ave,2,2.0
+1180,September 11 2021,Illinois,Chicago,300 block of E Kensington Ave,1,5.0
+1181,September 11 2021,Alabama,Dothan,2000 Reeves St,0,5.0
+1185,September 10 2021,Florida,Orlando,5526 S Orange Blossom Trl,0,4.0
+1186,September 9 2021,Illinois,East Saint Louis,510 Martin Luther King Dr,0,7.0
+1187,September 9 2021,Alabama,Montgomery,1800 block of Cotton Court,1,3.0
+1190,September 7 2021,Kansas,Wichita,351 N Mosley St,1,5.0
+1191,September 6 2021,Georgia,Atlanta,868 Joseph E Boone Blvd NW,0,5.0
+1195,September 5 2021,Texas,Houston,7518 Imogene St,4,0.0
+1196,September 5 2021,Georgia,Athens,E Clayton St and N Jackson St,0,6.0
+1197,September 5 2021,Florida,Lakeland,N Socrum Loop Rd and Fulton Green Rd,4,2.0
+1198,September 5 2021,Ohio,Cincinnati,6308 Corbly Rd,0,4.0
+1199,September 4 2021,Louisiana,Monroe,1600 block of Winnsboro Rd,1,3.0
+1200,September 4 2021,Alabama,Birmingham,9164 Parkway E,2,2.0
+1201,September 4 2021,Georgia,Warner Robins,Mauldon Ct and Dunmurry Pl,1,4.0
+1204,September 4 2021,Illinois,Chicago,1400 block of S Tripp Ave,0,5.0
+1206,September 3 2021,New York,Syracuse,Nelson St and W Marcellus St,0,4.0
+1207,September 3 2021,Louisiana,New Iberia,927 S Lewis St,1,3.0
+1210,August 30 2021,Illinois,Normal,2000 block of Lambert Dr,3,3.0
+1211,August 29 2021,Tennessee,Nashville,2621 Jefferson St,0,5.0
+1212,August 29 2021,Nevada,Las Vegas,1700 block of S Rainbow Blvd,1,3.0
+1214,August 28 2021,New York,Albany,Sherman St and Henry Johnson Blvd,0,5.0
+1215,August 28 2021,California,San Diego,3100 block of Mission Blvd,0,4.0
+1217,August 27 2021,West Virginia,Huntington,300 block of Oney Ave,2,2.0
+1218,August 27 2021,California,Los Angeles,8400 block of Fountain Ave,0,4.0
+1220,August 23 2021,Illinois,Chicago,W Wilson Ave and N Sheridan Rd,0,4.0
+1221,August 22 2021,Illinois,Chicago,3400 block of W Lake St,1,4.0
+1225,August 22 2021,Michigan,Grand Rapids,1500 block of Linden Ave SE,1,3.0
+1226,August 21 2021,Illinois,Chicago,3500 block of W Walnut St,0,4.0
+1228,August 20 2021,Michigan,Flint,2905 Saginaw St,1,3.0
+1229,August 19 2021,Illinois,Chicago,300 block of E 47th St,0,4.0
+1231,August 19 2021,Maryland,Edgewood,1700 block of Crimson Tree Way,1,3.0
+1236,August 17 2021,New York,Brooklyn,422 Mother Gaston Blvd,0,5.0
+1239,August 15 2021,Texas,San Antonio,1621 S New Braunfels Ave,3,2.0
+1240,August 15 2021,Illinois,Chicago,1300 block of E 75th St,0,4.0
+1242,August 14 2021,New York,Brooklyn,Lexington Ave and Marcy Ave,0,4.0
+1243,August 14 2021,Ohio,Akron,271 Maiden Ln,0,5.0
+1244,August 14 2021,Indiana,Indianapolis,Lafayette Rd and W 38th St,1,4.0
+1246,August 14 2021,Texas,Wichita Falls,2406 Sheppard Access Rd,0,4.0
+1247,August 13 2021,Nevada,Las Vegas,3100 block of E Sunset Rd,1,6.0
+1248,August 11 2021,Pennsylvania,Philadelphia,5500 Rising Sun Ave,1,4.0
+1250,August 10 2021,Mississippi,Clarksdale,2,2,
+1254,August 8 2021,Illinois,Chicago,8300 block of S Halsted St,1,4.0
+1256,August 8 2021,District of Columbia,Washington,3600 block of New York Ave NE,0,4.0
+1257,August 8 2021,Illinois,Chicago,1800 block of W 87th St,1,6.0
+1258,August 8 2021,Louisiana,New Orleans,700 block of Bourbon St,0,5.0
+1259,August 7 2021,Alabama,Montgomery,200 block of John Morris Ave,0,4.0
+1261,August 7 2021,Virginia,Norfolk,700 block of Granby St,0,4.0
+1262,August 6 2021,Tennessee,Nashville,1000 block of 43rd Ave North,0,4.0
+1263,August 4 2021,Pennsylvania,Philadelphia,3653 Germantown Ave,0,4.0
+1269,August 1 2021,Rhode Island,Providence,77 Reservoir Ave,0,5.0
+1270,August 1 2021,Louisiana,New Orleans,Bourbon St and Orleans Ave,0,5.0
+1275,July 31 2021,New York,Corona (Queens),97-07 37th Ave,0,10.0
+1276,July 31 2021,Ohio,Cleveland,3100 block of W 25th St,0,5.0
+1277,July 31 2021,Kentucky,Lexington,414 East 5th St,0,5.0
+1280,July 28 2021,District of Columbia,Washington,3400 block of 22nd St SE,0,4.0
+1282,July 28 2021,South Carolina,Charleston,Hanover St and Johnson St,1,4.0
+1284,July 25 2021,California,Wasco,1718 1st St,5,1.0
+1286,July 25 2021,Washington,Seattle,100 block of Occidental Ave S,2,3.0
+1287,July 24 2021,Ohio,Columbus,N High St and E 4th Ave,0,4.0
+1288,July 24 2021,Texas,Amarillo,1306 NE 3rd Ave,0,6.0
+1289,July 24 2021,Georgia,Macon,Cherry St and Martin Luther King Jr Blvd,2,3.0
+1290,July 23 2021,South Carolina,Spartanburg,151 Palisade St,2,2.0
+1291,July 23 2021,South Carolina,Darlington,505 Oleander Dr,0,4.0
+1293,July 22 2021,Texas,Houston,9717 N Houston Rosslyn Rd,1,5.0
+1295,July 21 2021,Illinois,Chicago,3300 block of W Douglas Blvd,2,3.0
+1298,July 20 2021,Texas,Jacksonville,16241 TX-110,4,0.0
+1302,July 18 2021,Florida,Gainesville,1634 NE 8th Ave,1,4.0
+1306,July 18 2021,California,Walnut Creek,SOS Dr and San Luis Rd,1,3.0
+1307,July 17 2021,Oregon,Portland,300 block of SW 3rd Ave,1,6.0
+1308,July 17 2021,Illinois,Chicago,5006 W Ohio St,0,6.0
+1312,July 16 2021,South Carolina,Greenville,840 Mauldin Rd,1,3.0
+1314,July 16 2021,Illinois,Chicago,647 N Lockwood Ave,1,4.0
+1318,July 14 2021,Illinois,Chicago,4600 block of W Monroe St,0,5.0
+1320,July 14 2021,Delaware,Claymont,50 block of Balfour Ave,2,2.0
+1322,July 13 2021,Michigan,Detroit,9855 Chalmers St,1,6.0
+1325,July 12 2021,New York,Corona (Queens),180th St and 145th Dr,0,4.0
+1328,July 10 2021,Massachusetts,Boston,34 Cameron St,0,4.0
+1330,July 9 2021,California,Los Angeles,7114 W Manchester Ave,0,4.0
+1332,July 5 2021,Ohio,Toledo,Lawrence Ave and Wall St,1,11.0
+1337,July 4 2021,Ohio,Cleveland,Kinsman Rd and E 139th St,0,4.0
+1338,July 4 2021,Illinois,Peoria,600 block of Haungs Ave,1,3.0
+1339,July 4 2021,Nevada,North Las Vegas,1200 block of W Helen Ave,2,7.0
+1342,July 4 2021,Texas,Dallas,8200 block of Towns St,3,3.0
+1343,July 4 2021,Missouri,Kansas City,E 43rd St and Indiana Ave,0,4.0
+1344,July 4 2021,Texas,Dallas,3700 Dixon Ave,0,5.0
+1345,July 4 2021,Texas,Fort Worth,3400 block of Horne St,0,8.0
+1346,July 4 2021,Illinois,Rantoul,400 block of S Maplewood Dr,0,5.0
+1348,July 3 2021,Pennsylvania,Lancaster,50 block of W Orange St,0,4.0
+1349,July 3 2021,Georgia,Swainsboro,229 S Main St,1,3.0
+1351,July 2 2021,Virginia,Norfolk,923 Madison Ave,0,4.0
+1352,July 2 2021,Pennsylvania,Philadelphia,7700 block of Ogontz Ave,1,4.0
+1353,July 2 2021,Illinois,Champaign,704 N Hickory St,1,4.0
+1354,July 1 2021,Illinois,Chicago,6500 block of S Halsted St,0,7.0
+1355,July 1 2021,South Carolina,Spartanburg,225 Amelia St,2,4.0
+1357,June 30 2021,Illinois,Chicago,2200 block of S Millard Ave,0,4.0
+1359,June 30 2021,Delaware,Dover,100 block of S New St,1,3.0
+1360,June 30 2021,Texas,Houston,12101 Fondren Rd,3,1.0
+1361,June 27 2021,Illinois,Chicago,2000 block of E 71st St,1,5.0
+1362,June 27 2021,Illinois,Saint Charles,2051 Lincoln Hwy,1,3.0
+1364,June 27 2021,Tennessee,Memphis,2500 block of Dunn Ave,3,1.0
+1366,June 26 2021,Texas,Houston,4902 Laura Koppe Rd,1,3.0
+1367,June 26 2021,Illinois,Chicago,6100 block of N McCormick Blvd,1,3.0
+1368,June 26 2021,Alabama,Fort Deposit,Forest Dr,1,3.0
+1369,June 25 2021,Ohio,Columbus,I-670 and Neil Ave,0,4.0
+1371,June 25 2021,New York,Bronx,Zerega Ave and Watson Ave,0,5.0
+1373,June 23 2021,Alabama,Montgomery,100 block of Rotary St,2,2.0
+1378,June 21 2021,District of Columbia,Washington,300 block of 50th St NE,0,4.0
+1380,June 20 2021,California,Richmond,2108 Dunn Ave,3,5.0
+1383,June 20 2021,Texas,Dallas,4619 E. R L Thornton Freeway,0,8.0
+1384,June 20 2021,Indiana,Granger,7321 Heritage Square Dr,1,4.0
+1386,June 20 2021,Ohio,Cincinnati,3000 block of Borden St,1,3.0
+1388,June 19 2021,Louisiana,Baton Rouge,7132 Florida Blvd,2,4.0
+1392,June 17 2021,Virginia,Petersburg,Virginia Ave and Melville St,0,4.0
+1394,June 17 2021,Ohio,Cincinnati,3056 Mathers St,1,3.0
+1396,June 16 2021,Maryland,Baltimore,2100 block of West Lexington St,1,5.0
+1397,June 15 2021,Illinois,Chicago,3800 block of W Monroe,0,5.0
+1398,June 15 2021,Illinois,Chicago,6221 S Morgan St,5,3.0
+1401,June 14 2021,Florida,Boynton Beach,I-95,1,3.0
+1407,June 12 2021,Illinois,Chicago,7500 block of S Prairie Ave,1,9.0
+1408,June 12 2021,Ohio,Cleveland,8805 Buckeye Rd,3,4.0
+1409,June 11 2021,Washington,Seattle (White Center),9808 16th Ave SW,2,2.0
+1410,June 11 2021,Georgia,Savannah,200 block of Avery St,2,6.0
+1412,June 11 2021,Texas,Dallas,378 N Jim Miller Rd,0,5.0
+1414,June 10 2021,New York,Yonkers,150 Elm St,0,4.0
+1419,June 7 2021,Florida,Homestead,12550 SW 282nd St,3,3.0
+1420,June 6 2021,Utah,Salt Lake City,1359 N General Dr,1,4.0
+1421,June 6 2021,Missouri,Saint Louis,100 N 7th St,0,4.0
+1422,June 6 2021,North Carolina,Snow Hill,50 block of Katie Ct,0,4.0
+1423,June 6 2021,Ohio,Cleveland,3700 block of Woodbridge Ave,0,8.0
+1425,June 6 2021,California,Oakland,5100 block of Ygnacio Ave,0,5.0
+1426,June 6 2021,Illinois,Chicago,8900 block of S Cottage Grove Ave,0,8.0
+1427,June 5 2021,Louisiana,New Orleans,10150 I-10 Service Rd,0,9.0
+1429,June 4 2021,Michigan,Muskegon,1675 E. Sherman Blvd,1,3.0
+1431,June 2 2021,Arkansas,Magnolia,Calhoun Rd,0,4.0
+1432,June 2 2021,Ohio,Springfield,1935 S Yellow Springs St,0,6.0
+1433,May 31 2021,New York,Brooklyn,Knickerbocker Ave,0,4.0
+1437,May 30 2021,Florida,Hialeah,7630 NW 186th St,3,20.0
+1438,May 30 2021,Illinois,Chicago,6718 S Stony Island Ave,0,4.0
+1439,May 29 2021,Texas,San Antonio,3300 block of Fallen Leaf Ln,2,2.0
+1440,May 29 2021,Missouri,Saint Louis,10466 W Florissant Ave,1,3.0
+1442,May 27 2021,North Carolina,Durham,1200 block of Fayetteville St,0,5.0
+1443,May 26 2021,Illinois,Chicago,7200 block of S Princeton Ave,0,4.0
+1444,May 26 2021,California,San Jose,101 W Younger Ave,10,0.0
+1448,May 23 2021,New York,Bay Shore,135 S Clinton Ave,0,4.0
+1452,May 22 2021,Ohio,Columbus,233 S Civic Center Dr,1,5.0
+1455,May 22 2021,Indiana,Fort Wayne,2177 Eden St,1,4.0
+1456,May 22 2021,New Jersey,Bridgeton,1029 E Commerce St,3,11.0
+1458,May 21 2021,New York,Albany,1st St and Quail St,1,5.0
+1459,May 20 2021,Indiana,Evansville,800 block of Shadewood Ave,0,4.0
+1460,May 18 2021,California,Oakland,I-580 and Seminary Ave,2,5.0
+1462,May 16 2021,Ohio,Cincinnati,7751 Reading Rd,1,3.0
+1463,May 16 2021,Georgia,Atlanta,630 Travis St NW,0,4.0
+1470,May 15 2021,Illinois,Chicago,7800 block of S Loomis St,2,3.0
+1472,May 13 2021,Georgia,Augusta,201 E Telfair St,2,2.0
+1473,May 13 2021,District of Columbia,Washington,200 block of 37th Pl SE,0,4.0
+1474,May 13 2021,Rhode Island,Providence,87 Carolina Ave,0,8.0
+1476,May 12 2021,Pennsylvania,Philadelphia,5500 block of Kingsessing Ave,1,3.0
+1478,May 10 2021,Alabama,Montgomery,3804 S Court St,0,7.0
+1484,May 9 2021,Pennsylvania,Philadelphia,100 block of E Albanus St,2,3.0
+1486,May 8 2021,California,Oakland,1440 block of Lakeshore Ave,0,4.0
+1488,May 8 2021,Michigan,Detroit,15700 block of Plymouth Rd,0,4.0
+1489,May 8 2021,California,Compton,15100 block of S Lime Ave,2,2.0
+1492,May 6 2021,New Jersey,Paterson,22nd Ave and E 30th St,0,5.0
+1494,May 3 2021,Michigan,Saginaw,1315 Randolph St,1,4.0
+1496,May 2 2021,Pennsylvania,Philadelphia,5200 block of Burton St,1,3.0
+1497,May 2 2021,Maryland,Baltimore,1500 block of Washington Blvd,1,3.0
+1499,May 2 2021,Minnesota,Saint Paul,843 Selby Ave,0,4.0
+1500,May 1 2021,Delaware,Wilmington,800 block of N Pine St,0,4.0
+1501,May 1 2021,Louisiana,New Orleans,St Bernard Ave and N Claiborne Ave,2,4.0
+1503,May 1 2021,Massachusetts,Holyoke,209 South St,0,5.0
+1505,April 29 2021,Georgia,Atlanta,2300 block of Polar Rock Terrace SW,1,5.0
+1508,April 27 2021,Virginia,Richmond,4000 Midlothian Turnpike,2,3.0
+1513,April 25 2021,Missouri,Kansas City,E 18th St and Vine St,1,4.0
+1515,April 25 2021,Arkansas,Little Rock,1900 E 6th St,1,3.0
+1517,April 22 2021,California,San Diego,500 block of J St,1,4.0
+1521,April 18 2021,Michigan,Detroit,Ward Ave and W McNichols Rd,1,5.0
+1523,April 18 2021,Wisconsin,Kenosha,1548 Sheridan Rd,3,3.0
+1527,April 15 2021,Indiana,Indianapolis,8951 Mirabel Rd,9,7.0
+1530,April 15 2021,Florida,Pensacola,700 Truman Ave,0,6.0
+1531,April 15 2021,Illinois,Chicago,600 block of N Sawyer Ave,0,4.0
+1535,April 11 2021,Washington,Seattle,306 23rd Ave S,0,4.0
+1537,April 10 2021,Michigan,Allendale,4926 Becker Dr,0,4.0
+1541,April 8 2021,Texas,Bryan,350 Stone City Dr,1,5.0
+1542,April 7 2021,South Carolina,Rock Hill,4456 Marshall Rd,7,0.0
+1543,April 7 2021,Wisconsin,Milwaukee,2627 W Capitol Dr,2,3.0
+1546,April 6 2021,Michigan,Detroit,6100 block of Lodewyck St,1,3.0
+1547,April 5 2021,Illinois,Chicago,6800 block of S Justine Ave,0,7.0
+1550,April 4 2021,Alabama,Birmingham,3969 14th Ave N,1,5.0
+1552,April 3 2021,North Carolina,Wilmington,718 Kidder St,3,4.0
+1562,March 27 2021,Illinois,Chicago,500 block of N Leamington Ave,0,4.0
+1563,March 27 2021,Mississippi,Yazoo City,Dr Martin Luther King Jr Dr and Shady Dr,0,6.0
+1565,March 26 2021,Virginia,Virginia Beach,2000 block of Atlantic Ave,0,9.0
+1567,March 26 2021,Virginia,Norfolk,100 block of W Balview Ave,0,4.0
+1568,March 26 2021,Tennessee,Memphis,500 block of Arrington Ave,3,2.0
+1569,March 26 2021,Pennsylvania,Philadelphia,1080 N Delaware Ave,0,7.0
+1571,March 22 2021,Colorado,Boulder,3600 Table Mesa Dr,10,1.0
+1572,March 22 2021,Michigan,Detroit,13300 block of Davidson St,1,3.0
+1574,March 20 2021,Texas,Dallas,10333 Technology Blvd,1,7.0
+1576,March 18 2021,Oregon,Gresham,750 E Powell Blvd,0,4.0
+1577,March 18 2021,Louisiana,New Orleans,2400 Annette St,0,4.0
+1579,March 16 2021,Georgia,Acworth,6468 Hwy 92,8,1.0
+1580,March 16 2021,Arizona,Phoenix,6215 W Elm St,4,1.0
+1581,March 15 2021,Indiana,Indianapolis,2300 block of N Harding St,1,4.0
+1584,March 14 2021,Illinois,Chicago,6798 block of S South Chicago Ave,2,13.0
+1587,March 13 2021,Indiana,Indianapolis,300 block of N Randolph St,4,1.0
+1589,March 12 2021,North Carolina,Greensboro,100 block of Huffman St,1,3.0
+1590,March 12 2021,Texas,Austin,7408 Cameron Rd,0,4.0
+1592,March 11 2021,Pennsylvania,Philadelphia,1400 block of N 76th St,2,2.0
+1594,March 8 2021,Florida,Clearwater,US-19 ALT and Drew St,1,3.0
+1595,March 7 2021,Mississippi,Edwards,607 Wallace Dr,0,4.0
+1596,March 6 2021,California,Yuba City,Countryside Dr and Littlejohn Dr,2,3.0
+1599,March 4 2021,District of Columbia,Washington,3900 Martin Luther King Jr Ave SW,0,5.0
+1600,March 3 2021,Pennsylvania,Erie,2105 Buffalo Rd,2,3.0
+1604,February 28 2021,South Carolina,Mccormick,437 Talbert Rd,0,4.0
+1609,February 26 2021,Texas,Houston,8708 Beechnut St,1,5.0
+1612,February 21 2021,Missouri,Kennett,1615 1st St,1,4.0
+1615,February 20 2021,Colorado,Grand Junction,1000 block of Teller Ave,1,3.0
+1617,February 20 2021,Louisiana,Metairie,6719 Airline Dr,3,2.0
+1621,February 13 2021,California,San Francisco,3rd St and Quesada Ave,0,6.0
+1625,February 11 2021,Georgia,Columbus,2001 South Lumpkin Rd,1,4.0
+1626,February 10 2021,Georgia,Atlanta,62 Harwell Rd NW,0,4.0
+1628,February 9 2021,Minnesota,Buffalo,755 Crossroads Campus Dr,1,4.0
+1630,February 6 2021,Louisiana,Thibodaux,1100 block of Tiger Dr,0,4.0
+1631,February 6 2021,Illinois,Bloomingdale,250 W Schick Rd,1,5.0
+1632,February 6 2021,Washington,Tacoma,3634 E McKinley Ave,1,3.0
+1633,February 5 2021,Pennsylvania,Mohnton,360 E Wyomissing Ave,1,3.0
+1634,February 5 2021,Mississippi,Benoit,1017 Lake Bolivar Rd,3,1.0
+1638,February 2 2021,Florida,Fort Lauderdale (Sunrise),10100 Reflections Blvd W,3,3.0
+1641,January 31 2021,Illinois,Chicago,W Congress Pkwy and S Independence Blvd,0,4.0
+1642,January 30 2021,New York,Albany,200 block of Central Ave,1,4.0
+1647,January 24 2021,Indiana,Indianapolis,3540 Adams St,5,1.0
+1648,January 24 2021,Nevada,Las Vegas,W Wilson Ave and H St,0,5.0
+1649,January 22 2021,Kentucky,Covington,217 E Martin Luther King Jr Blvd,0,5.0
+1650,January 21 2021,California,Oakland,107th Ave and Apricot St,1,3.0
+1651,January 18 2021,Pennsylvania,Tobyhanna,960 PA-196,0,4.0
+1653,January 17 2021,Arizona,Phoenix,2236 E University Dr,1,6.0
+1655,January 15 2021,Pennsylvania,Philadelphia,5000 block of N 10th St,0,4.0
+1657,January 9 2021,Illinois,Evanston,100 Asbury Ave,6,2.0
+1659,January 7 2021,District of Columbia,Washington,1300 block of Columbia Rd NW,0,5.0
+1665,January 3 2021,Oregon,Gresham,NE 181st Ave and NE San Rafael St,0,4.0
+1667,January 3 2021,Florida,Miami,3632 NW 25th Ave,0,6.0
+1669,January 3 2021,California,Santa Barbara,1200 block of Liberty St,2,2.0
+1671,January 1 2021,Arkansas,Fort Smith,3211 Towson Ave,0,7.0
+1672,January 1 2021,Texas,Amarillo,2650 Dumas Dr,1,3.0
+1673,January 1 2021,Iowa,Sioux City,2637 S Walker St,1,4.0
+1674,January 1 2021,Illinois,Galesburg,1000 block of Monroe St,0,4.0
+1675,December 31 2020,Indiana,Indianapolis,8215 Center Run Road,1,3.0
+1676,December 31 2020,Oregon,Happy Valley,9200 block of SE Idleman Rd,0,4.0
+1677,December 26 2020,Illinois,Rockford,4007 E State St,3,3.0
+1679,December 26 2020,Massachusetts,Lynn,Washington St and Quincy Ter,1,5.0
+1681,December 25 2020,Florida,Boynton Beach,Martin Luther King Jr Blvd and N Seacrest Blvd,1,4.0
+1682,December 25 2020,Arkansas,Atkins,5180 Pine Ridge Rd,5,0.0
+1684,December 22 2020,Mississippi,Meridian,Jeffrey Acres Rd,5,0.0
+1685,December 20 2020,Connecticut,Bridgeport,456 Connecticut Ave,2,2.0
+1688,December 12 2020,California,San Bernardino,900 block of N Sierra Way,1,3.0
+1691,December 12 2020,Maryland,Hyattsville (Landover),8600 block of Old Ardmore Rd,2,2.0
+1692,December 10 2020,Georgia,Tifton,700 block of 17 1/2 St,0,4.0
+1693,December 10 2020,Mississippi,Jackson,1805 Hospital Dr,0,5.0
+1695,December 8 2020,Louisiana,Lacombe,28399 Palmer Dr,2,3.0
+1696,December 6 2020,Texas,Venus,6100 N FM 157,0,6.0
+1697,December 5 2020,California,Hayward,25000 block of Eldridge Ave,1,3.0
+1698,December 5 2020,North Carolina,Autryville,10101 Gip Rd,0,6.0
+1699,December 4 2020,Illinois,Chicago,4400 block of W Adams St,0,4.0
+1700,December 1 2020,Pennsylvania,Morrisville,1 Makefield Rd,1,3.0
+1701,November 30 2020,Alaska,Palmer,335 N Valley Way,4,0.0
+1705,November 28 2020,South Carolina,Conway,3800 block of Golden Key Rd,0,5.0
+1707,November 27 2020,Georgia,Macon,425 Cherry St,1,5.0
+1709,November 26 2020,Nevada,Henderson,870 E Lake Mead Pkwy,1,5.0
+1711,November 22 2020,New York,Brooklyn,15 Albany Ave,1,6.0
+1712,November 22 2020,Illinois,Chicago,700 block of E 101st St,1,3.0
+1714,November 21 2020,Illinois,Chicago,W 79th St and S Justine St,0,6.0
+1715,November 21 2020,Arizona,Phoenix,35th Ave and Earll Dr,1,4.0
+1716,November 21 2020,Nebraska,Bellevue,1307 Cornhusker Rd,2,2.0
+1721,November 17 2020,Tennessee,Jackson,Honey Bear Cove,0,4.0
+1722,November 16 2020,Florida,Miami,200 block of S Biscayne River Dr,0,4.0
+1723,November 16 2020,Illinois,Chicago,700 block of S Pulaski Rd,0,4.0
+1726,November 15 2020,Georgia,Jonesboro,Museum Cir,2,2.0
+1727,November 14 2020,South Carolina,Sumter,1008 Marilyn Ave,3,1.0
+1728,November 14 2020,Missouri,Fulton,1915 N Bluff St,0,4.0
+1731,November 12 2020,Florida,Tampa,1200 block of E Palifox St,2,4.0
+1737,November 7 2020,Kansas,Ogden,225 Riley Ave,0,4.0
+1738,November 7 2020,South Carolina,Rock Hill,241 Albright Rd,1,3.0
+1740,November 5 2020,Ohio,Toledo,2125 Parkwood Ave,3,2.0
+1743,November 2 2020,Ohio,Mansfield,136 Sturges Ave,0,5.0
+1744,November 1 2020,South Carolina,Hollywood,7800 block of White Point Rd,0,6.0
+1745,November 1 2020,Indiana,Evansville,664 E Illinois St,0,4.0
+1748,November 1 2020,Arizona,Tucson,2500 block of E Aerospace Parkway,2,2.0
+1749,November 1 2020,New Jersey,Atlantic City,2721 Arctic Ave,1,4.0
+1750,October 31 2020,California,Sacramento,2800 block of Normington Dr,0,4.0
+1751,October 31 2020,Washington,Sumner,127th Ave E and Valley Ave E,0,5.0
+1752,October 31 2020,California,Anaheim,1210 S State College Blvd,0,4.0
+1753,October 31 2020,Nevada,North Las Vegas,3700 block of Iverson Ln,0,4.0
+1754,October 31 2020,Maryland,College Park,7700 Baltimore Ave,0,7.0
+1757,October 29 2020,Florida,Winter Garden,Center St and 11th St,0,4.0
+1760,October 25 2020,Texas,Fort Worth,1900 block of Carver Ave,2,3.0
+1763,October 24 2020,Mississippi,Greenwood,W Martin Luther King Dr,2,8.0
+1766,October 22 2020,Massachusetts,Boston,Columbia Rd and Stanwood St,0,4.0
+1767,October 22 2020,Maryland,Baltimore,500 block of W Franklin St,0,4.0
+1771,October 19 2020,Ohio,Mansfield,136 Sturges Ave,0,5.0
+1774,October 18 2020,Illinois,Chicago,200 block of N Sacramento Blvd,1,4.0
+1776,October 17 2020,New York,Lockport,43 S Niagara St,1,5.0
+1777,October 17 2020,South Carolina,Rock Hill,524 N Anderson Rd,0,5.0
+1781,October 16 2020,California,San Francisco,200 block of Scherwin St,1,3.0
+1782,October 15 2020,Louisiana,Lafayette,100 block of Laser Ln,2,2.0
+1784,October 14 2020,Pennsylvania,Philadelphia,3900 block of  Buist Ave,0,4.0
+1785,October 12 2020,South Carolina,Myrtle Beach,1012 US-501,2,3.0
+1786,October 11 2020,Georgia,Atlanta,330 W Peachtree St NW,0,4.0
+1788,October 10 2020,South Carolina,Kingstree,55 Williamsburg County Hwy,0,8.0
+1789,October 10 2020,Missouri,Saint Louis (Jennings),8800 block of Shannon Fox Cir,2,2.0
+1791,October 7 2020,Alaska,Anchorage,200 block of McCarrey St,1,4.0
+1793,October 5 2020,District of Columbia,Washington,400 block of Orange St SE,1,3.0
+1795,October 4 2020,Georgia,Atlanta,1570 Joseph E Boone Blvd NW,1,5.0
+1798,October 2 2020,California,Los Angeles,51st St and Hoover St,0,4.0
+1799,October 2 2020,Washington,Seattle,9700 block of 59th Ave S,0,4.0
+1800,October 1 2020,Michigan,Detroit,15018 Houston Whittier St,0,5.0
+1801,September 30 2020,North Carolina,Greensboro,700 block of Milton St,0,4.0
+1803,September 30 2020,Wisconsin,Milwaukee,4217 W Fond du Lac Ave,0,7.0
+1806,September 28 2020,Michigan,Detroit,6609 Michigan Ave,0,6.0
+1808,September 27 2020,California,San Bernardino,900 block of N Sierra Way,1,3.0
+1810,September 26 2020,Pennsylvania,Philadelphia,100 block of N Lindenwood St,0,4.0
+1811,September 26 2020,Alabama,Enterprise,507 Glover Ave,1,3.0
+1816,September 23 2020,Georgia,Hampton,1577 Glynn Ct,1,3.0
+1818,September 21 2020,Ohio,Struthers,111 Perry St,1,4.0
+1819,September 20 2020,New York,Corona (Queens),Merrick Blvd and Foch Blvd,0,4.0
+1820,September 20 2020,Connecticut,Stamford,Ursula Pl and Dale St,1,3.0
+1821,September 19 2020,New York,Buffalo,Glenwood Ave and Jefferson Ave,1,4.0
+1822,September 19 2020,Illinois,Chicago,12200 block of S May St,0,4.0
+1827,September 19 2020,Arkansas,West Memphis,900 block of Winchell St,0,5.0
+1830,September 15 2020,California,San Jose,600 block of S 8th St,2,4.0
+1831,September 15 2020,Illinois,Chicago,3500 block of W Lawrence Ave,0,5.0
+1833,September 13 2020,Tennessee,Manchester,I-24 and McMinnville Hwy,3,3.0
+1834,September 13 2020,Michigan,Grand Rapids,3950 Stahl Dr SE,0,7.0
+1837,September 13 2020,New Jersey,New Brunswick,32 Delafield St,2,7.0
+1838,September 12 2020,Illinois,Chicago,100 block of N Pine Ave,2,4.0
+1840,September 12 2020,Pennsylvania,Philadelphia,N 18th St and Dauphin St,0,4.0
+1842,September 10 2020,Louisiana,New Orleans,4100 block of Rayne Dr,3,2.0
+1843,September 8 2020,Maryland,Baltimore,2300 block of Greenmount Ave,0,5.0
+1845,September 7 2020,New York,Brooklyn,Norstrand Ave and Crown St,0,5.0
+1846,September 7 2020,California,Aguanga,45125 Highway 371,7,0.0
+1847,September 7 2020,Indiana,Indianapolis,W 38th St and Graceland Ave,1,4.0
+1848,September 6 2020,Georgia,Sparta,Faye St and Lee St,1,6.0
+1849,September 6 2020,Illinois,Chicago,S Kingston Ave and E 77th St,0,4.0
+1850,September 6 2020,Tennessee,Memphis,6555 Lost Oak Dr,0,4.0
+1851,September 6 2020,Colorado,Commerce City,6700 block of Birch St,0,4.0
+1852,September 6 2020,Missouri,Kansas City,3999 Swope Pkwy,0,6.0
+1855,September 6 2020,Maryland,Baltimore,4900 block of Reisterstown Rd,0,4.0
+1856,September 5 2020,Texas,Houston,9940 Fondren Rd,0,4.0
+1857,September 5 2020,Maryland,Baltimore,2000 block of W Lexington St,1,3.0
+1861,September 3 2020,Florida,Miami,2000 block of NW 71st St,1,3.0
+1865,September 2 2020,Pennsylvania,Philadelphia,1800 block of Moore St,2,2.0
+1866,September 2 2020,Georgia,Albany,1400 block of E Residence Ave,1,3.0
+1867,September 2 2020,California,Oakland,Kerwin Ave and 105th Ave,0,4.0
+1871,August 30 2020,Illinois,Zion,2300 block of Joppa Ave,1,3.0
+1872,August 30 2020,Texas,San Antonio,S Olive St and Aransas Ave,2,2.0
+1873,August 30 2020,New York,Buffalo,500 block of Fillmore Ave,1,4.0
+1875,August 30 2020,Illinois,Chicago,11601 S Western Ave,1,4.0
+1877,August 29 2020,Nevada,Las Vegas,777 E Twain Ave,2,2.0
+1881,August 28 2020,Texas,Dallas,2600 block of Elm St,1,4.0
+1882,August 27 2020,Oregon,Portland,10500 block of NE Halsey St,1,3.0
+1883,August 26 2020,Michigan,Pontiac,252 Carriage Circle Dr,3,1.0
+1889,August 24 2020,California,Sacramento,1200 block of Helena Ave,1,3.0
+1892,August 23 2020,Arkansas,Pine Bluff,2901 W 28th Ave,0,7.0
+1894,August 23 2020,Tennessee,Somerville,1100 block of Brewer Rd,1,4.0
+1896,August 23 2020,Illinois,Champaign,100 block of Kenwood Rd,0,4.0
+1897,August 23 2020,Illinois,Chicago,6600 S Halsted St,0,4.0
+1898,August 22 2020,Illinois,Rockford,1300 block of 10th St,1,3.0
+1899,August 22 2020,Alabama,Bessemer (Hueytown),Allison Bonnet Memorial Dr and Rutledge Dr,1,3.0
+1900,August 19 2020,Pennsylvania,Philadelphia,700 block of S 55th St,0,4.0
+1902,August 18 2020,Pennsylvania,Philadelphia,30th St and Cumberland St,1,4.0
+1903,August 18 2020,New York,Corona (Queens),35-35 21st St,0,4.0
+1904,August 18 2020,Illinois,Rockford,3001 Harney Ct,0,4.0
+1906,August 17 2020,New York,Brooklyn,Atlantic Ave and Hinsdale St,0,4.0
+1910,August 16 2020,Kentucky,Lexington,1000 block of Newtown Ct,1,3.0
+1912,August 16 2020,Colorado,Denver,W Alameda Ave and S Federal Blvd,2,4.0
+1916,August 15 2020,New York,Rochester,501 Thurston Rd,0,5.0
+1917,August 15 2020,Connecticut,New Haven,Rosette St and Hurlburt St,1,5.0
+1918,August 15 2020,Alabama,Troy,4100 US-231 S,2,3.0
+1921,August 12 2020,Ohio,Dayton,2049 Catalpa Dr,1,3.0
+1922,August 11 2020,California,Torrance,22904 Lockness Ave,0,5.0
+1924,August 9 2020,Ohio,Toledo,Monroe St and N Detroit Ave,0,6.0
+1925,August 9 2020,District of Columbia,Washington,3300 block of Dubois Pl SE,1,21.0
+1927,August 9 2020,Texas,Houston,9700 Homestead Rd,0,4.0
+1931,August 8 2020,Alabama,Birmingham (Ensley),426 18th St,1,5.0
+1936,August 4 2020,District of Columbia,Washington,5400 block of Georgia Ave NW,0,4.0
+1937,August 4 2020,California,Beverly Hills,13200 Mulholland Dr,1,4.0
+1946,August 1 2020,Alabama,Montgomery,1100 block of Eastern Blvd,0,4.0
+1947,July 31 2020,Pennsylvania,Philadelphia,2500 block of Ingersoll St,2,2.0
+1953,July 28 2020,Delaware,Wilmington,1100 block of Beech St,2,2.0
+1956,July 27 2020,Illinois,Chicago,705 E 92nd Pl,1,4.0
+1957,July 26 2020,Michigan,Flint,4462 Corunna Rd,1,3.0
+1959,July 26 2020,Kentucky,Louisville,I-64,1,3.0
+1960,July 26 2020,Colorado,Commerce City,6300 block of Ivanhoe St,1,3.0
+1961,July 26 2020,Arkansas,Magnolia,1000 block of W Monroe St,0,4.0
+1962,July 25 2020,Michigan,Flint,4813 Clio Rd,0,6.0
+1969,July 23 2020,Virginia,Fairfield,3700 block of Meadowbridge Rd,1,3.0
+1970,July 23 2020,Virginia,Petersburg,Wesley St,0,4.0
+1972,July 22 2020,Michigan,Warren,28200 block of Lawson St,0,4.0
+1973,July 21 2020,Illinois,Chicago,1018 W 79th St,0,15.0
+1975,July 20 2020,Illinois,Chicago,S Lawndale Ave and W Douglas Blvd,0,5.0
+1976,July 19 2020,Michigan,Detroit,McKinney St and Meuse St,1,3.0
+1979,July 19 2020,Illinois,Chicago,11300 block of South Carpenter St,2,3.0
+1982,July 18 2020,Illinois,Chicago,1600 block of S Keeler Ave,1,4.0
+1984,July 17 2020,Florida,Madison,SW Louisiana Terrace,0,4.0
+1985,July 16 2020,Tennessee,Nashville,S 7th St and Sylvan St,0,5.0
+1988,July 14 2020,Missouri,Saint Joseph,S 18th St and Charles St,0,5.0
+1990,July 13 2020,New York,Brooklyn,Remsen Ave,0,6.0
+1994,July 12 2020,New York,Brooklyn,Madison St and Marcus Garvey Blvd,1,3.0
+1995,July 12 2020,Michigan,Lansing,3029 BeauJardin Dr,0,5.0
+1997,July 12 2020,Illinois,Chicago,700 block of W 66th Pl,1,3.0
+2001,July 11 2020,Delaware,Wilmington,600 block of N Pine St,0,5.0
+2007,July 5 2020,New York,New York (Manhattan),549 Academy St,0,5.0
+2008,July 5 2020,South Carolina,Greenville,1701 White Horse Rd,2,8.0
+2009,July 5 2020,Arkansas,Helena,1317 Perry St,1,3.0
+2012,July 5 2020,Wisconsin,Milwaukee,5800 block of W Hope Ave,0,4.0
+2015,July 5 2020,Illinois,Chicago,1500 block of S Millard Ave,1,5.0
+2019,July 5 2020,Michigan,Detroit,San Juan Dr and W McNichols Rd,2,4.0
+2023,July 4 2020,Massachusetts,Lynn,134 Fayette St,1,4.0
+2025,July 4 2020,Illinois,Chicago,6100 block of S Carpenter St,4,4.0
+2026,July 4 2020,Louisiana,Baton Rouge,11300 block of Greenwell Springs Rd,0,4.0
+2029,July 3 2020,Maryland,Baltimore,700 block of S Woodington Rd,0,4.0
+2031,July 2 2020,Massachusetts,Somerville,5 River Rd,0,4.0
+2032,July 2 2020,New Jersey,Paterson,N Main St and Jefferson St,1,4.0
+2034,July 1 2020,Louisiana,Lake Charles,1600 block of Moss St,0,4.0
+2035,June 30 2020,Iowa,Davenport,1400 block of Pershing Ave,0,5.0
+2036,June 30 2020,Georgia,Atlanta,Parkway Dr,1,4.0
+2041,June 29 2020,California,Sylmar,Osborne St and Foothill Blvd,0,4.0
+2046,June 27 2020,California,Red Bluff,10815 State Hwy 99W,3,4.0
+2047,June 27 2020,Illinois,Peoria,1400 block of SW Jefferson St,0,4.0
+2051,June 26 2020,California,Fresno,Pico Ave,0,4.0
+2052,June 26 2020,Arizona,Phoenix,5035 W McDowell Rd,0,4.0
+2054,June 25 2020,Connecticut,Bridgeport,527 Huntington Rd,1,3.0
+2055,June 24 2020,Tennessee,Jackson,Melwood St,0,4.0
+2059,June 22 2020,California,San Francisco,200 block of Leavenworth St,0,5.0
+2060,June 22 2020,New York,Brooklyn,Sterling St and Brooklyn Ave,0,5.0
+2064,June 22 2020,Illinois,Chicago,5200 block of S Lowe Ave,0,4.0
+2065,June 22 2020,Ohio,Columbus,1910 Fountainview Ct,1,4.0
+2068,June 21 2020,Minnesota,Minneapolis,2939 Hennepin Ave S,0,11.0
+2070,June 21 2020,Texas,Corpus Christi,5802 Everhart Rd,1,3.0
+2072,June 21 2020,Illinois,Chicago,2600 block of W Potomac Ave,1,3.0
+2073,June 20 2020,New York,Bronx,Mount Eden Pkwy and Monroe Ave,0,4.0
+2074,June 20 2020,New York,Syracuse,Marcellus St and Wyoming St,1,8.0
+2076,June 20 2020,Michigan,Saginaw,Livingston Dr and Tausend St,1,3.0
+2078,June 20 2020,North Carolina,Pinetops,715 E Lashley St,2,2.0
+2079,June 20 2020,New Jersey,Jersey City,Union St and Ocean Ave,1,4.0
+2081,June 20 2020,New York,Bronx,Mapes Ave,0,4.0
+2083,June 17 2020,Illinois,Chicago,1323 W 76th St,0,4.0
+2086,June 14 2020,Minnesota,Minneapolis,328 W Broadway Ave,1,6.0
+2087,June 14 2020,Kentucky,Louisville,531 Franklin St,1,4.0
+2088,June 14 2020,Louisiana,Lafayette,400 block of Jefferson St,0,5.0
+2089,June 14 2020,Louisiana,Lake Charles,3945 US-90,0,4.0
+2091,June 13 2020,Arkansas,Rison,Carver St and Center St,0,4.0
+2092,June 13 2020,California,Hesperia,8100 block of Julie Ct,0,5.0
+2093,June 13 2020,Missouri,Saint Louis,3103 N Grand Blvd,2,4.0
+2094,June 13 2020,New York,Wyandanch,76 Grand Blvd,1,7.0
+2097,June 13 2020,District of Columbia,Washington,3100 block of Waclark Pl SE,2,5.0
+2098,June 12 2020,Pennsylvania,Philadelphia,N Broad St and Colwyn St,0,6.0
+2101,June 11 2020,Virginia,Richmond,800 block of N 1st St,0,4.0
+2103,June 11 2020,Louisiana,Monroe,1101 Richwood Road 2,6,0.0
+2104,June 11 2020,Texas,Houston,5840 Glenmont Dr,2,4.0
+2106,June 10 2020,Ohio,Toledo,1100 block of Baker St,1,3.0
+2108,June 9 2020,North Carolina,Scotland Neck,E 13th St and Greenwood St,0,5.0
+2110,June 9 2020,California,Vallejo,100 block of Cynthia Ave,2,3.0
+2116,June 7 2020,Tennessee,Dyersburg,1305 Grant St,0,5.0
+2117,June 7 2020,Illinois,Chicago,50 block of S Seeley Ave,1,3.0
+2119,June 6 2020,Missouri,Kansas City,E 18th St and Vine St,1,4.0
+2122,June 6 2020,Ohio,Ironton,1305 S 3rd St,0,4.0
+2124,June 4 2020,Alabama,Valhermoso Springs,522 Talucah Rd,7,0.0
+2125,June 2 2020,Texas,Dallas,7460 S Westmoreland Rd,1,3.0
+2127,June 2 2020,Illinois,Chicago,8404 S Colfax Ave,0,4.0
+2128,June 1 2020,Missouri,Saint Louis,1915 Olive St,0,4.0
+2130,May 31 2020,Pennsylvania,Philadelphia,700 block of E Clearfield St,0,4.0
+2131,May 30 2020,New Jersey,Paterson,E 23rd St and 10th Ave,0,4.0
+2134,May 30 2020,Florida,Altha,21281 Apachee Rd,2,4.0
+2138,May 28 2020,Tennessee,Memphis,TN 385 and Kirby Pkwy,0,4.0
+2139,May 28 2020,Pennsylvania,Philadelphia,300 block of N 55th St,1,3.0
+2140,May 27 2020,Massachusetts,Boston,5 Ames St,1,4.0
+2143,May 27 2020,Pennsylvania,Philadelphia,1800 block of Hart Ln,0,4.0
+2145,May 26 2020,Pennsylvania,Philadelphia,2700 block of N Darian St,0,4.0
+2147,May 26 2020,California,Los Angeles,119th St and Berendo Ave,0,5.0
+2150,May 24 2020,Missouri,Saint Louis,Union Boulevard and Cote Brilliante Ave,0,4.0
+2151,May 24 2020,Alabama,Danville,70 Flint Creek Pvt Dr,3,1.0
+2153,May 23 2020,Texas,Houston,2900 Travis St,0,4.0
+2154,May 23 2020,Illinois,Rock Island,800 14 1/2 St,1,4.0
+2156,May 23 2020,North Carolina,Charlotte,4900 Block of Albemarle Rd,0,6.0
+2157,May 23 2020,Michigan,Flint,4100 block of Minerva St,1,3.0
+2158,May 23 2020,Florida,Fort Lauderdale (Lauderhill),7776 NW 44th St,0,5.0
+2162,May 22 2020,Ohio,Cleveland,11921 Miles Ave,1,3.0
+2163,May 20 2020,Texas,Houston,6918 Landor St,2,3.0
+2167,May 17 2020,Maryland,District Heights,6800 block of Atwood St,1,3.0
+2170,May 15 2020,Florida,Gainesville,2305 SE Hawthorne Rd,0,5.0
+2173,May 13 2020,Illinois,Rockford,2914 W State St,1,4.0
+2176,May 11 2020,Alabama,Montgomery,Rosa Parks Ave and Courtland Dr,0,4.0
+2177,May 10 2020,Louisiana,Baton Rouge,2944 Plank Rd,0,5.0
+2181,May 7 2020,Maryland,Baltimore,5100 block of Stafford Rd,0,4.0
+2186,May 3 2020,Florida,Jacksonville,2100 block of Brooklyn Rd,1,3.0
+2187,May 3 2020,Illinois,Chicago,3700 W 13th St,0,5.0
+2188,May 2 2020,Pennsylvania,Philadelphia,200 block of S Cecil St,0,4.0
+2189,April 29 2020,Indiana,Indianapolis,451 E Stop 11 Rd,0,4.0
+2190,April 27 2020,Wisconsin,Milwaukee,2800 block of N 12th St,5,0.0
+2191,April 26 2020,New York,Troy,Jefferson St and 3rd St,0,4.0
+2192,April 26 2020,North Carolina,Salisbury,900 block of E Lafayette St,1,4.0
+2195,April 24 2020,Texas,Houston,4714 Ward St,3,1.0
+2196,April 24 2020,Indiana,Fort Wayne,3233 Diplomat Dr,0,4.0
+2198,April 17 2020,North Carolina,Greensboro,4400 block of Beckford Dr,1,3.0
+2202,April 11 2020,California,Bakersfield,Pioneer Rd and Sterling Rd,0,6.0
+2203,April 10 2020,Michigan,Muskegon,800 block of Oak St,0,4.0
+2204,April 8 2020,Michigan,Detroit,1200 block of Payton St,0,4.0
+2206,April 8 2020,Alaska,Anchorage,10600 block of Elmore Rd,0,4.0
+2208,April 5 2020,New York,Brooklyn,181 Rockaway Pky,0,4.0
+2209,April 5 2020,California,Los Angeles,89th St and Hobart Ave,1,3.0
+2212,April 4 2020,Texas,Lubbock,2107 49th St,2,2.0
+2214,April 3 2020,Kentucky,Louisville,1000 block of Cecil Ave,0,4.0
+2216,March 30 2020,Pennsylvania,Philadelphia,2000 block of W Harold St,0,5.0
+2217,March 29 2020,Georgia,Atlanta,Ponce de Leon Ave and Parkway Dr,0,4.0
+2219,March 23 2020,Texas,San Antonio,6700 block of Hickory Springs Dr,0,4.0
+2220,March 22 2020,South Carolina,Hanahan,Edinburgh Drive,0,4.0
+2221,March 20 2020,Virginia,Norfolk,800 block of Lincoln St,0,4.0
+2222,March 20 2020,Missouri,Saint Louis,1923 Prairie Ave,0,4.0
+2225,March 15 2020,North Carolina,Moncure,842 Moncure Flatwood Rd,7,0.0
+2226,March 15 2020,Missouri,Springfield,3264 E Battlefield Rd,5,2.0
+2228,March 14 2020,New Mexico,Albuquerque,620 block of Arno SE,1,3.0
+2231,March 10 2020,Pennsylvania,Chester,200 block of Broomall Street,2,2.0
+2233,March 8 2020,Illinois,South Holland,I 94 and E 162nd St,0,4.0
+2234,March 8 2020,California,Ceres,3600 block of Spruce Ave,1,3.0
+2236,March 7 2020,New Mexico,Albuquerque,1700 block of Rayo Del Sol Dr SW,0,4.0
+2239,March 4 2020,California,Tulare,111 W Tulare Ave,1,5.0
+2241,February 29 2020,Colorado,Brighton,Starr Ln and County Rd 2,0,5.0
+2242,February 26 2020,Wisconsin,Milwaukee,3939 W Highland Blvd,6,0.0
+2243,February 25 2020,Illinois,Chicago,1238 E 79th St,1,4.0
+2246,February 20 2020,Idaho,Caldwell,4321 S 10th Ave,2,3.0
+2249,February 16 2020,Connecticut,Hartford,451 Franklin Ave,1,5.0
+2251,February 15 2020,Louisiana,New Orleans,Dryades St and 2nd St,0,4.0
+2255,February 8 2020,Texas,Houston,1000 block of Calvin St,1,3.0
+2256,February 5 2020,Indiana,Indianapolis,4100 block of Shady Oak Dr,4,0.0
+2257,February 3 2020,Maine,Machias,323 Kennebec Rd,3,1.0
+2260,January 31 2020,California,Delano,Hiett Ave and County Line Rd,1,4.0
+2261,January 31 2020,Louisiana,Shreveport,2000 Grimmett Dr,0,4.0
+2262,January 31 2020,Florida,Boynton Beach,200 block of NE 1st Ct,1,3.0
+2263,January 30 2020,California,Merced,100 block of W 18th St,0,4.0
+2265,January 26 2020,Missouri,Cape Girardeau,631 S Sprigg St,0,5.0
+2266,January 26 2020,New York,Newburgh,1571 NY-300,3,1.0
+2269,January 24 2020,North Carolina,Vanceboro,107 Kinshaw Ct,5,0.0
+2270,January 22 2020,Washington,Seattle,1530 3rd Ave,1,7.0
+2271,January 19 2020,Missouri,Kansas City,4802 Noland Rd,2,15.0
+2272,January 19 2020,Tennessee,Memphis,6761 Winchester Rd,1,4.0
+2274,January 18 2020,Texas,South Houston,700 block of Virginia St,2,2.0
+2279,January 5 2020,Georgia,Atlanta,1008 Brady Ave NW,0,4.0
+2280,January 4 2020,Florida,Ocala,800 block of NW 6th Ter,1,3.0
+2282,January 1 2020,Ohio,Cleveland,1437 St Clair Ave NE,0,4.0
+2286,December 29 2019,New York,Buffalo,50 block of Henrietta Ave,1,3.0
+2289,December 27 2019,Georgia,Kennesaw,1575 Ridenour Pkwy NW,0,4.0
+2290,December 27 2019,Texas,Houston,500 block of Smart St,2,7.0
+2291,December 26 2019,Florida,Saint Petersburg,4300 6th St S,0,5.0
+2292,December 25 2019,California,Oakland,2100 block of 34th Ave,0,4.0
+2293,December 25 2019,Iowa,Coralville,954 Boston Way,1,3.0
+2294,December 25 2019,Virginia,Richmond,1800 E Main St,1,3.0
+2295,December 24 2019,Louisiana,New Orleans,6400 block of General Meyer Ave,0,4.0
+2296,December 24 2019,Illinois,Joliet,1200 block of Cutter Ave,0,5.0
+2297,December 24 2019,North Carolina,High Point,1226 Montlieu Ave,0,6.0
+2301,December 21 2019,Louisiana,Edgard,2555 LA-18,0,4.0
+2305,December 17 2019,Montana,Great Falls,1701 10th Ave S,4,1.0
+2307,December 14 2019,California,Ivanhoe,15700 block of Paradise Ave,0,4.0
+2311,December 8 2019,Louisiana,New Orleans,3801 Washington Ave,1,4.0
+2312,December 6 2019,Florida,Pensacola,280 Taylor Rd,4,8.0
+2313,December 4 2019,Alabama,Montgomery,500 Eastdale Rd S,2,2.0
+2314,December 1 2019,Louisiana,Cotton Valley,116 Hawthorne Loop,2,3.0
+2315,December 1 2019,Louisiana,New Orleans,2000 block of N Dorgenois St,2,2.0
+2318,December 1 2019,Louisiana,New Orleans,700 block of Canal St,0,12.0
+2320,November 29 2019,Texas,Amarillo,2650 Dumas Dr,0,7.0
+2323,November 24 2019,Alabama,Birmingham,7 15th St W,1,4.0
+2324,November 24 2019,California,Los Angeles,100 block of E 11th St,0,6.0
+2325,November 24 2019,Louisiana,Cottonport,3846 LA-29,2,2.0
+2327,November 23 2019,Louisiana,Tallulah,Depot St,1,6.0
+2328,November 21 2019,California,Long Beach,1100 block of 10th St,0,5.0
+2331,November 18 2019,New Jersey,Newark,139 S 8th St,1,4.0
+2334,November 16 2019,California,San Diego,2152 Flintridge Dr,6,0.0
+2336,November 11 2019,Florida,Belle Glade,SW 7th St,0,4.0
+2338,November 10 2019,Tennessee,Memphis,2080 E. Brooks Rd,1,4.0
+2341,November 9 2019,Georgia,Vidalia,Wiggins St,0,4.0
+2343,November 7 2019,Georgia,Conyers,1800 block of Green St,2,3.0
+2345,November 3 2019,Ohio,Toledo,600 block of Magnolia St,0,4.0
+2349,November 1 2019,Arizona,Tolleson,2434 S 86th Ln,0,5.0
+2352,October 30 2019,Pennsylvania,Philadelphia,5026 Walton Ave,4,0.0
+2356,October 27 2019,Michigan,Detroit,East Outer Dr and Helen St,0,4.0
+2358,October 26 2019,Texas,Greenville,2275 US-380,2,6.0
+2359,October 24 2019,Oklahoma,Oklahoma City,1900 block of NW 12th St,2,2.0
+2360,October 22 2019,Oklahoma,Oklahoma City (Midwest City),7020 E Green Ave,1,3.0
+2361,October 21 2019,South Carolina,Sumter,29 Wesmark Blvd,0,4.0
+2365,October 15 2019,Ohio,Columbus,1600 block of Manchester Ave,0,4.0
+2366,October 13 2019,Pennsylvania,Philadelphia,W Clearfield St and N 8th St,0,6.0
+2369,October 12 2019,Illinois,Chicago,6733 W Irving Park Rd,5,0.0
+2370,October 12 2019,Pennsylvania,Philadelphia,700 block of W Russell St,1,3.0
+2371,October 12 2019,Maryland,Baltimore,800 block of W Lexington St,1,3.0
+2372,October 12 2019,Michigan,Eastpointe,15163 E 10 Mile Rd,1,5.0
+2373,October 10 2019,Florida,Tampa,5410 N Falkenburg Rd,2,2.0
+2378,October 6 2019,Indiana,Evansville,1127 Chestnut St,0,5.0
+2381,October 5 2019,Missouri,Saint Louis,10035 Crown Point Dr,0,5.0
+2382,October 3 2019,North Carolina,Roxboro,700 South Foushee St,1,3.0
+2383,October 3 2019,Missouri,Marshall,S Olson Ave,1,3.0
+2386,September 29 2019,Wisconsin,Milwaukee,1500 block of N 29th St,0,4.0
+2387,September 29 2019,Florida,Jacksonville,2200 block of Clemente Dr,0,4.0
+2390,September 24 2019,Illinois,Chicago,2000 block of South Hoyne Ave,1,3.0
+2392,September 22 2019,Missouri,Kansas City,2111 Television Plaza,0,5.0
+2393,September 21 2019,Louisiana,New Orleans,Poland Ave and St. Claude Ave,0,4.0
+2395,September 21 2019,Indiana,Indianapolis,101 W Maryland St,0,6.0
+2399,September 18 2019,Illinois,Chicago,4200 block of W Madison St,3,1.0
+2401,September 16 2019,Wyoming,Cheyenne,3436 E 11th St,2,2.0
+2403,September 14 2019,California,Oakland,38th Ave and MacArthur Blvd,1,4.0
+2405,September 12 2019,New Mexico,Albuquerque,1919 Ladera Dr NW,1,4.0
+2406,September 12 2019,New Mexico,Albuquerque,1028 Lura Pl SW,4,2.0
+2407,September 10 2019,Illinois,Chicago,2200 block of W Maypole Ave,0,4.0
+2408,September 8 2019,South Carolina,Sumter,1083 Broad St,2,2.0
+2409,September 8 2019,Louisiana,Alexandria,2900 block of Cypress St,1,3.0
+2411,September 4 2019,Louisiana,Marrero,3044 Sorbonne Dr,2,2.0
+2413,September 2 2019,North Carolina,Greensboro,5528 W Market St,2,2.0
+2414,September 2 2019,Illinois,Chicago,6200 block of S King Dr,0,4.0
+2416,September 1 2019,Connecticut,Hartford,80 Edgewood St,1,3.0
+2417,September 1 2019,North Carolina,Rocky Mount,521 Country Club Road,0,4.0
+2420,August 31 2019,North Carolina,Charlotte,10035 Dabney Dr,1,3.0
+2422,August 31 2019,Texas,Odessa,8250 TX 191,8,23.0
+2424,August 31 2019,Maryland,Baltimore,900 block of N Monroe St,0,4.0
+2425,August 31 2019,Maryland,Frederick,600 block of N Market St,0,4.0
+2428,August 30 2019,Alabama,Mobile,1621 Virginia St,0,6.0
+2431,August 25 2019,Illinois,Chicago,8200 block of S Maryland Ave,1,3.0
+2434,August 23 2019,Texas,Houston,4900 block of Southwind St,3,2.0
+2435,August 23 2019,Georgia,Dublin,200 Riverview Park Dr,0,4.0
+2436,August 23 2019,Missouri,Saint Louis,1122 Union Blvd,1,3.0
+2439,August 20 2019,Georgia,Atlanta,111 James P Brawley Dr SW,0,4.0
+2441,August 17 2019,Texas,Houston,12500 block of Mylla St,0,6.0
+2442,August 15 2019,Alabama,Montgomery,847 N University Dr,2,3.0
+2444,August 14 2019,Pennsylvania,Philadelphia,3716 N 15th St,0,6.0
+2445,August 13 2019,Washington,Tacoma,E 38th St and E Roosevelt Ave,2,3.0
+2448,August 10 2019,Virginia,Richmond,6346 Midlothian Turnpike,0,4.0
+2450,August 9 2019,Illinois,Chicago,7300 block of S Artesian Ave,0,4.0
+2452,August 5 2019,New York,Brooklyn,216 Buffalo Ave,0,4.0
+2453,August 4 2019,Louisiana,Lake Charles,110 Pryce St,0,4.0
+2455,August 4 2019,Tennessee,Memphis,443 E Shelby Dr,1,3.0
+2457,August 4 2019,Ohio,Dayton,419 E 5th St,10,17.0
+2458,August 3 2019,Texas,El Paso,7101 Gateway Blvd,23,23.0
+2459,August 2 2019,Virginia,Suffolk,200 block of N Broad St,2,3.0
+2460,July 30 2019,Ohio,Columbus,1280 E Long St,0,5.0
+2461,July 28 2019,Pennsylvania,Philadelphia,2600 block of Carroll St,1,5.0
+2462,July 28 2019,California,Gilroy,7050 Miller Ave,4,17.0
+2465,July 28 2019,Illinois,Chicago,3938 W Roosevelt Rd,0,4.0
+2466,July 27 2019,Kansas,Wichita,505 N Rock Rd,1,3.0
+2469,July 25 2019,California,Canoga Park,21901 Roscoe Boulevard,4,2.0
+2471,July 21 2019,District of Columbia,Washington,2300 block of 15th St NE,0,4.0
+2475,July 18 2019,Illinois,Chicago,3427 W Fulton Blvd,1,3.0
+2477,July 16 2019,Texas,San Antonio,6989 San Pedro Ave,0,4.0
+2478,July 15 2019,Georgia,Atlanta,1572 Hardee St NE,0,4.0
+2480,July 13 2019,Illinois,Chicago,7900 block of S Loomis Blvd,1,4.0
+2481,July 13 2019,Pennsylvania,Philadelphia,5433 Lansdowne Ave,0,7.0
+2487,July 7 2019,Illinois,Chicago,600 block of W 61st Pl,0,4.0
+2488,July 7 2019,New Mexico,Albuquerque,211 Gold Ave SW,0,4.0
+2491,July 5 2019,Massachusetts,Boston,Maple St,0,6.0
+2492,July 5 2019,Nevada,Reno,600 block of Spokane St,1,5.0
+2494,July 5 2019,New York,Brooklyn,Elton St and Belmont Ave,0,4.0
+2497,July 4 2019,Illinois,Chicago,800 block of N Homan Ave,1,3.0
+2502,June 30 2019,California,Oakland,3000 block of Brookdale Ave,0,4.0
+2509,June 29 2019,Louisiana,Baton Rouge,7132 Florida Blvd,0,7.0
+2513,June 28 2019,New Jersey,Jersey City,167 Armstrong Ave,0,4.0
+2514,June 28 2019,Minnesota,Saint Paul,909 Desoto St,0,5.0
+2515,June 27 2019,Georgia,Atlanta,600 block of Parkway Dr,0,7.0
+2517,June 26 2019,Wisconsin,Milwaukee,2800 block of N 34th St,0,4.0
+2518,June 23 2019,California,La Jolla,7500 block of Draper Ave,1,3.0
+2519,June 23 2019,California,San Jose,568 Habbitts Court,5,0.0
+2520,June 23 2019,Indiana,South Bend,1150 E Mishawaka Ave,1,10.0
+2521,June 23 2019,Ohio,Columbus,1767 Genessee Ave,0,5.0
+2522,June 23 2019,South Carolina,Abbeville,1108 Cambridge St,3,1.0
+2523,June 22 2019,Virginia,Hampton,1st St and E Pembroke Ave,0,4.0
+2524,June 22 2019,Pennsylvania,Philadelphia,2400 block of Moore St,0,4.0
+2525,June 22 2019,Maryland,Baltimore,800 block of N Port St,1,4.0
+2527,June 21 2019,Illinois,Chicago,6300 block of S King Dr,0,4.0
+2530,June 20 2019,Pennsylvania,Allentown,343 Hamilton St,0,10.0
+2535,June 16 2019,Kentucky,Louisville,Dixie Highway and Ormsby Ave,1,6.0
+2537,June 15 2019,Louisiana,Shreveport,2500 block of Hollywood Ave,0,4.0
+2539,June 11 2019,Colorado,Aurora,12500 block of E Kansas Pl,0,4.0
+2540,June 11 2019,Georgia,Savannah,6900 Block of Damascus Rd,2,2.0
+2543,June 9 2019,Tennessee,Henning,265 N Main St,1,3.0
+2546,June 7 2019,Texas,Austin,8220 TX-71,0,5.0
+2547,June 6 2019,Illinois,Chicago,2500 block of N Lake Shore Dr,1,3.0
+2549,June 1 2019,South Carolina,Allendale,473 Main St S,0,5.0
+2550,June 1 2019,Illinois,Chicago,300 block of East Chicago Ave,0,4.0
+2553,June 1 2019,Georgia,Atlanta,12 Broad Street,0,5.0
+2554,June 1 2019,Georgia,Macon,Suzanne Dr and Robinson Dr,2,4.0
+2558,May 29 2019,Texas,Cleveland,26311 TX-321,3,2.0
+2559,May 29 2019,Louisiana,Reserve,300 block of Homewood Place,1,3.0
+2560,May 27 2019,Missouri,Saint Louis,5900 block of Goodfellow Blvd,2,2.0
+2564,May 26 2019,Virginia,La Crosse,800 block of Alvis Road,0,5.0
+2566,May 25 2019,New Jersey,Trenton,225 Brunswick Ave,0,9.0
+2567,May 25 2019,Michigan,Detroit,3400 block of Devonshire,3,2.0
+2574,May 19 2019,Oregon,Portland,226 SE Madison St,0,5.0
+2575,May 18 2019,Mississippi,Cascilla,700 Leverette Ln,1,4.0
+2578,May 18 2019,California,Long Beach,1616 West Pacific Coast Highway,1,4.0
+2579,May 18 2019,Iowa,Cedar Rapids,70 Kirkwood Ct SW,2,2.0
+2581,May 18 2019,North Carolina,Winston Salem (Winston-salem),4252 Cody Drive,2,4.0
+2582,May 17 2019,California,Sacramento,7326 Stockton Blvd,1,3.0
+2584,May 15 2019,Louisiana,Saint Rose,100 block of St. Rose Ave,0,4.0
+2586,May 13 2019,Louisiana,New Orleans,2100 block of 4th St,0,4.0
+2594,May 5 2019,California,Oceano,1001 Cabrillo Hwy,0,6.0
+2595,May 4 2019,Missouri,Saint Louis,Union Blvd and Northland Ave,1,4.0
+2597,May 4 2019,California,Stockton,5105 Holiday Dr,1,4.0
+2599,May 3 2019,Texas,Dallas,5400 Cedar Springs Rd,1,3.0
+2602,May 1 2019,Massachusetts,Boston,32 Windermere Rd,1,3.0
+2603,April 30 2019,North Carolina,Charlotte,9214 South Library Ln,2,4.0
+2604,April 28 2019,Tennessee,Nashville,1407 Dr DB Todd Jr Blvd,0,7.0
+2606,April 28 2019,Maryland,Baltimore,2544 Edmondson Ave,1,7.0
+2609,April 27 2019,California,Poway,16934 Chabad Way,1,3.0
+2610,April 27 2019,California,Los Angeles,700 N San Fernando Rd,0,6.0
+2611,April 21 2019,Pennsylvania,Philadelphia,1500 block of South 31st St,0,4.0
+2612,April 20 2019,Tennessee,Memphis,761 Chestnut Ave,0,6.0
+2614,April 18 2019,Kentucky,Louisville,4000 block of Bells Ln,0,4.0
+2615,April 16 2019,Maryland,Germantown,18700 block of Curry Powder Ln,1,3.0
+2617,April 14 2019,California,Vallejo,100 block of Princeton Ave,1,3.0
+2619,April 13 2019,California,Moreno Valley,23500 block of Alessandro Blvd,0,4.0
+2623,April 11 2019,Arizona,Phoenix,7112 W Minnezona Ave,3,2.0
+2629,April 6 2019,Florida,Tallahassee,500 block of Kissimmee St,0,4.0
+2633,April 2 2019,Mississippi,Hermanville,13195 MS 18,0,4.0
+2636,March 31 2019,South Carolina,North Charleston,1900 block of Jacksonville Rd,0,7.0
+2639,March 25 2019,Nevada,North Las Vegas,2400 block of W San Miguel St,0,5.0
+2642,March 19 2019,Arizona,Phoenix,8526 N 27th Ave,2,4.0
+2646,March 16 2019,New Jersey,Camden,619 Ferry Ave,1,3.0
+2650,March 10 2019,Louisiana,Shreveport,2700 block of San Jacinto Ave,0,4.0
+2655,February 28 2019,California,Oakland,9755 Edes Ave,1,3.0
+2660,February 20 2019,Tennessee,Covington,529 N College St,0,4.0
+2661,February 17 2019,Texas,Henderson,504 S Van Buren St,2,2.0
+2664,February 16 2019,Mississippi,Clinton,1214 Foxhill Dr,5,0.0
+2666,February 11 2019,Texas,Livingston,3628 FM 3126,5,0.0
+2669,February 5 2019,Texas,San Antonio,538 Hot Wells Blvd,2,2.0
+2670,February 4 2019,District of Columbia,Washington,2341 Pennsylvania Ave SE,0,5.0
+2672,February 3 2019,Illinois,Chicago,938 E 75th St,2,5.0
+2675,January 28 2019,Texas,Houston,7815 Harding St,2,5.0
+2676,January 27 2019,Alabama,Birmingham,Avenue O and Warrior Rd,0,5.0
+2678,January 26 2019,Louisiana,Gonzales,42350 Church Point Rd,5,0.0
+2679,January 26 2019,Indiana,Indianapolis,2957 N Sherman Dr,0,5.0
+2682,January 24 2019,Georgia,Rockmart,319 Williamson St,4,1.0
+2683,January 23 2019,Florida,Sebring,1901 US 27 S,5,0.0
+2685,January 19 2019,Pennsylvania,Lebanon,1140 Church St,0,4.0
+2686,January 19 2019,South Carolina,Gaffney,1435 Wilcox Ave,1,4.0
+2687,January 19 2019,Illinois,Chicago,4400 block of W Madison St,0,4.0
+2689,January 19 2019,Texas,Houston,7041 Sherman St,3,2.0
+2690,January 17 2019,Kentucky,Owensboro,940 Audubon Ave,3,1.0
+2694,January 13 2019,Arizona,Phoenix,2445 E Van Buren St,1,5.0
+2697,January 4 2019,California,Torrance,22501 Hawthorne Blvd,3,4.0
+2698,January 3 2019,Arizona,Yuma,3800 block of E County 18½ St,1,3.0
+2699,January 2 2019,Arkansas,Jonesboro,3516 Galaxy St,1,3.0
+2700,January 1 2019,South Carolina,Columbia,1709 Decker Blvd,0,5.0
+2701,January 1 2019,Florida,Tallahassee,2020 W Pensacola St,0,5.0
+2709,December 15 2018,Florida,Miami,239 NW 16th St,0,5.0
+2710,December 14 2018,Colorado,Colorado Springs,700 block of Geiger Ct,1,3.0
+2711,December 13 2018,Pennsylvania,Philadelphia,4505 N Broad St,0,4.0
+2712,December 11 2018,Louisiana,Natchitoches,Caspari St and University Pkwy,1,3.0
+2718,November 25 2018,Alabama,Demopolis,Floyd St and Field St,2,2.0
+2720,November 25 2018,Texas,Houston,4500 block of Yale St,1,3.0
+2724,November 19 2018,Colorado,Denver,1200 21st Street,1,4.0
+2728,November 14 2018,Louisiana,Baton Rouge,4896 Gus Young Ave,3,1.0
+2735,November 2 2018,Florida,Tallahassee,1950 Thomasville Rd,3,4.0
+2736,November 1 2018,Minnesota,Minneapolis,3400 block of Girard Ave N,0,5.0
+2738,October 31 2018,Michigan,Detroit,19000 block of Langholm St,1,3.0
+2741,October 29 2018,California,Riverside,3252 Mission Inn Ave,0,7.0
+2742,October 28 2018,Arkansas,El Dorado,2 Whites Quarters,2,2.0
+2744,October 27 2018,Pennsylvania,Pittsburgh,5898 Wilkins Ave,11,7.0
+2745,October 26 2018,New Jersey,Jersey City,77 Brinkerhoff St,1,3.0
+2746,October 24 2018,Illinois,Chicago,6200 block of S King Dr,0,5.0
+2749,October 21 2018,Washington,Lakewood,8722 S Tacoma Way,1,3.0
+2751,October 15 2018,Tennessee,Columbia,1075 Carters Creek Pike,5,0.0
+2752,October 14 2018,Texas,Fort Worth,5310 E Rosedale St,0,4.0
+2753,October 14 2018,Nevada,Las Vegas,2815 W Lake Mead Blvd,3,1.0
+2755,October 13 2018,Texas,Taft,511 Wilburn St,4,1.0
+2756,October 13 2018,Missouri,Saint Louis,400 block of Midlothian Road,0,4.0
+2759,October 8 2018,Alabama,Birmingham,Joppa Ave,0,4.0
+2761,October 6 2018,Texas,Houston,6802 Cullen Blvd,1,3.0
+2762,October 6 2018,California,Oakland,Williams St and Telegraph Ave,0,6.0
+2767,October 1 2018,Illinois,Chicago,500 block of S Michigan Ave,2,2.0
+2768,September 30 2018,California,Compton,1300 E Palmer St,1,3.0
+2770,September 28 2018,Pennsylvania,Philadelphia,5100 block of Haverford Ave,2,2.0
+2771,September 24 2018,Tennessee,Memphis,1528 Ragan St,3,2.0
+2772,September 23 2018,California,Bakersfield,2600 block of Chandler Court,1,4.0
+2776,September 20 2018,Maryland,Aberdeen,1501 Perryman Rd,4,3.0
+2777,September 20 2018,New York,Syracuse,1317 Midland Ave,0,5.0
+2778,September 19 2018,Wisconsin,Middleton,1850 Deming Way,1,4.0
+2779,September 19 2018,Pennsylvania,Masontown,1 E Church St,1,4.0
+2780,September 19 2018,Illinois,Chicago,W Cermak Rd and S State St,0,4.0
+2781,September 18 2018,Louisiana,New Orleans (Algiers),1100 block of Sumner St,0,4.0
+2782,September 18 2018,Tennessee,Memphis,4622 Faronia Rd,0,4.0
+2784,September 15 2018,Wisconsin,Milwaukee,820 S 21st St,0,4.0
+2787,September 10 2018,Tennessee,Memphis,140 Lt George W Lee Ave,0,5.0
+2792,September 6 2018,Ohio,Cincinnati,511 Walnut St,4,2.0
+2796,September 2 2018,Alabama,Birmingham,500 23rd St S,0,7.0
+2797,September 2 2018,Arkansas,Fort Smith,801 Garrison Ave,0,4.0
+2798,September 2 2018,California,San Bernardino,1277 East Lynwood Drive,0,8.0
+2799,September 2 2018,New Jersey,Trenton,Stuyvesant Ave and Bryn Mawr Ave,0,4.0
+2800,September 1 2018,Florida,Fort Lauderdale (Lauderhill),5225 NW 24th Ct,1,3.0
+2801,September 1 2018,Ohio,Cleveland,3232 Lakeside Ave East,1,7.0
+2803,August 27 2018,Arkansas,Pine Bluff,2600 block of W 34th Ave,1,3.0
+2804,August 26 2018,Florida,Jacksonville,2 Independent Dr,3,9.0
+2806,August 25 2018,Tennessee,Nashville,1564 9th Ave N,1,4.0
+2807,August 23 2018,Pennsylvania,Philadelphia,5800 block of Oakland St,0,4.0
+2808,August 23 2018,Maryland,Baltimore,1700 block of Homestead St,0,4.0
+2809,August 22 2018,Missouri,Saint Louis,I-64 and Jefferson Ave,0,4.0
+2813,August 19 2018,Illinois,Chicago,7400 block of S Dante Ave,0,5.0
+2814,August 18 2018,New York,Bronx,925 Allerton Ave,0,4.0
+2816,August 15 2018,South Carolina,Greenwood,104 Mimosa Ct,0,5.0
+2817,August 14 2018,Pennsylvania,Wyncote,1000 S Easton Rd,0,5.0
+2820,August 11 2018,California,San Francisco,Geneva St and Mission St,1,4.0
+2822,August 11 2018,Ohio,Columbus,1280 Summit St,0,4.0
+2824,August 10 2018,Michigan,Detroit,6300 block of Vinewood St,0,4.0
+2828,August 5 2018,Illinois,Chicago,1300 block of S Millard Ave,1,5.0
+2829,August 5 2018,Illinois,Chicago,1300 block of W 76th St,0,8.0
+2832,August 4 2018,Nevada,Las Vegas,3400 block of Coran Ln,0,6.0
+2833,August 4 2018,Missouri,Kansas City,E 18th St and Highland Ave,0,6.0
+2834,August 4 2018,Illinois,Chicago,1600 block of N Leclaire Ave,1,3.0
+2835,August 4 2018,Wisconsin,Milwaukee,40th St and Vliet St,0,4.0
+2837,July 30 2018,Georgia,Savannah,12328 Largo Dr,0,4.0
+2839,July 29 2018,Pennsylvania,York,100 block of E Maple St,0,4.0
+2840,July 29 2018,Arizona,Phoenix,2501 E Van Buren St,1,4.0
+2841,July 29 2018,Michigan,Lansing,Spring and River Street,0,4.0
+2842,July 28 2018,Louisiana,New Orleans,3400 S Claiborne Ave,3,7.0
+2843,July 28 2018,California,Los Angeles,8801 S Vermont Ave,2,4.0
+2847,July 26 2018,California,Oakland,73rd Ave and Bancroft Ave,2,2.0
+2848,July 26 2018,Texas,Dallas,3019 South Blvd,0,6.0
+2849,July 25 2018,Louisiana,New Orleans,7000 block of Bullard Ave,0,4.0
+2851,July 21 2018,Maryland,Baltimore,1000 block of Dundalk Ave,0,4.0
+2852,July 21 2018,Illinois,Chicago,3100 block of W Fulton St,2,5.0
+2854,July 20 2018,New Jersey,Elizabeth,323 Irvington Ave,0,4.0
+2855,July 18 2018,Oklahoma,Oklahoma City,7201 Melrose Ln,0,4.0
+2860,July 15 2018,Tennessee,Chattanooga,1400 Cowart St,0,5.0
+2862,July 13 2018,Virginia,Richmond,1401 Roseneath Rd,1,3.0
+2864,July 11 2018,Texas,Houston,9550 Bissonnet St,0,4.0
+2866,July 9 2018,Florida,Orlando,Southland Blvd and Orange Blossom Trail,1,4.0
+2867,July 9 2018,Delaware,Wilmington,2709 Ferris Rd,5,0.0
+2869,July 8 2018,Tennessee,Memphis,Mount Moriah Rd and Mendenhall Rd,0,4.0
+2870,July 7 2018,Alabama,Wetumpka,135 Granite Way,3,2.0
+2871,July 5 2018,New York,Brooklyn,280 Herkimer St,0,4.0
+2872,July 5 2018,New York,Albany,First St and Lexington Ave,0,4.0
+2874,July 5 2018,Virginia,Virginia Beach,1800 block of Atlantic Ave,0,6.0
+2876,July 4 2018,Georgia,Atlanta,5456 E Fayetteville Rd,1,3.0
+2877,July 3 2018,Missouri,Saint Louis,1700 block of Billups Ave,1,5.0
+2878,July 3 2018,District of Columbia,Washington,1700 block of Benning Rd NE,0,4.0
+2881,June 30 2018,Maryland,Baltimore,4000 block of Penhurst Ave,0,6.0
+2882,June 30 2018,Georgia,Ashburn,800 Block of W. Washington,1,6.0
+2884,June 28 2018,Maryland,Annapolis,888 Bestgate Rd,5,0.0
+2885,June 27 2018,California,Oakland,8901 MacArthur Boulevard,1,3.0
+2886,June 27 2018,Texas,San Antonio,100 block of Holly Street,0,4.0
+2887,June 27 2018,Connecticut,Hartford,124 Hillside Ave,0,4.0
+2889,June 24 2018,North Carolina,Sanford,109 S Steele St,1,6.0
+2890,June 24 2018,Florida,Punta Gorda,2450 Harbour Dr,0,4.0
+2891,June 24 2018,Florida,Indiantown,17068 SW Palm Beach St,0,4.0
+2892,June 24 2018,Florida,Palm Beach Gardens (Riviera Beach),1200 block of W 35th St,1,3.0
+2893,June 24 2018,Indiana,Gary,2500 block of Harrison Street,1,3.0
+2894,June 24 2018,Ohio,Sandusky,1504 Milan Rd,0,5.0
+2897,June 23 2018,Tennessee,Covington,319 N High St,0,4.0
+2898,June 22 2018,Pennsylvania,Homestead (Munhall),1324 Margaret St,1,3.0
+2899,June 21 2018,California,San Bernardino,279 W Base Line,1,3.0
+2900,June 21 2018,Louisiana,Morganza,Deaton Ln,0,4.0
+2901,June 21 2018,Illinois,Chicago,6500 block of S Claremont Ave,0,4.0
+2902,June 20 2018,California,Modesto,2300 block of West Hatch Road,0,5.0
+2904,June 18 2018,Illinois,Bloomington,311 Riley Dr,3,1.0
+2905,June 18 2018,Illinois,Chicago,1300 block of S Loomis St,2,3.0
+2906,June 17 2018,North Carolina,Charlotte,3215 Queen City Dr,0,4.0
+2908,June 17 2018,Georgia,Macon,325 Edgewood Ln,1,3.0
+2909,June 17 2018,Illinois,Chicago,2200 block of S Sacramento Ave,0,4.0
+2910,June 14 2018,California,Union City,32992 Mission Blvd,0,5.0
+2911,June 14 2018,New York,Buffalo,Marigold Ave,1,4.0
+2914,June 14 2018,Pennsylvania,Philadelphia,400 block of Penn St,0,4.0
+2915,June 12 2018,New York,Bronx,W 166th St and  Summit Ave,0,4.0
+2917,June 11 2018,Florida,Orlando,4932 Eaglesmere Dr,6,0.0
+2918,June 10 2018,California,Valley Village,12719 Tiara St,0,6.0
+2919,June 10 2018,Indiana,Indianapolis (Lawrence),4745 N Richardt Ave,1,4.0
+2920,June 10 2018,Illinois,Aurora,300 block of W Park Ave,0,7.0
+2921,June 10 2018,Florida,Bradenton,5627 14th St W,1,5.0
+2922,June 10 2018,Illinois,Chicago,6400 block of S Eberhart Ave,1,5.0
+2924,June 9 2018,North Carolina,Kannapolis,1709 S Cannon Blvd,0,4.0
+2926,June 9 2018,Pennsylvania,Philadelphia,2000 block of 20th St,1,4.0
+2930,June 2 2018,Nebraska,Omaha,S 11th St and Farnam St,1,6.0
+2933,May 27 2018,Louisiana,Shreveport,857 E Stoner Ave,0,4.0
+2935,May 25 2018,Ohio,Cincinnati,1000 block of Ross Avenue,0,4.0
+2936,May 20 2018,Indiana,Anderson,1604 Madison Ave,0,4.0
+2939,May 16 2018,Texas,Ponder,610 Lone Star Park Ln,5,1.0
+2942,May 13 2018,California,Stockton,2436 Belleview St,3,2.0
+2944,May 12 2018,Nebraska,Omaha,3201 Decatur St,0,6.0
+2945,May 12 2018,New Jersey,Paulsboro,275 W Buck St,0,4.0
+2946,May 11 2018,Missouri,Saint Louis,4800 block of Farlin Ave,0,4.0
+2948,May 9 2018,Missouri,Saint Louis,5200 block of Minerva Avenue,0,4.0
+2950,May 7 2018,California,San Diego,15th St and J St,0,5.0
+2953,May 5 2018,Georgia,Columbus,4944 Sentry Street,0,5.0
+2955,May 4 2018,Illinois,Chicago Heights,200 block of E 23rd St,0,4.0
+2956,May 2 2018,Illinois,Chicago,3500 block of W Grenshaw St,1,4.0
+2957,May 2 2018,Minnesota,Minneapolis,2400 block of Ogema Place,0,5.0
+2958,May 2 2018,New York,Brooklyn,333 Bristol St,1,4.0
+2959,May 1 2018,Louisiana,New Orleans,3200 block of Saint Claude Ave,0,5.0
+2960,April 30 2018,Florida,Pompano Beach,4251 N Dixie Hwy,0,4.0
+2961,April 30 2018,District of Columbia,Washington,3600 block of New York Ave NE,0,4.0
+2964,April 29 2018,North Carolina,Monroe,1500 block of Massey St,1,3.0
+2965,April 29 2018,Florida,West Palm Beach,1969 S Military Trail,1,3.0
+2966,April 28 2018,North Carolina,Maxton,Modest Rd,0,5.0
+2967,April 25 2018,Arkansas,Pine Bluff,300 block of West 24th Street,0,4.0
+2968,April 25 2018,Missouri,Saint Louis,1151 Northdale Dr,3,1.0
+2971,April 22 2018,Louisiana,New Orleans,1900 block of St Roch Ave,2,4.0
+2972,April 21 2018,Pennsylvania,Philadelphia,1800 block of W Diamond St,2,2.0
+2974,April 18 2018,North Carolina,Asheville,73 Hansel Ave,4,3.0
+2976,April 9 2018,California,Vallejo,201 Maine St,0,4.0
+2977,April 8 2018,North Carolina,Hickory,247 1st Ave NW,1,3.0
+2978,April 8 2018,Florida,Miami,1300 block of NW 63rd Terrace,2,2.0
+2981,April 4 2018,Louisiana,New Orleans,3300 Garden Oaks Drive,2,2.0
+2982,April 2 2018,Texas,Houston,8500 block of Redcliff Rd,1,3.0
+2983,April 1 2018,Alabama,Mobile,3556 Halls Mill Rd,1,4.0
+2988,March 24 2018,Utah,Salt Lake City (West Valley City),3180 South 5600 West,0,4.0
+2989,March 21 2018,California,San Francisco,949 Geneva Ave,1,5.0
+2990,March 17 2018,Kentucky,Louisville,2928 W Kentucky St,0,7.0
+2991,March 17 2018,Illinois,Harvey,16700 S Halsted St,0,4.0
+2992,March 13 2018,Florida,Macclenny,South Blvd,0,4.0
+2993,March 12 2018,California,Modesto,2000 block of Robertson Rd,0,4.0
+2995,March 11 2018,Illinois,Champaign,700 block of N Hickory St,1,3.0
+2997,March 9 2018,North Carolina,Wadesboro,1300 E Caswell St,3,1.0
+2998,March 7 2018,Alabama,Hurtsboro,531 Main Street,2,2.0
+2999,March 4 2018,Illinois,Rockford,426 Howard Ave,1,4.0
+3001,March 3 2018,Florida,Miami,1300 Block of NW 62nd Ln,0,4.0
+3005,February 18 2018,Texas,San Antonio,2893 Cinema Ridge,0,5.0
+3007,February 17 2018,Tennessee,Memphis,3188 N Watkins Ave,0,5.0
+3009,February 14 2018,Florida,Pompano Beach (Parkland),5901 Pine Island Rd,17,17.0
+3010,February 13 2018,Louisiana,New Orleans,5400 block of Andry St,2,3.0
+3012,February 10 2018,Kentucky,Paintsville,413 Mill St,5,0.0
+3013,February 7 2018,Florida,Lake Worth (Lantana),I-95 and Lantana Ave,3,3.0
+3014,February 5 2018,Colorado,Colorado Springs,4225 Galley Rd,2,4.0
+3015,February 3 2018,Ohio,Cleveland (Garfield Heights),11321 Broadway Ave,1,5.0
+3016,January 31 2018,Missouri,Saint Louis,Goodfellow Blvd and Dr Martin Luther King Dr,0,4.0
+3018,January 28 2018,Indiana,Indianapolis,1313 N Sherman Dr,2,3.0
+3019,January 28 2018,Pennsylvania,Reading,123 S 3rd St,4,0.0
+3020,January 27 2018,Kentucky,Bowling Green,645 Pearl Street,0,4.0
+3021,January 27 2018,California,Los Angeles,243 East 119th St,0,5.0
+3023,January 23 2018,Kentucky,Benton,416 High School Rd,2,14.0
+3024,January 23 2018,Pennsylvania,Philadelphia,N 24th St and Ridge Ave,0,4.0
+3026,January 21 2018,Illinois,Chicago,3200 W Division St,0,4.0
+3029,January 14 2018,Alabama,Eutaw,809 Mesopotamia St,1,4.0
+3030,January 14 2018,Alabama,Madison,101 Westchester Dr,0,4.0
+3031,January 12 2018,Tennessee,Nashville,2614 Jenkins Ct,3,2.0
+3034,January 7 2018,Florida,Plantation,5225 W Broward Blvd,0,4.0
+3035,January 5 2018,Mississippi,Hattiesburg,6168 US 49,0,6.0
+3036,January 4 2018,Arkansas,Brinkley,615 W 6th St,1,3.0
+3037,January 1 2018,Alabama,Huntsville,2025 Sparkman Dr NW,1,3.0
+3040,December 31 2017,New Jersey,Long Branch,635 Wall St,4,0.0
+3041,December 27 2017,Nevada,Las Vegas,3750 E Bonanza Rd,2,2.0
+3043,December 24 2017,Mississippi,Vicksburg,1111 Mulberry Street,0,5.0
+3044,December 24 2017,Alabama,Troy,100 block of Chapman St,1,4.0
+3045,December 23 2017,Louisiana,Eunice,100 block of City Avenue,1,3.0
+3048,December 21 2017,Louisiana,Lafayette,1500 block of N University Avenue,0,4.0
+3049,December 16 2017,Mississippi,Mc Cool (Mccool),Ferguson Rd,0,4.0
+3051,December 13 2017,Ohio,Columbus,200 block of E Barthman Ave,1,3.0
+3052,December 12 2017,Kentucky,Louisville,17th and Gallagher Streets,0,4.0
+3053,December 12 2017,Texas,Garland,1301 Rivercrest Ln,0,4.0
+3055,December 6 2017,Illinois,Chicago,4620 N Broadway,0,4.0
+3057,December 3 2017,Tennessee,Memphis,656 Marshall Ave,1,3.0
+3058,December 2 2017,Michigan,Detroit,5200 Woodward Avenue,0,4.0
+3062,November 18 2017,Minnesota,Minneapolis,3600 block of N Emerson Ave,0,4.0
+3064,November 16 2017,Georgia,Columbus,1400 block of 15th Street,0,7.0
+3067,November 12 2017,Indiana,Gary,4601 Melton Rd,0,7.0
+3068,November 12 2017,California,Fresno,S Calvin Ave,0,5.0
+3070,November 11 2017,Texas,Dallas,2532 Martin Luther King Jr Blvd,1,3.0
+3071,November 11 2017,North Carolina,Fayetteville,2835 Bragg Blvd,1,5.0
+3074,November 9 2017,Pennsylvania,Philadelphia,1800 block of Ringgold,0,4.0
+3075,November 5 2017,Texas,Sutherland Springs,216 4th St,27,20.0
+3077,November 4 2017,Ohio,Youngstown,2810 Market St,0,4.0
+3078,November 4 2017,California,Santa Monica,1515 Ocean Avenue,1,3.0
+3082,November 3 2017,Louisiana,Lacombe,27600 block of Mirmar Street,1,4.0
+3085,October 28 2017,Virginia,Petersburg,N Sycamore St and Franklin,1,3.0
+3087,October 27 2017,California,San Francisco,1100 block of Fillmore,0,4.0
+3088,October 23 2017,California,Clearlake Oaks,13000 block of Anchor Village,2,3.0
+3089,October 22 2017,Connecticut,Hartford,Wethersfield Avenue and Elliott Street,0,4.0
+3090,October 22 2017,Alabama,Lanett,1606 19th St Sw,2,7.0
+3091,October 21 2017,Florida,Tampa,400 block of E Nordica St,0,4.0
+3092,October 21 2017,Florida,Jacksonville,164 E Eubanks St,0,4.0
+3093,October 21 2017,Tennessee,Nashville,1277 12th Ave S,0,4.0
+3095,October 18 2017,Maryland,Edgewood,2111 Emmorton Park Rd,3,3.0
+3096,October 17 2017,New York,Brooklyn,181 Martense St,0,4.0
+3101,October 11 2017,Ohio,Pedro,15497 SR 93,4,0.0
+3107,October 3 2017,Florida,Miami,2051 NW 65th St,0,4.0
+3109,October 1 2017,Nevada,Las Vegas,3950 Las Vegas Blvd S,59,441.0
+3111,September 28 2017,Louisiana,New Orleans,2001 N Rocheblave St,1,3.0
+3115,September 24 2017,Maryland,Baltimore,500 block of E. Patapsco Avenue,0,4.0
+3116,September 24 2017,Tennessee,Antioch,3890 Pin Hook Rd,1,8.0
+3117,September 24 2017,New York,Syracuse,1226 E Fayette St,0,4.0
+3119,September 24 2017,New Jersey,Mays Landing,6000 block of Hoover Dr,1,3.0
+3122,September 23 2017,Connecticut,Hartford,1164 Albany Ave,2,2.0
+3123,September 20 2017,Indiana,Gary,4300 block of 23rd Ct,0,5.0
+3124,September 17 2017,Michigan,Detroit,5000 block of Stanton Street,1,3.0
+3126,September 16 2017,South Carolina,Columbia,920 Lady Street,0,8.0
+3127,September 15 2017,Illinois,Chicago,4700 block of S Fairfield Ave,4,0.0
+3129,September 13 2017,Washington,Rockford,14626 S Jackson Rd,1,3.0
+3131,September 13 2017,Pennsylvania,Philadelphia,3100 block of N 2nd St,0,4.0
+3133,September 10 2017,Louisiana,New Orleans,2101 N Claiborne Ave,1,3.0
+3134,September 9 2017,Alabama,Selma,Kings Bend Road,0,4.0
+3140,August 28 2017,New Mexico,Clovis,701 N Main St,2,4.0
+3141,August 27 2017,California,Sacramento,7760 24th St,1,4.0
+3147,August 21 2017,North Carolina,Whitakers,980 Fishing Creek Rd,4,0.0
+3148,August 21 2017,New Jersey,Newark,700 block of S 19th St,1,3.0
+3149,August 21 2017,Maryland,Baltimore,Cottage Avenue and Park Heights Avenue,1,3.0
+3150,August 21 2017,Tennessee,Memphis,262 Decatur St,0,4.0
+3151,August 20 2017,New York,Brooklyn,100th St and Ave M,0,4.0
+3152,August 20 2017,Illinois,Chicago,11901 S Loomis St,2,5.0
+3153,August 19 2017,Ohio,Cleveland,11143 Superior Ave,1,4.0
+3155,August 14 2017,California,North Hollywood,Morrison St and Klump Ave,2,2.0
+3157,August 13 2017,California,Sacramento,4000 Block of Martin Luther King Jr Blvd,0,4.0
+3158,August 13 2017,Virginia,Suffolk,8700 block of Quay Rd,0,4.0
+3159,August 12 2017,Missouri,Saint Louis,12310 Bellefontaine Rd,1,3.0
+3162,August 6 2017,New York,Bronx,Unionport Rd,0,4.0
+3164,August 5 2017,New Jersey,Lakewood,900 block of Brook Road,0,4.0
+3165,August 5 2017,South Carolina,Allendale,300 block of Ellis St,1,3.0
+3167,August 4 2017,Montana,Lodge Grass,200 block of North Helen Street,3,2.0
+3168,August 3 2017,District of Columbia,Washington,3426 18th St NE,1,3.0
+3169,August 2 2017,Maryland,Baltimore,900 block of N Broadway,0,4.0
+3173,July 31 2017,Illinois,Decatur,Jasper St and Main St,0,4.0
+3174,July 30 2017,Texas,El Paso,1810 George Dieter Dr,1,3.0
+3179,July 27 2017,Illinois,Chicago,2000 block of E 71st St,1,4.0
+3181,July 25 2017,Florida,Jacksonville,1040 Golfair Boulevard,1,3.0
+3184,July 22 2017,Ohio,Cincinnati,130 E Clifton Ave,0,5.0
+3185,July 19 2017,Virginia,Richmond,2300 block of Bethel St,0,5.0
+3186,July 19 2017,California,Los Angeles,Imperial Hwy and Broadway,1,3.0
+3189,July 18 2017,Arizona,El Mirage,NW Grand Ave and W Thunderbird Rd,0,4.0
+3190,July 15 2017,Pennsylvania,Philadelphia,21st and Fitzwater,1,3.0
+3192,July 9 2017,Virginia,Lawrenceville,500 block of Sturgeon Rd,0,7.0
+3193,July 8 2017,Illinois,Alton,700 block of Oakwood Ave,0,4.0
+3194,July 8 2017,Ohio,Cincinnati,9917 Capstan Dr,1,8.0
+3199,July 4 2017,Florida,Orlando (Pine Castle),501 W Lancaster Rd,0,4.0
+3202,July 3 2017,Alabama,Prattville,112 US 82,3,1.0
+3203,July 3 2017,Michigan,Pontiac,50 block of Thorpe St,1,3.0
+3207,July 1 2017,Illinois,Momence,2727 S 13000 Rd E,0,4.0
+3208,July 1 2017,New Jersey,Newark,Lincoln Park and Pennsylvania Avenue,2,2.0
+3214,June 24 2017,Florida,Fort Lauderdale,2335 NW 16th Ct,1,4.0
+3215,June 24 2017,New York,New York (Manhattan),114th St and Manhattan Ave,0,5.0
+3216,June 24 2017,New Jersey,Willingboro,Pastoral Lane,0,4.0
+3217,June 22 2017,Georgia,Atlanta,1100 block of Osborne Street,1,6.0
+3218,June 18 2017,Missouri,Saint Louis,1900 block of N 14th St,3,2.0
+3220,June 18 2017,Illinois,Chicago,3300 block of W Crystal St,0,4.0
+3223,June 17 2017,Ohio,Columbus,6252 Busch Blvd,1,4.0
+3227,June 14 2017,Ohio,Canton,14th St NE and Gibbs Ave NE,0,4.0
+3228,June 14 2017,California,San Francisco,720 San Bruno,4,2.0
+3230,June 13 2017,Maryland,Baltimore,1200 block of Bonaparte Avenue,2,2.0
+3231,June 13 2017,Missouri,Saint Louis (University City),Ferguson Ave and Plymouth Ave,0,4.0
+3232,June 11 2017,Illinois,Chicago,3300 block of W Douglas Blvd,0,9.0
+3234,June 11 2017,Texas,Houston,505 Cypress Station Dr,0,4.0
+3236,June 9 2017,Texas,Fort Worth,East Davis Avenue and New York Avenue,2,5.0
+3237,June 8 2017,Louisiana,New Orleans,3650 Franklin Ave,0,6.0
+3238,June 6 2017,Utah,Sandy,2232 Alta Canyon Drive,3,2.0
+3239,June 5 2017,Florida,Orlando,2427 Forsyth Rd,6,0.0
+3241,June 3 2017,Louisiana,New Orleans,3717 Tulane Ave,3,2.0
+3242,June 2 2017,California,Los Angeles,89th St and Broadway,1,3.0
+3244,June 1 2017,Missouri,Saint Louis,Beacon Ave and Lillian Ave,3,1.0
+3247,May 28 2017,Alabama,Phenix City,100 block of 6th Street South,0,12.0
+3248,May 28 2017,New Jersey,Paterson,86 Main Street,1,5.0
+3249,May 28 2017,Mississippi,Moss Point,6103 Hwy. 63,0,5.0
+3252,May 27 2017,Mississippi,Bogue Chitto,2871 Lee Dr,8,1.0
+3254,May 21 2017,Iowa,Des Moines,4300 Beaver Dr,1,3.0
+3257,May 16 2017,South Carolina,Ruffin,21785 Lowcountry Hwy,3,1.0
+3261,May 14 2017,Texas,Fort Worth,8600 block of Calmont Ave,0,4.0
+3264,May 7 2017,Illinois,Chicago,2600 block of 46th Pl,2,8.0
+3265,May 4 2017,Michigan,Flint,600 block of Copeman Boulevard,1,3.0
+3266,May 2 2017,Florida,Jacksonville,1566 West 24th Street,1,3.0
+3270,April 30 2017,Florida,Jacksonville,1200 Ken Knight Dr N,0,5.0
+3272,April 29 2017,California,Los Angeles (Boyle Heights),Murchison St and Lancaster Ave,1,3.0
+3274,April 29 2017,California,Whittier,10000 block of Carmentia Rd,1,5.0
+3277,April 29 2017,Virginia,Virginia Beach,200 block of 18th St,0,4.0
+3279,April 27 2017,New Jersey,Newark,1100 block of S Orange Ave,1,3.0
+3280,April 26 2017,Florida,Miami,SW 264th St and 139th Ave,0,4.0
+3282,April 20 2017,Kentucky,Louisville,700 block of East Jacob Street,0,4.0
+3283,April 16 2017,California,Vallejo,110 Calhoun Street,0,4.0
+3287,April 15 2017,Pennsylvania,Philadelphia,5900 block of Hammond St,0,4.0
+3291,April 15 2017,California,Banning,900 block of N Allen St,0,4.0
+3292,April 13 2017,Georgia,Atlanta,30 Anderson Ave SW,1,3.0
+3295,April 7 2017,North Carolina,Hickory,1423 29th Ave Dr NE,3,1.0
+3296,April 7 2017,Texas,Houston,3829 Mount Pleasant St,5,0.0
+3297,April 7 2017,Minnesota,Saint Paul,1600 block of English St,4,1.0
+3299,April 6 2017,Louisiana,Lake Charles,2000 block of Tulip St,1,3.0
+3300,April 3 2017,Pennsylvania,Philadelphia,1100 block of W Stiles St,3,1.0
+3304,April 1 2017,California,Pittsburg,100 block of Madoline Street,0,5.0
+3305,April 1 2017,Florida,Tampa,219 S Howard Ave,1,4.0
+3306,April 1 2017,Oklahoma,Oklahoma City,1200 block of N Woodward Avenue,2,3.0
+3307,March 30 2017,Illinois,Chicago,2704 E 75th St,4,0.0
+3309,March 26 2017,Ohio,Cleveland,E 75th St,2,2.0
+3312,March 25 2017,Tennessee,Knoxville,Minnesota Ave,1,4.0
+3316,March 24 2017,Missouri,Saint Louis,5100 block of Palm St,1,6.0
+3317,March 22 2017,Wisconsin,Rothschild,1133 E Grand Ave,5,0.0
+3323,March 7 2017,Illinois,Chicago,W 76th St and S May St,0,4.0
+3325,March 4 2017,Kansas,Topeka,SE Bellview Ave and SE 23rd St,1,4.0
+3329,February 28 2017,Ohio,Cincinnati,1700 of Casey Dr,0,6.0
+3331,February 26 2017,Indiana,Gary,1700 Grant St,1,4.0
+3334,February 22 2017,New York,Rochester,191 Genesee St,0,4.0
+3335,February 21 2017,Ohio,Cleveland,16700 Lorain Ave,0,4.0
+3337,February 20 2017,Ohio,Cleveland,1082 East 105th Street,0,5.0
+3338,February 19 2017,Virginia,Norfolk,Church Street and East Virginia Beach Blvd,1,3.0
+3340,February 18 2017,Indiana,South Bend,1000 block of Yukon St,1,3.0
+3341,February 15 2017,California,Salinas,30 Soledad Street,0,4.0
+3342,February 15 2017,Illinois,Chicago,3949 South Albany Avenue,3,2.0
+3343,February 12 2017,Missouri,Caruthersville,908 Truman Blvd,1,6.0
+3344,February 12 2017,New York,Newburgh,253 South William Street,1,3.0
+3345,February 12 2017,Florida,Greenville,Church Ave and Obadiah St,0,5.0
+3346,February 11 2017,Illinois,Chicago,100 block of N Mayfield,1,3.0
+3347,February 11 2017,Tennessee,Savannah,Clifton Road and Midway Drive,0,4.0
+3348,February 10 2017,Louisiana,New Orleans,2nd St and Dryades St,1,5.0
+3350,February 8 2017,Ohio,Cleveland,16379 Euclid Ave,1,4.0
+3351,February 7 2017,South Carolina,Columbia,5500 block of Fairfield Road,0,4.0
+3352,February 7 2017,Arkansas,Little Rock,25 Par Drive,1,4.0
+3354,January 31 2017,Tennessee,Memphis,1576 S White Station Rd,0,4.0
+3356,January 30 2017,Minnesota,Minneapolis (Crystal),5410 Lakeland Ave N,0,4.0
+3358,January 27 2017,Washington,Bremerton,Tenino Dr W,4,0.0
+3359,January 27 2017,Tennessee,Brownsville,221 Morgan St,0,10.0
+3360,January 26 2017,Georgia,Albany,1510 Maryland Drive,2,3.0
+3361,January 25 2017,Illinois,Chicago,500 block of E 75th St,0,6.0
+3363,January 22 2017,Illinois,Chicago (Englewood),1800 block of W 63rd,0,4.0
+3366,January 21 2017,Florida,Boynton Beach,500 NE 2nd St,0,5.0
+3367,January 21 2017,Tennessee,Memphis,500 block of Delta Road,2,2.0
+3368,January 20 2017,Mississippi,Como,Smart Road,1,4.0
+3369,January 20 2017,California,Fresno,4700 block of E Montecito Ave,0,4.0
+3370,January 16 2017,Texas,Houston,8535 Martin Luther King Boulevard,0,4.0
+3371,January 16 2017,Florida,Miami,6011 NW 32nd Ave,0,8.0
+3372,January 15 2017,Colorado,Capulin,County Road Y,3,1.0
+3374,January 12 2017,Missouri,Kansas City,8607 E 61st Terrace,3,2.0
+3376,January 11 2017,New Jersey,Newark,Hawkins Street and Christie Street,1,3.0
+3378,January 7 2017,Michigan,Flint,2500 block of Churchill Ave,1,3.0
+3385,January 1 2017,Florida,Miami,8000 block of NW 14th Ave,0,7.0
+3392,December 25 2016,Alabama,Ozark,858 US-231,0,4.0
+3396,December 23 2016,Alabama,Birmingham,3813 Richard Arrington Boulevard North,1,3.0
+3397,December 23 2016,Illinois,Chicago,4900 block of W Hubbard,0,4.0
+3399,December 17 2016,North Carolina,Charlotte,4115 N. Tryon Street,0,4.0
+3403,December 11 2016,New York,Brooklyn,192 Knickerbocker Ave,0,4.0
+3404,December 11 2016,Florida,Orlando (Pine Hills),4305 N Pine Hills Rd,1,4.0
+3405,December 11 2016,Maryland,Baltimore,3916 South Hanover Street,0,5.0
+3410,December 3 2016,California,Los Angeles,91st Street and Western Avenue,0,6.0
+3411,December 2 2016,New Jersey,Bloomfield,3 1st Ave,0,6.0
+3412,December 1 2016,California,Clearlake Oaks,,1,3.0
+3413,November 30 2016,Maryland,Baltimore,2901 Garrison Blvd,2,4.0
+3418,November 27 2016,Missouri,Kansas City,Gregory and Prospect,0,7.0
+3419,November 26 2016,Illinois,Chicago,8800 block of S Exchange Ave,1,5.0
+3422,November 24 2016,New York,Albany,77 Central Ave,1,3.0
+3425,November 18 2016,Illinois,Chicago,5000 block of W Wabansia,0,4.0
+3426,November 17 2016,Tennessee,Dyersburg,160 Longfellow,1,7.0
+3429,November 13 2016,California,San Diego,3800 block of Marlborough Avenue,3,2.0
+3436,November 9 2016,Washington,Seattle,1524 3rd Ave,0,5.0
+3437,November 9 2016,Illinois,Chicago,3400 block of W Monroe,1,3.0
+3440,November 5 2016,South Carolina,Myrtle Beach,803 Main St,0,5.0
+3442,November 5 2016,California,Oakland,420 14th Street,0,8.0
+3443,November 5 2016,Illinois,Chicago,4800 block of North Winthrop,0,5.0
+3445,November 3 2016,Illinois,Chicago,8000 block of S Shore Dr,2,2.0
+3446,November 3 2016,New Jersey,Orange,234 Cleveland Street,2,2.0
+3447,November 2 2016,Arkansas,Little Rock,2111 Bragg Street,1,4.0
+3448,November 1 2016,Tennessee,Memphis,5200 block of Zodiac Rd,1,5.0
+3452,October 30 2016,New York,New York (Manhattan),135 Ridge Street,0,4.0
+3453,October 30 2016,New York,Newburgh,119 First Street,2,5.0
+3454,October 30 2016,Texas,San Antonio,2900 block of Aspen Meadow,0,5.0
+3455,October 29 2016,California,Los Angeles,1600 block of Century Boulevard,0,5.0
+3456,October 29 2016,Ohio,Dayton,2010 Cornell Ridge Dr,1,3.0
+3460,October 27 2016,Georgia,Jackson,600 block of Moccasin Gap Road,4,0.0
+3461,October 25 2016,Ohio,Dayton,3300 block of Riverside Dr,1,3.0
+3466,October 17 2016,Illinois,Chicago (Englewood),6700 block of South Winchester,1,4.0
+3468,October 15 2016,Illinois,Rockford,7801 East State St,1,5.0
+3469,October 15 2016,California,Los Angeles,2918 Rimpau Blvd,4,11.0
+3471,October 13 2016,Illinois,Chicago,2700 block of West Lexington,0,4.0
+3474,October 8 2016,New York,Brooklyn,7301 3rd Ave,0,4.0
+3480,September 29 2016,California,San Francisco,400 block of Ellis St,1,3.0
+3481,September 26 2016,North Carolina,Winston Salem (Winston-salem),100 block of 5 Royales Dr,0,4.0
+3486,September 23 2016,Washington,Burlington,201 Cascade Mall Dr,5,0.0
+3488,September 18 2016,Pennsylvania,Pittsburgh,1700 block of Brighton Pl,0,4.0
+3489,September 18 2016,Virginia,Lynchburg,421 Rivermont Ave,1,3.0
+3490,September 17 2016,District of Columbia,Washington,2600 block of Birney Pl SE,2,7.0
+3492,September 17 2016,Florida,Orlando,3918 Columbia St,1,6.0
+3493,September 17 2016,Indiana,Indianapolis,2016 West 76th Street,2,2.0
+3496,September 14 2016,Texas,Humble,16000 block of Saybrook,1,3.0
+3501,September 11 2016,North Carolina,New Bern,1100 block of Highway 70,0,5.0
+3502,September 11 2016,Indiana,Fort Wayne,3006 Holton Avenue,3,1.0
+3503,September 11 2016,New Jersey,Jersey City,87 Van Wagenen Ave,1,3.0
+3504,September 10 2016,Florida,Miami,3451 Northwest 36 Street,1,3.0
+3506,September 8 2016,Arkansas,Hot Springs National Park (Hot Springs),300 block of Lacey St,1,4.0
+3507,September 5 2016,Illinois,Chicago,2700 block of W Lexington Ave,2,3.0
+3508,September 5 2016,Pennsylvania,Reading,600 block of Moss Street,0,4.0
+3510,September 3 2016,North Carolina,Wilmington,600 block of North 30th St,1,3.0
+3512,August 30 2016,Georgia,Atlanta,400 Merritts Avenue NE,0,4.0
+3514,August 29 2016,New Jersey,Egg Harbor City,907 White Horse Pike,1,5.0
+3515,August 28 2016,Texas,Lubbock,2200 block of 17th St,0,6.0
+3516,August 28 2016,New York,Bronx,514 E 156th St,0,4.0
+3518,August 28 2016,Alabama,Dadeville,512 E Columbus St,0,5.0
+3519,August 27 2016,Alabama,Bessemer (Brighton),3810 7th Ave,1,6.0
+3522,August 21 2016,Massachusetts,Boston,Westview and Stratton Street,0,4.0
+3524,August 20 2016,Connecticut,Hamden,903 Dixwell Ave,0,4.0
+3525,August 20 2016,Washington,Tacoma,900 block of Pacific Avenue,0,5.0
+3528,August 17 2016,California,Oakland,Mandela Parkway,0,4.0
+3529,August 14 2016,Virginia,Norfolk,1600 block of Selden Avenue,0,4.0
+3530,August 14 2016,Minnesota,Minneapolis,1717 Plymouth Ave N,0,5.0
+3533,August 13 2016,New York,Richmond Hill,Jamaica Ave and 105th St,0,4.0
+3535,August 12 2016,Florida,Jacksonville,100 block of West 38th Street,1,3.0
+3536,August 12 2016,Texas,Dallas,10921 Estate Ln,1,3.0
+3537,August 11 2016,Pennsylvania,Philadelphia,500 block of E Ashmead St,0,4.0
+3538,August 10 2016,Illinois,Evanston,Foster Street and Jackson Avenue,0,4.0
+3542,August 7 2016,California,Los Angeles,5925 South Figueroa Street,1,3.0
+3543,August 7 2016,Colorado,Arvada,5400 block of Sheridan Boulevard,2,2.0
+3544,August 7 2016,Mississippi,Vicksburg,4460 Clay St,1,3.0
+3545,August 7 2016,Illinois,Chicago,100 block of South Springfield,0,4.0
+3548,August 5 2016,California,Perris,21600 block of Rider St,2,2.0
+3553,July 31 2016,Florida,Miami,Southwest 203rd Terrace and 115th Avenue,3,1.0
+3556,July 30 2016,Washington,Mukilteo,10009 Chennault Beach,3,1.0
+3557,July 30 2016,Georgia,Townsend (Eulonia),14699 Highway 17,0,5.0
+3559,July 28 2016,New York,Elmira,303 College Ave,0,5.0
+3562,July 25 2016,Florida,Fort Myers,3580 Evans Ave,2,19.0
+3564,July 23 2016,South Carolina,North Charleston,3630 Ashley Phosphate Road,0,4.0
+3565,July 23 2016,Ohio,Cincinnati,3400 block of Beekman St,2,2.0
+3566,July 23 2016,New York,Brooklyn,Fountain Avenue,0,4.0
+3570,July 20 2016,California,Fresno,5100 block of E Hedges Ave,0,4.0
+3571,July 19 2016,Arkansas,West Memphis,13th Street and Tyler Avenue,0,4.0
+3572,July 17 2016,Michigan,Detroit,Grand River and McGraw avenue,0,4.0
+3576,July 16 2016,Ohio,Cleveland,5000 block of Euclid Avenue,0,5.0
+3577,July 16 2016,California,Bakersfield,621 Stephens Dr,1,14.0
+3578,July 16 2016,California,San Bernardino,1200 block of West 25th Street,0,4.0
+3580,July 15 2016,Washington,Woodland,4006 NW 417th Street,3,1.0
+3581,July 14 2016,Texas,Crosby,400 block of Pecan Avenue,3,1.0
+3582,July 14 2016,California,Oakland,1600 block of 7th Street,0,4.0
+3583,July 14 2016,Ohio,Akron,900 block of Moeller Avenue,1,3.0
+3586,July 11 2016,Maryland,Baltimore,1800 block of W. North Avenue,0,5.0
+3587,July 11 2016,Michigan,Jackson,500 block of Summit Avenue,0,4.0
+3588,July 11 2016,Michigan,Saint Joseph,811 Port St,3,2.0
+3589,July 11 2016,District of Columbia,Washington,5100 block of Call Pl SE,0,4.0
+3591,July 7 2016,Texas,Dallas,800 Main St,5,9.0
+3592,July 7 2016,Tennessee,Bristol,536 Volunteer Pkwy,1,4.0
+3593,July 5 2016,California,Los Angeles,56th Street and Naomi Avenue,0,4.0
+3594,July 4 2016,New York,Brooklyn,419 Chauncey St,0,7.0
+3595,July 4 2016,Texas,Houston,1312 Robin,3,2.0
+3596,July 4 2016,Pennsylvania,Pittsburgh,Seventh  Ave and Liberty Ave,0,4.0
+3597,July 4 2016,Illinois,Chicago (Englewood),5500 block of South Hermitage Avenue,0,4.0
+3598,July 4 2016,Ohio,Cleveland,1400 block of W. 107 Street,0,4.0
+3600,July 3 2016,Louisiana,Monroe,401 Lea Joyner Memorial Expy,2,3.0
+3603,June 29 2016,Nevada,Las Vegas,6100 block of West Lake Mead Boulevard,5,0.0
+3604,June 28 2016,California,Los Angeles,13800 block of S Avalon Boulevard,1,3.0
+3607,June 26 2016,South Carolina,Bennettsville,Highway 38 N,0,4.0
+3609,June 26 2016,Georgia,Atlanta,1500 block of Moreland Avenue SE,1,4.0
+3610,June 26 2016,Texas,Houston,6000 block of Elm Street,1,3.0
+3612,June 25 2016,Texas,Fort Worth,2466 East Lancaster Avenue,2,5.0
+3613,June 25 2016,Virginia,Norfolk,700 block of Craig Street,0,4.0
+3615,June 24 2016,Kansas,Kansas City,N. 3rd and Walker,0,4.0
+3616,June 24 2016,Connecticut,Hartford,Brook and Winter Street,0,5.0
+3617,June 24 2016,Maryland,District Heights,3100 block of Orleans Ave,3,2.0
+3618,June 22 2016,Georgia,Stone Mountain,Lancashire Cir and Central Dr,1,3.0
+3622,June 21 2016,Kentucky,Louisville,2802 Rodman Street,2,2.0
+3623,June 19 2016,Virginia,Roanoke,2328 Melrose Avenue,0,4.0
+3625,June 18 2016,Georgia,Waycross,2625 Arnold Ct,2,2.0
+3628,June 14 2016,Delaware,Wilmington,South Van Buren and Elm streets,0,4.0
+3630,June 13 2016,New York,Brooklyn,Avenue D and E. 57th,0,5.0
+3631,June 13 2016,Illinois,Chicago,3200 block of West Congress,0,5.0
+3634,June 11 2016,North Carolina,Charlotte,4000 block of Collegiate Avenue,1,3.0
+3638,June 9 2016,Florida,Fort Walton Beach,Landview Drive,0,4.0
+3641,June 6 2016,California,Visalia,33 60 South Fairway Street,0,4.0
+3642,June 5 2016,Arizona,Phoenix,8152 N Black Canyon Hwy,2,4.0
+3643,June 5 2016,Minnesota,Minneapolis,8th and Humboldt Avenue N.,0,4.0
+3645,June 5 2016,New York,Brooklyn,Mermaid Ave and 16th St.,0,4.0
+3648,May 31 2016,Indiana,Fort Wayne,6600 block of Pawawna Drive,0,4.0
+3649,May 30 2016,Maryland,Baltimore,500 block of East 43rd Street,0,5.0
+3650,May 30 2016,California,Sacramento,3900 block of 44th,0,5.0
+3657,May 22 2016,California,Stockton,Poplar and Sutter Streets,1,3.0
+3659,May 21 2016,Georgia,Jackson,Levi Barnes Road,1,3.0
+3660,May 18 2016,Indiana,Indianapolis,34th Street and North Keystone Avenue,0,4.0
+3661,May 17 2016,South Carolina,Ravenel,5360 Savannah Highway,3,1.0
+3663,May 15 2016,Indiana,Evansville,420 North Garvin Street,0,4.0
+3664,May 14 2016,Georgia,Atlanta,Cordova and Peoples Street,0,5.0
+3665,May 14 2016,West Virginia,Charleston,2337 Washington St W,1,3.0
+3670,May 6 2016,Alabama,Montgomery,1300 block of Clay Street,1,3.0
+3677,April 29 2016,California,Oakland,3200 block of San Pablo Avenue,0,5.0
+3678,April 27 2016,Louisiana,Baton Rouge,4300  Block of Kerrit Dr,2,2.0
+3679,April 27 2016,Mississippi,Kilmichael,Pecan Drive,3,1.0
+3685,April 24 2016,Colorado,Denver,1400 block of 14th Street,0,4.0
+3686,April 23 2016,Nevada,Las Vegas,1650 South Hollywood Boulevard,1,3.0
+3688,April 23 2016,New York,New York (Manhattan),West 141st Street and Edgecombe Avenue,0,4.0
+3689,April 23 2016,Kansas,Topeka,3732 SW Topeka Blvd,1,4.0
+3693,April 19 2016,Alabama,Blountsville,81551 US Highway 278,1,4.0
+3694,April 19 2016,Illinois,Chicago,2700 block of West 53rd Street,1,3.0
+3695,April 19 2016,Illinois,Chicago,1400 block of West 84th Street,1,4.0
+3698,April 17 2016,South Carolina,Pelzer,200 block of Eastview Road,1,3.0
+3701,April 16 2016,Florida,Orlando,1100 block of Conley Street,2,4.0
+3704,April 10 2016,California,Los Angeles,84th Street and Towne Avenue,0,4.0
+3707,April 9 2016,New Mexico,Albuquerque,2600 block of Mesa Drive SE,0,4.0
+3708,April 7 2016,Illinois,Chicago,2200 block of East 70th Place,0,4.0
+3711,March 25 2016,Colorado,Denver,8501 E. Alameda Avenue,0,4.0
+3712,March 21 2016,Illinois,Chicago,5700 block of West Washington Boulevard,0,4.0
+3713,March 19 2016,Florida,Plantation,12050 NW 4th Court,1,4.0
+3715,March 15 2016,Georgia,Atlanta,Donald Lee Hollowell Drive,0,5.0
+3718,March 12 2016,California,Oakland,Interstate 880,0,4.0
+3719,March 11 2016,Michigan,Detroit,2600 block of Hazelwood,2,2.0
+3724,March 7 2016,Kansas,Kansas City,3000 block of South 36th Street,5,0.0
+3725,March 6 2016,Massachusetts,Chelsea,120 Washington Avenue,1,6.0
+3727,March 6 2016,California,Compton,900 block of West Victoria Street,1,8.0
+3728,March 5 2016,Kansas,Wichita,116 North Mead,0,4.0
+3730,February 28 2016,Michigan,Detroit,8800 block of Livernois,0,5.0
+3731,February 28 2016,California,Riverside (Jurupa Valley),5500 block of Etiwanda Avenue,1,3.0
+3733,February 26 2016,Washington,Belfair,300 block of Horseshoe Rd,5,0.0
+3734,February 25 2016,Kansas,Hesston,200 S Ridge Rd,4,14.0
+3736,February 23 2016,Florida,Daytona Beach,1042 Sheridan Road,0,4.0
+3738,February 21 2016,Missouri,Hazelwood,7217 N Lindbergh Blvd,1,3.0
+3739,February 20 2016,Florida,Tampa,2810 E. Bearss Ave,1,3.0
+3741,February 20 2016,Alabama,Bessemer,200 block of Elm Street,1,3.0
+3743,February 20 2016,Mississippi,Iuka,231 Co Rd 201,2,3.0
+3745,February 19 2016,California,Vallejo,509 Porter Street,1,3.0
+3746,February 14 2016,Texas,Houston,8449 Gulf Freeway,1,3.0
+3748,February 13 2016,Louisiana,Marrero,5425 Lapalco Boulevard,0,4.0
+3750,February 7 2016,Florida,Orlando,7432 Universal Blvd,2,10.0
+3751,February 7 2016,New York,Rochester,547 State St,1,7.0
+3752,February 7 2016,Illinois,Chicago (Englewood),6500 block of South Green Street,0,4.0
+3755,February 6 2016,Florida,Tampa,8123 N Nebraska Ave,2,6.0
+3756,February 3 2016,District of Columbia,Washington,1500 block of Butler St SE,0,4.0
+3758,January 27 2016,Virginia,Chesapeake,1401 N. George Washington Hwy,6,0.0
+3759,January 26 2016,Washington,Seattle,Airport Way S. and S. Atlantic St.,2,3.0
+3760,January 25 2016,California,Perris,140 S. D Street,1,4.0
+3763,January 11 2016,Delaware,Wilmington,900 block of Brown Street,1,4.0
+3764,January 8 2016,District of Columbia,Washington,1700 E Capitol St NE,0,4.0
+3765,January 8 2016,Illinois,Chicago,1500 block of South Kedzie,1,4.0
+3769,December 27 2015,Tennessee,Jackson,North Parkway,0,4.0
+3770,December 26 2015,Pennsylvania,Philadelphia,4210 Macalester St,0,4.0
+3771,December 25 2015,Florida,Jacksonville,Franklin and Odessa,0,4.0
+3772,December 25 2015,Alabama,Mobile,785 Schillinger Rd S,0,4.0
+3774,December 20 2015,North Carolina,Wilmington,11th and Castle Street,1,4.0
+3781,December 11 2015,Maryland,Baltimore,5100 block of Park Heights Avenue,1,3.0
+3782,December 11 2015,Pennsylvania,Pittsburgh (Mount Oliver),200 block of  Brownsville Road,0,4.0
+3785,December 6 2015,Nebraska,Omaha,North 108th Street and Military Road,2,3.0
+3788,November 29 2015,Illinois,Kankakee,648 E Court St,0,5.0
+3795,November 22 2015,Washington,Seattle,Broadway and Pike,0,4.0
+3798,November 22 2015,Illinois,Chicago,4100 block of West Roosevelt,0,4.0
+3799,November 22 2015,Louisiana,New Orleans,1900 block of Gallier St,0,17.0
+3800,November 21 2015,Maryland,Baltimore,Stricker and School,1,3.0
+3802,November 18 2015,California,Fresno,California Avenue and Martin Luther King Jr. Boulevard,0,5.0
+3803,November 16 2015,Alabama,Cedar Bluff,1460 County Rd 664,3,1.0
+3809,November 8 2015,Iowa,Des Moines,4397 NW 6th Drive,1,3.0
+3810,November 8 2015,Michigan,Warren,13859 8 Mile Road,0,4.0
+3811,November 7 2015,Colorado,Denver,Bayaud and Bannock,1,3.0
+3813,November 3 2015,Florida,Jacksonville,Ella Street and Kings Road,2,3.0
+3819,October 25 2015,District of Columbia,Washington,4300 block of Wheeler Road SE,0,5.0
+3821,October 24 2015,South Carolina,Bamberg,682 Dixie Ave.,0,4.0
+3822,October 22 2015,Tennessee,Nashville,3500 John A. Merritt Blvd,1,3.0
+3824,October 18 2015,Louisiana,New Orleans,2600 block of Caffin Avenue,0,4.0
+3826,October 17 2015,Florida,Fort Myers,2224 First St,1,4.0
+3828,October 10 2015,Tennessee,Memphis,6135 Mount Moriah Road,0,6.0
+3832,October 6 2015,Maryland,Baltimore,300 block of North Payson Street,0,5.0
+3833,October 2 2015,Maryland,Baltimore,5400 Reisterstown Road,1,4.0
+3834,October 1 2015,Oregon,Roseburg,1140 Umpqua College Rd,10,9.0
+3838,September 28 2015,Ohio,Dayton,1921 Oakridge,0,4.0
+3840,September 27 2015,Illinois,Chicago,5200 block of South Justine,0,4.0
+3841,September 27 2015,Missouri,Kansas City,1700 E. 18th St.,0,4.0
+3844,September 23 2015,Florida,Fort Myers,Dale St and Veronica S. Shoemaker Blvd,0,4.0
+3846,September 23 2015,Georgia,Norcross,1300 block of Reddington Lane,1,3.0
+3850,September 19 2015,Indiana,Indianapolis,3900 block of Graceland Ave,1,3.0
+3852,September 17 2015,Michigan,Albion,500 block of W. Broadwell Street,0,4.0
+3857,September 12 2015,Minnesota,Minneapolis,1st Ave. and N. 5th St.,0,6.0
+3859,September 11 2015,North Carolina,Charlotte,1000 North Carolina Music Factory Blvd.,0,5.0
+3861,September 8 2015,Georgia,Berlin,,0,4.0
+3866,September 5 2015,Florida,Daytona Beach,300 block of Pearl Street,0,4.0
+3867,September 5 2015,Nevada,Las Vegas,5000 block of Hollywood Boulevard,1,3.0
+3868,September 5 2015,Missouri,Columbia,1509 Ashley Street,0,4.0
+3870,August 29 2015,Tennessee,Bristol,618 Henson Road,3,2.0
+3872,August 28 2015,New York,Brooklyn,589 Flatbush Avenue,1,3.0
+3882,August 21 2015,Ohio,Cincinnati,Mathis and Prentice,2,5.0
+3883,August 19 2015,New York,Rochester,500 Genesee St,3,4.0
+3887,August 15 2015,Pennsylvania,Pittsburgh,West Prospect Avenue,1,3.0
+3888,August 15 2015,California,Los Angeles,57th Street and South Normandie Avenue,0,4.0
+3890,August 10 2015,California,Long Beach,1700 block of East 10th Street,0,4.0
+3893,August 9 2015,Missouri,Kansas City,40th Street and Pennsylvania Avenue,0,4.0
+3895,August 8 2015,Arkansas,Blytheville,833 Anderson Street,1,11.0
+3896,August 8 2015,Texas,Houston,2211 Falling Oaks,8,0.0
+3897,August 7 2015,Vermont,Barre (Berlin),3182 Airport Rd,4,0.0
+3899,August 4 2015,Missouri,Saint Louis,2500 block of Semple,1,4.0
+3904,August 2 2015,Georgia,Savannah,Barnard Street,0,5.0
+3905,August 2 2015,Illinois,Chicago,6700 block of South Winchester Avenue,0,4.0
+3906,August 1 2015,Florida,Orlando,5801 Shenandoah Way,0,4.0
+3908,July 27 2015,Illinois,Rockford,900 block of Kent Street,0,5.0
+3911,July 25 2015,Virginia,Hopewell,500 block of N. 7th Ave,0,4.0
+3912,July 24 2015,Pennsylvania,Erie,200 block of W 29th St,2,5.0
+3915,July 22 2015,Georgia,Suwanee,5500 block of Old Atlanta Road,5,0.0
+3917,July 20 2015,New York,Bronx,E. 153rd St. and the Grand Concourse,0,6.0
+3921,July 18 2015,California,San Diego,200 block of South Bancroft Street,0,4.0
+3924,July 18 2015,Louisiana,Baton Rouge,300 block of Brice Street,2,2.0
+3925,July 17 2015,Illinois,Chicago,4400 block of W. Maypole,0,5.0
+3927,July 17 2015,District of Columbia,Washington,600 block of Edgewood St NE,1,3.0
+3928,July 16 2015,Texas,Dallas,2261 Singleton Blvd,0,5.0
+3930,July 15 2015,Georgia,Atlanta,500 block of Center Hill Avenue,0,5.0
+3932,July 15 2015,Ohio,Cleveland,700 block of Thornhill,0,7.0
+3934,July 15 2015,South Carolina,Holly Hill,7050 Old State Road,4,1.0
+3935,July 14 2015,Missouri,Saint Louis,1100 block of Riverview,0,4.0
+3936,July 13 2015,California,Norwalk,11959 162nd Street,0,4.0
+3939,July 12 2015,New Jersey,Jersey City,Sip and Van Wagenen avenues,0,4.0
+3940,July 7 2015,Ohio,Cleveland,East 162nd Street and Miles Avenue,1,3.0
+3941,July 7 2015,Maryland,Baltimore,900 block of West Fayette Street,3,1.0
+3942,July 5 2015,Louisiana,Shreveport,3500 block of Hearne Ave,0,6.0
+3943,July 5 2015,Indiana,Fort Wayne,1400 block of McCulloch Street,0,9.0
+3944,July 5 2015,New Jersey,East Orange,200 block of S. Clinton St,1,3.0
+3945,July 4 2015,Kentucky,Louisville,2500 block of West Broadway,0,4.0
+3946,July 4 2015,Massachusetts,Pittsfield,Dewey Avenue,1,4.0
+3948,July 4 2015,New York,Syracuse,Bellevue and Rich Street,0,4.0
+3949,July 4 2015,Texas,San Antonio,1100 block of West Avenue,0,4.0
+3951,June 29 2015,Florida,Opa Locka,13450 NW 30th Ave,0,4.0
+3952,June 28 2015,Illinois,Venice,1430 Broadway,0,6.0
+3954,June 28 2015,Delaware,Harrington,100 block of East St,0,6.0
+3956,June 27 2015,Michigan,Detroit,Stringham Court,0,4.0
+3957,June 24 2015,New York,New York (Manhattan),2110 Madison Ave,0,4.0
+3958,June 22 2015,Pennsylvania,Philadelphia,700 block of East Hilton Street,0,7.0
+3962,June 20 2015,North Carolina,Morven,6066 Robinson Bridge Rd,0,4.0
+3968,June 14 2015,New Jersey,Camden,2800 block of Mitchell Street,1,3.0
+3970,June 14 2015,Missouri,Saint Louis,1400 block of North Market Street,0,4.0
+3973,June 13 2015,Georgia,Milledgeville,451 North Flynn Street,1,3.0
+3974,June 13 2015,New York,Bronx,2409 Creston Avenue,0,5.0
+3976,June 12 2015,Florida,Allapattah,24th Avenue and 36th Street,0,4.0
+3978,June 11 2015,Texas,Houston,3400 block of Burkett,1,3.0
+3979,June 10 2015,California,Los Angeles,South Vermont Avenue and West 88th Street,1,3.0
+3980,June 9 2015,Missouri,Saint Louis,North Market Street and North Spring Avenue,1,3.0
+3981,June 7 2015,Montana,Deer Lodge,Boulder Creek Road,5,0.0
+3983,June 6 2015,Illinois,Chicago,100 block of North Lorel Avenue,0,5.0
+3984,June 5 2015,Iowa,Davenport,900 block of West 3rd St,0,5.0
+3985,June 5 2015,Louisiana,New Orleans,2100 block of Governor Nicholls Street,1,3.0
+3986,June 3 2015,New York,Wyandanch,Davidson Street,3,1.0
+3987,May 31 2015,Georgia,Conyers,4669 Bell Road SE,3,2.0
+3988,May 31 2015,Ohio,Cleveland,16209 block of Laverne Avenue,3,1.0
+3994,May 28 2015,Pennsylvania,Chester,2700 block of West 3rd Street,1,3.0
+3995,May 26 2015,Louisiana,New Orleans,6700 block of Tara Lane,2,2.0
+3998,May 24 2015,Michigan,Flint,W. 12th Street and Hammerberg Road.,0,7.0
+4000,May 24 2015,Missouri,Saint Louis,2700 block of Dayton,0,4.0
+4001,May 23 2015,California,Fresno,2400 block of South 9th Street,2,2.0
+4002,May 20 2015,Maryland,Baltimore,800 block of Linwood Avenue,1,3.0
+4004,May 18 2015,Florida,Miami,Northwest 75th Street and Northwest 16th Avenue,1,4.0
+4005,May 17 2015,Texas,Waco,4671 S Jack Kultgen Fwy,9,18.0
+4009,May 12 2015,Arizona,Tucson,800 block of West Calle Medina Road,5,0.0
+4010,May 12 2015,Maryland,Capitol Heights,4700 block of Pard Rd,1,4.0
+4011,May 10 2015,Ohio,Cleveland,3600 block of Bosworth Rd,1,4.0
+4013,May 10 2015,New Jersey,Newark,19th Avenue and South 16th Street,1,3.0
+4014,May 7 2015,Ohio,Cincinnati,2300 block of Baltimore Avenue,0,4.0
+4015,May 7 2015,Michigan,Detroit,16000 block of Cathedral Street,0,4.0
+4017,May 3 2015,Indiana,South Bend,1600 block of South William Street,0,4.0
+4018,May 3 2015,New York,Bronx,University Avenue,0,4.0
+4019,May 3 2015,Ohio,Dayton,2801 Germantown Street,1,6.0
+4021,May 3 2015,Wisconsin,Menasha,Friendship Trail,4,1.0
+4023,April 27 2015,New York,Brooklyn,1365 Flatbush Ave,2,4.0
+4027,April 21 2015,Texas,Killeen,420 Gilmer St,2,3.0
+4028,April 19 2015,Virginia,Richmond,200 block of West Hill Street,0,4.0
+4031,April 18 2015,North Carolina,Lumberton,Martin Luther King Drive,1,3.0
+4032,April 18 2015,North Carolina,Charlotte,Bost Street,0,4.0
+4035,April 7 2015,Georgia,Rome,20 Copeland Street,1,3.0
+4038,April 5 2015,Indiana,Indianapolis,5000 block of Wildflower Court,0,5.0
+4041,April 2 2015,Maryland,Baltimore,1900 block of West Lanvale Street,0,5.0
+4044,March 24 2015,Indiana,Indianapolis,3100 block of North Harding Street,4,0.0
+4046,March 22 2015,New Mexico,Albuquerque,10140 Lomas NE,1,6.0
+4049,March 20 2015,Texas,Lancaster,1500 block of Reynolds Street,1,5.0
+4051,March 18 2015,Arizona,Mesa,1504 West Main Street,1,5.0
+4052,March 17 2015,California,Stockton,748 N Madison St,3,4.0
+4055,March 14 2015,California,Coachella,84000 block of Bagdad Avenue,0,4.0
+4057,March 10 2015,Georgia,Columbus,3023 Victory Drive,0,5.0
+4058,March 9 2015,Illinois,Chicago,200 block of West 105th,1,3.0
+4060,March 7 2015,Missouri,Saint Louis,3140 Olive St,0,4.0
+4062,March 1 2015,Florida,Orlando,4900 block of Steyr St,0,4.0
+4063,March 1 2015,Michigan,Detroit,9855 Chalmers St,1,5.0
+4064,February 28 2015,Maryland,Baltimore,4300 block of Welbourne Road,1,3.0
+4065,February 26 2015,Missouri,Tyrone,18279 Highway H,8,1.0
+4067,February 23 2015,Florida,Daytona Beach,Sheridan Road,0,4.0
+4068,February 22 2015,Texas,Killeen,1706 Godman St.,4,1.0
+4070,February 22 2015,Georgia,Clarkesville,281 Lower Pond Court,3,2.0
+4072,February 17 2015,Arkansas,Little Rock,7900 Scott Hamilton,1,3.0
+4073,February 15 2015,California,Long Beach,200 block of W. 14th Street,0,5.0
+4075,February 8 2015,Tennessee,Friendship,251 Dupree Rd,0,6.0
+4080,February 1 2015,New York,New York (Manhattan),3345 Broadway,1,4.0
+4084,January 24 2015,New York,Arverne (Queens),231-11 148th Avenue,4,1.0
+4085,January 24 2015,Nebraska,Omaha,3402 Parker St,3,5.0
+4087,January 20 2015,Tennessee,Clarksville,321 Lansinger Lane,1,3.0
+4088,January 19 2015,Texas,San Antonio,1000 block of Gibbs St.,2,5.0
+4090,January 13 2015,Virginia,Portsmouth,4100 block of Portsmouth Boulevard,0,5.0
+4094,January 10 2015,Kansas,Wichita,4859 E Harry Street,2,2.0
+4097,January 7 2015,Tennessee,Chattanooga,773 West Main Street,1,3.0
+4100,January 4 2015,Texas,Dallas,2000 block of Ben Hur St.,3,1.0
+4101,January 2 2015,Georgia,Savannah,500 block of W. 54th Street,1,4.0
+4103,December 29 2014,Louisiana,New Orleans,Poydras and Bolivar,0,4.0
+4104,December 27 2014,California,Los Angeles,8800 block of South Figueroa Street,1,3.0
+4106,December 26 2014,Illinois,East St. Louis,2500 block of Summit Avenue,1,3.0
+4107,December 24 2014,Missouri,Saint Louis,18th and Pine,1,3.0
+4110,December 22 2014,New York,Webster,191 Lake Rd,4,2.0
+4111,December 22 2014,Illinois,Chicago,5700 block of South Green Street,0,5.0
+4113,December 21 2014,Mississippi,Waynesboro,Central Avenue,1,4.0
+4114,December 21 2014,Illinois,Calumet City,600 block of Escanba,1,8.0
+4115,December 20 2014,Illinois,Rockford,3200 block of Montrose Avenue,4,0.0
+4118,December 14 2014,Florida,Miami,1311 Northwest 2nd Avenue,1,4.0
+4124,November 30 2014,New York,Brooklyn,375 Remsen Avenue,0,4.0
+4125,November 30 2014,Tennessee,Chattanooga,2412 East 13th Street ,0,5.0
+4126,November 29 2014,New Jersey,Newark,348 S Orange Ave,1,3.0
+4127,November 29 2014,Georgia,Atlanta,1600 block of Richmond Avenue,3,2.0
+4130,November 26 2014,California,San Francisco,Mission and 13th streets,0,6.0
+4134,November 22 2014,South Dakota,Sisseton,Fourth Avenue,4,1.0
+4136,November 21 2014,Pennsylvania,Pittsburgh,600 block of Miller Avenue,0,6.0
+4138,November 18 2014,Nevada,North Las Vegas,Englestad Street,0,4.0
+4141,November 15 2014,Missouri,Springfield,2555 N. Glenstone,4,0.0
+4142,November 15 2014,Florida,Miami,NW 55th and 12th,1,3.0
+4143,November 8 2014,California,Pomona,499 E. Arrow Highway,0,5.0
+4144,November 7 2014,California,Compton,136th Street ,0,4.0
+4145,November 7 2014,California,Los Angeles,East 126th Street and North Compton Avenue,0,4.0
+4147,October 29 2014,Tennessee,Memphis,Yale Road and Ramill Road,0,5.0
+4148,October 26 2014,Kentucky,Cadiz,1410 Old Dover Road,4,0.0
+4150,October 18 2014,New York,Queens,33-02 Queens Blvd,0,4.0
+4152,October 18 2014,New York,Brooklyn,Lenox Road,0,4.0
+4153,October 16 2014,Michigan,Detroit,Mogul Street,1,3.0
+4154,October 14 2014,Georgia,Peachtree Corners,6505 Bannor Lane,3,2.0
+4155,October 13 2014,Georgia,Atlanta,85 Mount Zion Road,0,4.0
+4159,October 8 2014,Georgia,Atlanta,Auburn Avenue and Edgewood Avenue,0,4.0
+4161,October 5 2014,Florida,Jacksonville,7300 block of Linda Drive,3,1.0
+4163,October 4 2014,Tennessee,Memphis,1400 block of Gherald Street,2,2.0
+4166,September 29 2014,California,Fresno,2300 block of West Fountain Way ,0,4.0
+4167,September 28 2014,Pennsylvania,Philadelphia,2800 block of Hope Street,0,4.0
+4169,September 27 2014,Missouri,Saint Louis,2000 block East John Avenue,0,5.0
+4171,September 21 2014,Ohio,East Liverpool,440 First St,0,4.0
+4173,September 19 2014,New York,Queens,32-14 106th St,0,4.0
+4175,September 15 2014,Louisiana,New Orleans,Chef Menteur Highway and Dale Street,0,5.0
+4176,September 14 2014,Texas,Flour Bluff,229 Naval Air Station Drive,3,1.0
+4177,September 14 2014,Alaska,Anchorage,225 E Fifth,0,6.0
+4185,August 31 2014,California,Livermore,200 block of South Q Street ,0,5.0
+4186,August 29 2014,Florida,Brooksville,820 Peach St,3,1.0
+4187,August 27 2014,Michigan,Detroit,16600 block of Edmore,1,3.0
+4191,August 20 2014,Tennessee,Memphis,1400 block of Briarcrest Lane,0,5.0
+4193,August 17 2014,New York,Queens,153-38 118th Ave,0,4.0
+4194,August 17 2014,Massachusetts,Boston,Edinboro Street,0,4.0
+4199,August 14 2014,Tennessee,Memphis,797 Pope Street,1,3.0
+4200,August 13 2014,Tennessee,Clarksville,Treeland Drive,0,4.0
+4202,August 12 2014,New York,Buffalo,Oakmont Ave,1,3.0
+4203,August 12 2014,Georgia,Cartersville,Brent Cir,2,3.0
+4205,August 10 2014,District of Columbia,Washington,50 block of N St SW,0,6.0
+4206,August 10 2014,Georgia,Wrightsville,2455 Idylwild Dr,0,6.0
+4208,August 9 2014,Minnesota,Minneapolis,400 3rd Ave N,1,8.0
+4213,August 4 2014,Georgia,Atlanta,1100 block of Joseph E. Boone Boulevard NW,0,5.0
+4214,August 3 2014,Virginia,Culpeper,14458 Rixeyville Rd,5,0.0
+4215,August 3 2014,Texas,Humble,3403 FM 1960,0,7.0
+4217,August 3 2014,Tennessee,Columbia,East 9th Street and Bridge Street,0,5.0
+4218,August 2 2014,Texas,Dallas,5125 Wynell Street,3,1.0
+4219,August 2 2014,Massachusetts,New Bedford,Acushnet Avenue,0,7.0
+4220,August 2 2014,Pennsylvania,Pittsburgh,Penn Avenue and 29th Street,1,5.0
+4222,July 30 2014,North Carolina,Hope Mills,5109 New Moon Dr,3,4.0
+4224,July 27 2014,Missouri,Saint Louis,2000 block of East John Avenue,0,5.0
+4225,July 26 2014,Arkansas,Pine Bluff,Third Ave and Redbud St,1,3.0
+4228,July 25 2014,Illinois,Chicago,700 S California Ave,1,6.0
+4230,July 21 2014,New Jersey,Irvington,36 Welland Avenue,0,6.0
+4232,July 20 2014,Illinois,East Saint Louis,5103 block of Bunkum Rd,1,3.0
+4233,July 20 2014,Nevada,Las Vegas,Rancho Drive 3400 block ,1,3.0
+4236,July 13 2014,District of Columbia,Washington,1700 block of Lincoln Rd NE,0,4.0
+4239,July 12 2014,California,Pasadena,1700 block of Summit Avenue,3,2.0
+4240,July 11 2014,Illinois,Chicago,5200 West Quincy Street,1,3.0
+4241,July 9 2014,Texas,Spring,711 Leaflet Ln,6,1.0
+4242,July 8 2014,Rhode Island,Providence,35 March Street,0,5.0
+4243,July 7 2014,Kentucky,Stopover,KY 194E,0,4.0
+4244,July 7 2014,California,San Bernardino,312  E Baseline Street ,1,4.0
+4249,July 5 2014,Virginia,Norfolk,861 W. 36th Street,0,7.0
+4251,July 5 2014,Indiana,Indianapolis,Broad Ripple Avenue,0,7.0
+4253,July 4 2014,Virginia,Norfolk,1722 Thurgood Street,0,5.0
+4256,June 29 2014,Louisiana,New Orleans,700 block of Bourbon St,1,9.0
+4259,June 28 2014,California,Antioch,5500 Cedar Point Way,0,7.0
+4262,June 26 2014,Wisconsin,Milwaukee,24th and Locust,0,5.0
+4263,June 26 2014,Michigan,Detroit,Grand St,2,2.0
+4264,June 25 2014,Massachusetts,Lowell,Midland Street,0,5.0
+4266,June 22 2014,California,Windsor,Windsor Avenue,1,3.0
+4267,June 21 2014,Tennessee,Memphis,2119 East Alcy Road,0,5.0
+4268,June 21 2014,District of Columbia,Washington,Florida Ave NW and U St NW,0,4.0
+4269,June 20 2014,Maryland,Seat Pleasant,6600 block of Greig Street,0,4.0
+4271,June 15 2014,Illinois,Park Forest,200 Berry Street,0,4.0
+4272,June 13 2014,California,Los Angeles,8600 block of South Figueroa Street,3,1.0
+4275,June 8 2014,Alabama,Opp,611 Hardin Street,1,4.0
+4277,June 7 2014,Michigan,Oak Park,10811 W. Ten Mile Rd.,1,3.0
+4278,June 4 2014,Illinois,Chicago,4900 West West End Avenue,1,3.0
+4279,June 3 2014,Georgia,Atlanta,Auburn Avenue,1,4.0
+4280,June 2 2014,Illinois,Chicago,2660 E. 79th St,0,7.0
+4281,June 1 2014,Illinois,Chicago,West Ferdinand Street and North Lavergne Avenue ,1,5.0
+4282,June 1 2014,California,Sacramento,6500 46th Street,0,4.0
+4284,May 25 2014,Ohio,Toledo,2100 block of Joffre Avenue,1,3.0
+4285,May 24 2014,Michigan,Detroit,Strathmoor St,0,4.0
+4288,May 23 2014,California,Goleta,840 Embarcadero del Norte,4,7.0
+4289,May 23 2014,California,Bellflower,9541 Flower Street,2,2.0
+4290,May 21 2014,Texas,Dallas,4500 block of Village Fair Drive,1,3.0
+4293,May 17 2014,District of Columbia,Washington,2200 block of Adams Pl NE,0,5.0
+4298,May 10 2014,Georgia,Stone Mountain,1100 To Lani Farm Road,1,3.0
+4302,May 3 2014,Arkansas,Jonesboro,2201 Moore Rd,4,4.0
+4304,April 29 2014,Georgia,Kennesaw,1675 Airport Road,1,6.0
+4306,April 25 2014,Tennessee,Memphis,2000 Chelsea Avenue,2,3.0
+4308,April 20 2014,Illinois,Montgomery,1300 block of Jackson St,0,6.0
+4316,April 7 2014,Louisiana,New Orleans,500 block of South Alexander Street,0,4.0
+4318,April 6 2014,Oklahoma,Oklahoma City,Northwest 29th Street and Portland Avenue,0,4.0
+4323,March 30 2014,North Carolina,Charlotte,4300 Sunset Road,0,5.0
+4327,March 23 2014,California,Long Beach,601 Long Beach Boulevard,1,3.0
+4328,March 21 2014,South Carolina,North Charleston,7550 Dorchester Road,0,4.0
+4329,March 16 2014,Texas,Beaumont,S 4th St,3,1.0
+4330,March 16 2014,Georgia,Waynesboro,4960 Highway 80 West ,0,4.0
+4332,March 9 2014,Ohio,Fremont,531 W State St,3,1.0
+4333,March 9 2014,Texas,Austin,4900 block of West Race Avenue,0,6.0
+4338,March 1 2014,Michigan,Detroit,7800 Gratiot Av.,0,4.0
+4339,February 25 2014,Virginia,Glade Spring,33325 Graceland Ln,4,1.0
+4342,February 20 2014,California,Alturas,300 W 1st St,4,2.0
+4343,February 16 2014,Florida,Orlando (Pine Hills),4500 block of Charlene Terrace,1,6.0
+4345,February 16 2014,Indiana,Fort Wayne,Lafayette Street and East Tillman Road,0,5.0
+4346,February 16 2014,Texas,Fort Worth, 115 NW 25th St.,1,4.0
+4347,February 16 2014,Florida,Jacksonville,1187 S. Edgewood Ave.,1,4.0
+4348,February 15 2014,Nevada,Las Vegas,Sahara and Maryland ,0,5.0
+4349,February 12 2014,Indiana,Gary,2220 block of Broadway,0,5.0
+4350,February 12 2014,California,Stockton,Constitution Park,1,3.0
+4352,February 7 2014,Florida,Miami,Northwest 41st Street and 9th Avenue ,0,5.0
+4357,January 27 2014,Washington,Seattle,2nd Avenue South and South Main Street,1,4.0
+4359,January 25 2014,Florida,Belle Glade,600 block of Covenant Drive,0,4.0
+4363,January 16 2014,Utah,Spanish Fork,37 N. 630 West,5,0.0
+4364,January 14 2014,California,Los Angeles,West 86th Street,0,4.0
+4365,January 13 2014,Michigan,Detroit,800 block of Calvert St,0,4.0
+4366,January 12 2014,Illinois,Elgin,300 block of North St,0,5.0
+4369,January 11 2014,Mississippi,Jackson,3430 W. Capitol Street,0,4.0
+4372,January 1 2014,Virginia,Norfolk,Rockingham Street and Berkley Avenue Extended,2,2.0
