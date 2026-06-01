@@ -3,14 +3,28 @@ from tkinter import ttk, messagebox
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 from datetime import datetime
+import pandas as pd
 import dataset
+
 
 class ScatterApp:
     def __init__(self, root):
         self.root = root
         self.root.title("Data Scatter")
 
+        if not hasattr(dataset, 'df') or dataset.df is None:
+            if hasattr(dataset, 'load_data'):
+                dataset.load_data()  
+            else:
+                dataset.df = pd.DataFrame()  
+
         self.df = dataset.df
+
+        if self.df.empty:
+            messagebox.showerror("Ошибка", "Датасет пуст или не загружен!")
+            self.root.destroy()
+            return
+
         self.cols = self.df.select_dtypes(include=['number']).columns.tolist()
 
         if len(self.cols) < 1:
@@ -25,7 +39,6 @@ class ScatterApp:
         self.update_plot()
 
     def setup_ui(self):
-
         self.y_frame = ttk.Frame(self.root, padding=5)
         self.y_frame.grid(row=0, column=0, sticky="ns")
         ttk.Label(self.y_frame, text="", font=('Arial', 10, 'bold')).pack()
@@ -65,10 +78,11 @@ class ScatterApp:
         self.update_plot()
 
     def update_plot(self):
-        for i, btn in enumerate(self.x_buttons):
-            btn.config(bg="lightblue" if i == self.current_x_idx else "SystemButtonFace")
-        for i, btn in enumerate(self.y_buttons):
-            btn.config(bg="lightblue" if i == self.current_y_idx else "SystemButtonFace")
+        if hasattr(self, 'x_buttons') and hasattr(self, 'y_buttons'):
+            for i, btn in enumerate(self.x_buttons):
+                btn.config(bg="lightblue" if i == self.current_x_idx else "SystemButtonFace")
+            for i, btn in enumerate(self.y_buttons):
+                btn.config(bg="lightblue" if i == self.current_y_idx else "SystemButtonFace")
 
         if self.canvas:
             self.canvas.get_tk_widget().destroy()
@@ -77,7 +91,9 @@ class ScatterApp:
         y_label = self.cols[self.current_y_idx]
 
         self.fig, ax = plt.subplots(figsize=(6, 4))
-        ax.scatter(self.df[x_label], self.df[y_label], marker='*', color='black', edgecolors='orange')
+
+        valid_data = self.df[[x_label, y_label]].dropna()
+        ax.scatter(valid_data[x_label], valid_data[y_label], marker='*', color='black', edgecolors='orange')
 
         ax.set_xlabel(x_label)
         ax.set_ylabel(y_label)
@@ -89,14 +105,19 @@ class ScatterApp:
         self.canvas.get_tk_widget().pack(fill=tk.BOTH, expand=True)
 
     def save_plot(self):
+        if self.fig is None:
+            messagebox.showwarning("Внимание", "График еще не создан!")
+            return
+
         now = datetime.now()
         filename = now.strftime("graph%H_%M_%S.png")
 
         try:
-            self.fig.savefig(filename)
+            self.fig.savefig(filename, dpi=300)
             messagebox.showinfo("Сохранение", f"Файл {filename} успешно сохранен!")
         except Exception as e:
             messagebox.showerror("Ошибка", f"Не удалось сохранить файл: {e}")
+
 
 if __name__ == "__main__":
     root = tk.Tk()
