@@ -1,7 +1,7 @@
 import datetime
 import tkinter as tk
 from tkinter import colorchooser, messagebox, ttk
-import dataset
+import dataset  
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
@@ -13,6 +13,12 @@ class DrawApp:
         self.root = root
         self.root.title("Data Draw")
         self.root.geometry("1200x800")
+
+        if not hasattr(dataset, 'df') or dataset.df is None:
+            if hasattr(dataset, 'load_data'):
+                dataset.load_data()
+            else:
+                dataset.df = pd.DataFrame(columns=['Нет данных'])
 
         self.df = dataset.df
         self.all_cols = self.df.columns.tolist()
@@ -236,10 +242,12 @@ class DrawApp:
         self.canvas.draw()
 
     def save_graph(self):
-        fname = datetime.datetime.now().strftime("graph%H_%M_%S.png")
-        self.fig.savefig(fname, bbox_inches="tight")
-        messagebox.showinfo("Сохранение", f"Файл {fname} сохранен")
-
+        fname = datetime.datetime.now().strftime("plot_%Y%m%d_%H%M%S.png")
+        try:
+            self.fig.savefig(fname, dpi=300)
+            messagebox.showinfo("Успех", f"График успешно сохранен как {fname}")
+        except Exception as e:
+            messagebox.showerror("Ошибка", f"Не удалось сохранить график: {e}")
 
 if __name__ == "__main__":
     root = tk.Tk()
