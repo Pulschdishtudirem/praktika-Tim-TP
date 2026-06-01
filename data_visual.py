@@ -7,17 +7,30 @@ import numpy as np
 import pandas as pd
 import dataset
 
+
 class VisualApp:
     def __init__(self, root):
         self.root = root
         self.root.title("Data visual")
         self.root.geometry("1200x900")
 
+        if not hasattr(dataset, 'df') or dataset.df is None:
+            if hasattr(dataset, 'load_data'):
+                dataset.load_data()
+            else:
+                dataset.df = pd.DataFrame()
+
         self.df = dataset.df
+
+        if self.df.empty:
+            messagebox.showerror("Ошибка", "Датасет пуст или файл 'dataset.csv' не найден!")
+            self.root.destroy()
+            return
+
         self.all_cols = self.df.columns.tolist()
 
         self.cmaps = [
-            'Accent', 'Blues', 'BrBG', 'BuGn', 'BuPu', 'Cmap', 'Dark2', 'GnBu',
+            'Accent', 'Blues', 'BrBG', 'BuGn', 'BuPu', 'Dark2', 'GnBu',
             'Greens', 'Greys', 'OrRd', 'Oranges', 'PRGn', 'Paired', 'Pastel1',
             'Pastel2', 'PiYG', 'PuBu', 'PuBuGn', 'PuOr', 'PuRd', 'Purples',
             'RdBu', 'RdGy', 'RdPu', 'RdYlBu', 'RdYlGn', 'Reds', 'Set1'
@@ -47,9 +60,12 @@ class VisualApp:
         canvas_y.pack(side=tk.LEFT, fill=tk.BOTH, expand=True)
         scrollbar_y.pack(side=tk.RIGHT, fill=tk.Y)
 
+        self.y_buttons = []
         for col in self.all_cols:
-            tk.Button(self.scroll_frame_y, text=col, width=18,
-                      command=lambda c=col: self.set_axis(c, 'y')).pack(pady=1)
+            btn = tk.Button(self.scroll_frame_y, text=col, width=18,
+                            command=lambda c=col: self.set_axis(c, 'y'))
+            btn.pack(pady=1)
+            self.y_buttons.append((col, btn))
 
         self.plot_frame = tk.Frame(self.main_frame)
         self.plot_frame.pack(side=tk.LEFT, fill=tk.BOTH, expand=True, padx=5, pady=5)
@@ -63,9 +79,12 @@ class VisualApp:
         x_btns_container = tk.Frame(self.bottom_panel)
         x_btns_container.pack(side=tk.TOP, fill=tk.X, pady=5)
         tk.Label(x_btns_container, text="", font=('Arial', 10, 'bold')).pack(side=tk.LEFT, padx=5)
+
+        self.x_buttons = []
         for col in self.all_cols:
-            tk.Button(x_btns_container, text=col, command=lambda c=col: self.set_axis(c, 'x')).pack(side=tk.LEFT,
-                                                                                                    padx=2)
+            btn = tk.Button(x_btns_container, text=col, command=lambda c=col: self.set_axis(c, 'x'))
+            btn.pack(side=tk.LEFT, padx=2)
+            self.x_buttons.append((col, btn))
 
         ctrl_frame = tk.Frame(self.bottom_panel)
         ctrl_frame.pack(side=tk.BOTTOM, fill=tk.X, pady=10)
@@ -87,6 +106,12 @@ class VisualApp:
         self.update_plot()
 
     def update_plot(self):
+        if hasattr(self, 'x_buttons') and hasattr(self, 'y_buttons'):
+            for col, btn in self.x_buttons:
+                btn.config(bg="lightblue" if col == self.x_col else "SystemButtonFace")
+            for col, btn in self.y_buttons:
+                btn.config(bg="lightblue" if col == self.y_col else "SystemButtonFace")
+
         self.ax.clear()
         self.ax.grid(True)
 
@@ -142,8 +167,11 @@ class VisualApp:
 
     def save_graph(self):
         fname = datetime.datetime.now().strftime("graph%H_%M_%S.png")
-        self.fig.savefig(fname, bbox_inches='tight', dpi=150)
-        messagebox.showinfo("Спасибо", f"Файл {fname} сохранен")
+        try:
+            self.fig.savefig(fname, bbox_inches='tight', dpi=150)
+            messagebox.showinfo("Спасибо", f"Файл {fname} сохранен")
+        except Exception as e:
+            messagebox.showerror("Ошибка", f"Не удалось сохранить график: {e}")
 
 
 if __name__ == "__main__":
